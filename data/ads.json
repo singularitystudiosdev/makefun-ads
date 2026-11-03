@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-03T19:43:51.900Z",
+  "generatedAt": "2026-11-03T20:33:37.264Z",
   "totals": {
-    "ads": 36,
-    "final": 36,
+    "ads": 38,
+    "final": 38,
     "unfinished": 0,
-    "clips": 58,
-    "seconds": 1266.36,
-    "bytes": 155752880
+    "clips": 62,
+    "seconds": 1497.29,
+    "bytes": 185053833
   },
   "ads": [
     {
@@ -1302,7 +1302,32 @@
           "hasAudio": true
         }
       ],
-      "alternates": [],
+      "alternates": [
+        {
+          "key": "agentfun-53s",
+          "label": "agent.fun cut, 53 s (v3)",
+          "src": "media/nanas-first-bounty/alt-agentfun-53s.mp4",
+          "poster": "media/nanas-first-bounty/alt-agentfun-53s.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 52.92,
+          "bytes": 6842402,
+          "hasAudio": true
+        },
+        {
+          "key": "agentfun-59s",
+          "label": "agent.fun cut, 59 s (v2)",
+          "src": "media/nanas-first-bounty/alt-agentfun-59s.mp4",
+          "poster": "media/nanas-first-bounty/alt-agentfun-59s.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 59,
+          "bytes": 7799018,
+          "hasAudio": true
+        }
+      ],
       "extras": [
         {
           "label": "$10,000 win moment",
@@ -2053,6 +2078,80 @@
           "bytes": 116294
         }
       ]
+    },
+    {
+      "id": "nanas-first-bounty-agentfun-59s",
+      "number": null,
+      "title": "Nana's First Bounty (agent.fun, 59 s remake)",
+      "logline": "Cold open on a grandma's screen-lit face, a beat drop on one click, then rags to riches.",
+      "summary": "A 59 second AI-generated remake of the Higgsfield grandma ad with its own cast and edit: it opens cold on Nana's face lit by the screen as she asks \"How do I make money with AI?\", cuts tighten to a music drop on the agent.fun reveal, and the payoff is a rags-to-riches run of wins. It ends on the agent.fun mark and \"make money with ai.\".",
+      "project": "agent.fun",
+      "location": "agent-fun/.tmp/nana/out",
+      "chat": "Remake Higgsfield grandma AI money video ad",
+      "status": "final",
+      "statusNote": "Branded agent.fun, make.fun's earlier name: made before the rebrand, it ends on the agent.fun mark.",
+      "madeAt": "2026-10-27",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "product demo",
+        "meme"
+      ],
+      "primary": "16x9",
+      "poster": "media/nanas-first-bounty-agentfun-59s/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/nanas-first-bounty-agentfun-59s/16x9.mp4",
+          "poster": "media/nanas-first-bounty-agentfun-59s/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 59.01,
+          "bytes": 6580264,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": []
+    },
+    {
+      "id": "nanas-first-bounty-agentfun-60s",
+      "number": null,
+      "title": "Nana's First Bounty (agent.fun, 60 s)",
+      "logline": "A grandma in her den asks how to make money with AI, and her agents start winning bounties.",
+      "summary": "A 60 second AI-generated remake of Higgsfield's \"make money with AI\" grandma ad: Nana, in a cosy den with her ginger cat, asks \"How do I make money with AI?\", finds agent.fun, enters all her agents and watches the wins arrive, with white floating UI inserts cut between the live action. It ends on the agent.fun mark and \"make money with ai.\".",
+      "project": "agent.fun",
+      "location": "agent-fun/.tmp/ad/out",
+      "chat": "Remake grandma AI money video ad",
+      "status": "final",
+      "statusNote": "Branded agent.fun, make.fun's earlier name: made before the rebrand, it ends on the agent.fun mark.",
+      "madeAt": "2026-10-27",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "product demo",
+        "meme"
+      ],
+      "primary": "16x9",
+      "poster": "media/nanas-first-bounty-agentfun-60s/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/nanas-first-bounty-agentfun-60s/16x9.mp4",
+          "poster": "media/nanas-first-bounty-agentfun-60s/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 60,
+          "bytes": 8079269,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": []
     }
   ],
   "excluded": [
@@ -2092,6 +2191,11 @@
       "reason": "Source footage and intermediates, never the final deliverable."
     },
     {
+      "what": "Ad 14 to 20, 25, 26, 32 to 35 and 37 (15 ad chats)",
+      "where": "chats \"Ad 14: Follow top traders (UGC 10)\" to \"Ad 37: Spot a trend, trade it\", opened in bulk by the \"Spawn agents for each pump.fun ad video\" chat",
+      "reason": "Opened but never started: none has a worktree, a file or more than its first ledger item, so no ad was rendered."
+    },
+    {
       "what": "ship-cam (Ship Cam, 320x480 HTML5 playable plus MP4)",
       "where": "ads/ship-cam on cosmos/*/chat branches 0708e490, 3b16b532, 8e6311dc, 9ab9c654, c184e44b, eb3d3a95 and worktrees of the same; chat \"Ad 29: Hey! Try this. (HTML5)\"",
       "reason": "The user asked for it to be removed (commit 830c9d0 on main), so it is not shown."
@@ -2112,9 +2216,14 @@
       "reason": "Only the capture and caption code with saved UI snapshots exist; no film or video was rendered."
     },
     {
-      "what": "Nana ad, earlier agent.fun-branded cuts (60 s final, 59 s final, 59 s v2, 53 s v3)",
-      "where": "agent-fun/.tmp/ad/out/agentfun_nana_60s_final.mp4, agent-fun/.tmp/nana/out/nana_agentfun_59s.mp4, /Users/adrianagne/Documents/cosmos/projects/agent-fun/.tmp/adb07/out/agentfun_nana_ad_v2_59s.mp4, /Users/adrianagne/Documents/cosmos/projects/agent-fun/.tmp/adb07/out/agentfun_nana_ad_v3_53s.mp4",
-      "reason": "branded agent.fun, not make.fun (superseded by the make.fun cut that is cataloged as nanas-first-bounty)"
+      "what": "Grandma knitting remake (Quick chats chat \"Grandma knitting remake of source video\")",
+      "where": "quick-chats",
+      "reason": "A superbot.gg ad remake, not a make.fun ad."
+    },
+    {
+      "what": "ctr-timelapse (presenter and end-card renders)",
+      "where": "Ouroboros frontend worktrees (repo ouroboro-thumbnails-frontend)",
+      "reason": "An Ouroboros thumbnails ad, not a make.fun ad."
     },
     {
       "what": "Nana ad, v4 and v5 make.fun cuts (old UI, other voices)",
