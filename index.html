@@ -21,10 +21,48 @@
     <link rel="apple-touch-icon" href="./brand/apple-touch-icon.png" />
     <link rel="preload" href="./brand/fonts/InterVariable.ttf" as="font" type="font/ttf" crossorigin />
     <title>make.fun ads</title>
-    <script type="module" crossorigin src="./assets/index-CArNnBRP.js"></script>
-    <link rel="stylesheet" crossorigin href="./assets/index-t1y7KBBQ.css">
+    <script type="module" crossorigin src="./assets/index-D2pKEwIc.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DdgCtD4M.css">
   </head>
   <body>
-    <div id="root"></div>
+    <!-- The shell below is what a visitor sees before React mounts, and all they see if the script fails (a
+         dropped connection, a browser too old to run it, or a cached page from before a deploy). It is replaced
+         the moment the app renders, and restyled by the same inline rules, so there is never an empty screen. -->
+    <div id="root">
+      <div id="boot" style="min-height:100dvh;background:#11141b;color:#e0e5ef;font:16px/1.5 system-ui,sans-serif;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:16px;padding:24px;text-align:center">
+        <img src="./brand/lockup-on-dark.svg" alt="make.fun" width="130" height="40" style="height:40px;width:auto" />
+        <p id="boot-status" style="margin:0;color:#bfc7dc;max-width:28em">Loading the gallery…</p>
+        <p id="boot-actions" style="margin:0;display:none">
+          <a href="./" style="display:inline-block;background:#c41c83;color:#fff;text-decoration:none;padding:12px 20px;border-radius:8px;font-weight:600">Reload the gallery</a>
+        </p>
+      </div>
+    </div>
+    <noscript>
+      <div style="background:#11141b;color:#e0e5ef;padding:24px;font:16px/1.5 system-ui,sans-serif">
+        <p>This gallery needs JavaScript to play the ads.</p>
+        <p><a href="data/ads.json" style="color:#ff88c4">Open the ad catalog</a> to see every file directly.</p>
+      </div>
+    </noscript>
+    <script>
+      // Anything that stops the app from starting says so, in place, with a way back in.
+      ;(function () {
+        var status = document.getElementById('boot-status')
+        var actions = document.getElementById('boot-actions')
+        function fail(why) {
+          if (!document.getElementById('root').querySelector('#boot')) return
+          if (status) status.textContent = why
+          if (actions) actions.style.display = 'block'
+        }
+        window.addEventListener('error', function (e) {
+          var t = e && e.target
+          if (t && t.tagName === 'SCRIPT') fail('A script did not load. Check your connection and reload.')
+          else if (e && e.message) fail('The gallery hit an error while starting: ' + e.message)
+        }, true)
+        window.addEventListener('unhandledrejection', function () {
+          fail('The gallery hit an error while starting.')
+        })
+        setTimeout(function () { fail('This is taking longer than usual. Check your connection, then reload.') }, 12000)
+      })()
+    </script>
   </body>
 </html>
