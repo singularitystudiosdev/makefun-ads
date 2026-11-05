@@ -1,14 +1,78 @@
 {
-  "generatedAt": "2026-11-05T05:16:31.090Z",
+  "generatedAt": "2026-11-05T07:25:43.828Z",
   "totals": {
-    "ads": 33,
-    "final": 33,
+    "ads": 35,
+    "final": 35,
     "unfinished": 0,
-    "clips": 33,
-    "seconds": 644.24,
-    "bytes": 68088447
+    "clips": 39,
+    "seconds": 797.44,
+    "bytes": 82250741
   },
   "ads": [
+    {
+      "id": "what-would-you-build",
+      "number": null,
+      "title": "What Would You Build?",
+      "logline": "An elder asks a cast of builders one question: what would you build?",
+      "summary": "A 57 s brand film inspired by Polymarket's \"Questions are everything\" (x.com/Polymarket/status/2069455471866433555), sharing only its genre devices: locked-off tableau portraits of an AI-generated adult cast of builders, each against a bold craft backdrop, a rubato piano under the elder's question, a breakbeat drop into a barrage of one-question title cards, a six-face eye montage, a hard cut to silence and the make.fun lockup on the elder's face. Re-cut in its X compliance pass.",
+      "project": "make.fun auto",
+      "location": "ads/what-would-you-build on main",
+      "chat": "Polymarket loop ad 1: Questions Are Everything",
+      "status": "final",
+      "statusNote": "Re-cut in its X compliance chat and reviewed clause by clause against 194 clauses of X's live Terms of Service and ads policies on 2026-11-05 (ads/what-would-you-build/X-REVIEW.md): the film, music and post copy pass; the landing page, the advertiser category and the ads account still fail, so it cannot run on X yet.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent"
+      ],
+      "primary": "16x9",
+      "poster": "media/what-would-you-build/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/what-would-you-build/16x9.mp4",
+          "poster": "media/what-would-you-build/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 57,
+          "bytes": 6383735,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/what-would-you-build/1x1.mp4",
+          "poster": "media/what-would-you-build/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 57,
+          "bytes": 5093426,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot of the 16:9 cut",
+          "kind": "image",
+          "src": "media/what-would-you-build/extra-1.jpg",
+          "width": 1600,
+          "height": 918,
+          "bytes": 259972
+        },
+        {
+          "label": "Every shot cropped to the 1:1 square",
+          "kind": "image",
+          "src": "media/what-would-you-build/extra-2.jpg",
+          "width": 1600,
+          "height": 1333,
+          "bytes": 408538
+        }
+      ]
+    },
     {
       "id": "fries-to-first",
       "number": 28,
@@ -711,6 +775,88 @@
       ],
       "alternates": [],
       "extras": []
+    },
+    {
+      "id": "claw",
+      "number": null,
+      "title": "The Claw",
+      "logline": "A chrome arcade claw lowers onto a bed of magenta tiles, grabs the one whose screen lights up with the make.fun mark, and lifts it.",
+      "summary": "A 10.3 s Blender-rendered film in the craft of a reference arcade-claw ad: a dense bed of satin magenta tiles labelled build, code, repo, automate, reconcile and ledger, a chrome claw on a taut cable and a coiled cord, and a glossy black screen that ignites into the official mark. It ends on a make.fun end card: the lockup and the line \"Your coding agent builds it.\" Foley sound with a short generated end sting; an 8.3 s scene-only loop cut is the alternate.",
+      "project": "make.fun auto",
+      "location": "ads/claw on main",
+      "chat": "The Claw: arcade claw 3D ad for make.fun",
+      "status": "final",
+      "statusNote": "Built X-safe and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-04 (ads/claw/X-COMPLIANCE.md): the film, end card and promotable copy pass; the ads account and the landing page still need X's approval before it can run.",
+      "madeAt": "2026-11-04",
+      "kind": "video",
+      "tags": [
+        "3D",
+        "motion graphics"
+      ],
+      "primary": "4x5",
+      "poster": "media/claw/4x5.jpg",
+      "variants": [
+        {
+          "key": "4x5",
+          "label": "4:5 master",
+          "src": "media/claw/4x5.mp4",
+          "poster": "media/claw/4x5.jpg",
+          "width": 720,
+          "height": 900,
+          "fps": 30,
+          "duration": 10.3,
+          "bytes": 476644,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/claw/9x16.mp4",
+          "poster": "media/claw/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 10.3,
+          "bytes": 497720,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/claw/1x1.mp4",
+          "poster": "media/claw/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 10.3,
+          "bytes": 435923,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [
+        {
+          "key": "loop",
+          "label": "Scene only, 8.3 s, no end card (4:5)",
+          "src": "media/claw/alt-loop.mp4",
+          "poster": "media/claw/alt-loop.jpg",
+          "width": 720,
+          "height": 900,
+          "fps": 30,
+          "duration": 8.3,
+          "bytes": 427813,
+          "hasAudio": true
+        }
+      ],
+      "extras": [
+        {
+          "label": "Contact sheet, 12 frames of the 4:5 cut",
+          "kind": "image",
+          "src": "media/claw/extra-1.jpg",
+          "width": 1600,
+          "height": 662,
+          "bytes": 178523
+        }
+      ]
     },
     {
       "id": "climb",
