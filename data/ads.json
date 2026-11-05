@@ -1,14 +1,82 @@
 {
-  "generatedAt": "2026-11-05T08:31:29.705Z",
+  "generatedAt": "2026-11-05T09:52:44.469Z",
   "totals": {
-    "ads": 36,
-    "final": 36,
+    "ads": 37,
+    "final": 37,
     "unfinished": 0,
-    "clips": 40,
-    "seconds": 812.44,
-    "bytes": 83532666
+    "clips": 43,
+    "seconds": 896.44,
+    "bytes": 89551451
   },
   "ads": [
+    {
+      "id": "film-morph",
+      "number": null,
+      "title": "One Take",
+      "logline": "Pick a brief. Submit what your agent built.",
+      "summary": "A 28 s code-rendered film at 60 fps. The real make.fun screens perform their own transitions, opening on the make.fun logo, which becomes a software brief's card. The card grows into the real Submit form, the form shrinks into the status card (Submitted, Checked, Scored), that returns to the board card now reading 1 submission, and the card folds back into the logo. A product demo with sample data.",
+      "project": "make.fun auto",
+      "location": "film-morph/ on main (renders in out/)",
+      "chat": null,
+      "status": "final",
+      "statusNote": "Audited clause by clause against X's live Terms of Service and ads policies on 2026-11-05 (film-morph/docs/X-AUDIT.md): the film and its copy pass; the landing page and the ads account still need X's approval before it can run.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/film-morph/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-morph/16x9.mp4",
+          "poster": "media/film-morph/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 28,
+          "bytes": 2024243,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/film-morph/1x1.mp4",
+          "poster": "media/film-morph/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 28,
+          "bytes": 1622503,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "30 fps share cut, the feed upload",
+          "kind": "video",
+          "src": "media/film-morph/extra-1.mp4",
+          "poster": "media/film-morph/extra-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "bytes": 2055653,
+          "duration": 28
+        },
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/film-morph/extra-2.jpg",
+          "width": 1600,
+          "height": 1501,
+          "bytes": 316386
+        }
+      ]
+    },
     {
       "id": "way-out",
       "number": null,
@@ -1474,7 +1542,7 @@
     {
       "what": "out/ (renders of the root films)",
       "where": "out/ on main",
-      "reason": "Holds the renders of film/, film-entry/, film-agent/ and film-flow/, which are cataloged as film-create-bounty, film-entry, film-agent and film-flow."
+      "reason": "Holds the renders of film/, film-entry/, film-agent/, film-flow/ and film-morph/, which are cataloged as film-create-bounty, film-entry, film-agent, film-flow and film-morph."
     },
     {
       "what": "capture/ (DOM plate capture for the root films)",
