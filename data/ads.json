@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T09:52:44.469Z",
+  "generatedAt": "2026-11-05T10:53:48.121Z",
   "totals": {
     "ads": 37,
     "final": 37,
@@ -1481,7 +1481,7 @@
       "location": "ads/still-cant-code on main",
       "chat": "Loop ad 1: Normie get rich",
       "status": "final",
-      "statusNote": "Built X-safe and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-04 (ads/still-cant-code/X-COMPLIANCE.md): the film and its copy pass; the ads account and the landing page still need X's approval before it can run.",
+      "statusNote": "Built X-safe and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-04 (ads/still-cant-code/X-COMPLIANCE.md). A stricter standard adopted on 2026-11-05 (.cosmos/rules/ads.mdc) fails five of its lines as too close to the reference ad's, so a second X review and a re-voice are queued; the ads account and the landing page also still need X's approval before it can run.",
       "madeAt": "2026-11-04",
       "kind": "video",
       "tags": [
