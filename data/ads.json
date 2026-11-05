@@ -1,14 +1,70 @@
 {
-  "generatedAt": "2026-11-05T16:03:35.664Z",
+  "generatedAt": "2026-11-05T18:50:01.373Z",
   "totals": {
-    "ads": 39,
-    "final": 39,
-    "unfinished": 0,
-    "clips": 47,
-    "seconds": 1000.94,
-    "bytes": 100496490
+    "ads": 47,
+    "final": 40,
+    "unfinished": 7,
+    "clips": 67,
+    "seconds": 1614.24,
+    "bytes": 156434105
   },
   "ads": [
+    {
+      "id": "always-this-easy",
+      "number": null,
+      "title": "Done!",
+      "logline": "He built the whole thing. Each era asks for more, and she keeps the stone.",
+      "summary": "A 43.5 s live-action comedy skit (AI-generated, invented characters) after the genre devices of a trading-app spot, with none of its shots or lines. At a night laundromat Maya pastes one command into a laptop and Leo is amazed that it builds the whole thing. The camera spins through a tumbling dryer window into a cave, ancient Egypt and a castle, where Leo presents his build (\"Done!\") and each era asks for more or drops a stone on Maya's foot. A last spin drops them back in the laundromat aisle, where Leo lifts the square stone wheel out of a washer and Maya, one leg up, deadpans \"Keep it.\" The end card reads \"Your agent builds it.\" Delivered in 16:9 and 1:1; this is the X compliance cut, with the printed file name removed, the castle shot smoke only and every generated asset made by Google or in code.",
+      "project": "make.fun auto",
+      "location": "ads/always-this-easy on branch cosmos/b084bd26-f2e7-4c40-90a3-b4ab740fee4d/21 (snapshot ab4a4eb)",
+      "chat": "Webull loop ad 1 X ToS: Done!",
+      "status": "unfinished",
+      "statusNote": "Rebuilt on 2026-11-05 as an X compliance cut (no printed file name, a smoke-only castle shot, every generated asset made by Google or in code, 18 of 18 build checks passing), and an independent measurement of the files was written. No clause-by-clause X verdict exists: the X-REVIEW.md its README names was never written, because the review chat was paused first. The cut shown is the newest committed snapshot. The ads account and the landing page also still block it. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent"
+      ],
+      "primary": "16x9",
+      "poster": "media/always-this-easy/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/always-this-easy/16x9.mp4",
+          "poster": "media/always-this-easy/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 43.46,
+          "bytes": 7609349,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/always-this-easy/1x1.mp4",
+          "poster": "media/always-this-easy/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 43.46,
+          "bytes": 5366949,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet of the 16:9 cut",
+          "kind": "image",
+          "src": "media/always-this-easy/extra-1.jpg",
+          "width": 1600,
+          "height": 909,
+          "bytes": 351337
+        }
+      ]
+    },
     {
       "id": "film-morph",
       "number": null,
@@ -78,6 +134,167 @@
       ]
     },
     {
+      "id": "idle-agent",
+      "number": null,
+      "title": "The Idle Agent",
+      "logline": "Your coding agent can read a brief, plan the work, write the code and test it. Most days we ask it to rename a variable.",
+      "summary": "A 39.6 s film made only of type: a calm narrator crawls upward over a flat dark canvas, and a coding agent types two lines of its own while the crawl is halted (\"Done. Anything bigger?\" and \"Now we're talking.\"). It takes only the genre devices of a text-only, score-led crawl with a comic deflation, a brand reveal on its own line and a held close. The picture is drawn in code and the score is synthesised in code: no generative model made any frame or sound, and there is no presenter, footage or voice-over. Delivered in 16:9, 1:1 and 9:16, each with a 15 s cutdown and captions.",
+      "project": "make.fun auto",
+      "location": "ads/idle-agent on main",
+      "chat": "Binance ad 02: X TOS compliance",
+      "status": "unfinished",
+      "statusNote": "Rendered in six cuts with all 363 of its build checks passing, but its clause-by-clause X review was unfinished when its chat was paused on 2026-11-05: the live X pages were re-read and the 278-clause index re-verified (ads/idle-agent/review/x-policy/), and no verdict had been written to ads/idle-agent/X-COMPLIANCE.md. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "motion graphics"
+      ],
+      "primary": "16x9",
+      "poster": "media/idle-agent/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/idle-agent/16x9.mp4",
+          "poster": "media/idle-agent/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 39.6,
+          "bytes": 2087650,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/idle-agent/1x1.mp4",
+          "poster": "media/idle-agent/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 39.6,
+          "bytes": 1731776,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/idle-agent/9x16.mp4",
+          "poster": "media/idle-agent/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 39.6,
+          "bytes": 2044533,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [
+        {
+          "key": "15s-16x9",
+          "label": "15 s cutdown, 16:9",
+          "src": "media/idle-agent/alt-15s-16x9.mp4",
+          "poster": "media/idle-agent/alt-15s-16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 678157,
+          "hasAudio": true
+        },
+        {
+          "key": "15s-1x1",
+          "label": "15 s cutdown, 1:1",
+          "src": "media/idle-agent/alt-15s-1x1.mp4",
+          "poster": "media/idle-agent/alt-15s-1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 571966,
+          "hasAudio": true
+        },
+        {
+          "key": "15s-9x16",
+          "label": "15 s cutdown, 9:16",
+          "src": "media/idle-agent/alt-15s-9x16.mp4",
+          "poster": "media/idle-agent/alt-15s-9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 638842,
+          "hasAudio": true
+        }
+      ],
+      "extras": [
+        {
+          "label": "Contact sheet, 12 frames of the 16:9 film",
+          "kind": "image",
+          "src": "media/idle-agent/extra-1.jpg",
+          "width": 1600,
+          "height": 680,
+          "bytes": 87814
+        }
+      ]
+    },
+    {
+      "id": "karaoke",
+      "number": null,
+      "title": "Agent Karaoke",
+      "logline": "The dullest real software brief on the site, sung as an earnest power ballad on a karaoke screen.",
+      "summary": "A 29 s karaoke-screen film after the genre devices of a Super Bowl sing-along spot, in 16:9 and 9:16. A lone AI voice sings a real software brief, \"Close a month of books so every number reconciles\", as a 1980s power ballad while the official make.fun mark bounces from word to word and each word fills magenta. On the band's hit a rock band and crowd answer in magenta pills, and three words slam in on their beats before a hard cut to the end card: \"That was a real software brief for your coding agent.\" The song and vocals are AI-generated and every frame says so, and an AI announcer says it before the first sung word. The picture is drawn in code. This is the re-cut for X: the wordmark sits in the upper-left corner of every frame and no drawn string carries an exclamation mark.",
+      "project": "make.fun auto",
+      "location": "ads/karaoke on branch cosmos/b8c9d06e-707e-454b-b5bf-cc410291b447/chat (commit 6e57cfb)",
+      "chat": "Coinbase loop ToS 2: Agent Karaoke",
+      "status": "unfinished",
+      "statusNote": "Re-cut for X on 2026-11-05 (a corner wordmark, no exclamation marks, a spoken AI disclosure, X upload encodes). Its review chat wrote three sections of the clause-by-clause X review (Terms of Service, ads policies, X Rules with the legal and generator terms) that found no failing row on the picture, sound or post copy, and was paused before ads/karaoke/X-COMPLIANCE.md was assembled, so there is no final verdict. The sections fail the landing page, the advertiser and the ads account. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "motion graphics"
+      ],
+      "primary": "16x9",
+      "poster": "media/karaoke/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/karaoke/16x9.mp4",
+          "poster": "media/karaoke/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 29,
+          "bytes": 954225,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/karaoke/9x16.mp4",
+          "poster": "media/karaoke/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 29,
+          "bytes": 912406,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet of the 16:9 film",
+          "kind": "image",
+          "src": "media/karaoke/extra-1.jpg",
+          "width": 1600,
+          "height": 811,
+          "bytes": 156817
+        }
+      ]
+    },
+    {
       "id": "make-it",
       "number": null,
       "title": "Make It",
@@ -142,6 +359,120 @@
       ]
     },
     {
+      "id": "once-in-a-while",
+      "number": null,
+      "title": "Every Once in a While",
+      "logline": "Give your agent a brief, and make it fun.",
+      "summary": "A 30 s sing-along spot after the genre devices of a sung sports anthem (everyday people with their phones, lines acted out literally, a quiet shared moment, a brand super and a comic button), with none of its shots, lines or music. An original AI baritone sings a verse that quotes a real software brief, \"close a month of books ... make the numbers reconcile\", and every line is acted out: a library book club snaps its books shut, two neighbours shake hands over a hedge, a phone gets the brief and a hotel guest taps the desk bell. The make.fun lockup lands on the end card and sits small in the upper left of every frame. Every person, scene and the song are AI-generated, and the film opens and closes with a burned-in \"AI-generated dramatization\" label. Delivered in 16:9 and 9:16 (not for X).",
+      "project": "make.fun auto",
+      "location": "ads/once-in-a-while on branch cosmos/0f5ac2a3-ead6-454b-ba81-67f534fe3737/chat (commit cc0d5c2)",
+      "chat": "DK loop ToS 2: Every Once in a While",
+      "status": "final",
+      "statusNote": "Re-cut in its X compliance chat (a persistent corner lockup, a phone command without the domain, and a burned-in AI-generated dramatization label that opens the film and repeats on the end card) and audited clause by clause against X's live Terms of Service and ads policies on 2026-11-05, revision 3 (ads/once-in-a-while/X-COMPLIANCE.md): the film, its post copy and the 16:9 upload format pass, and the 9:16 cut is not for X. It cannot run on X yet: the landing page, the advertiser category and the ads account fail, and an organic post waits for a cut with a spoken AI disclosure, which was being added when the chat was paused.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent"
+      ],
+      "primary": "16x9",
+      "poster": "media/once-in-a-while/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/once-in-a-while/16x9.mp4",
+          "poster": "media/once-in-a-while/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 30,
+          "bytes": 3526389,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16 (not for X)",
+          "src": "media/once-in-a-while/9x16.mp4",
+          "poster": "media/once-in-a-while/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 24,
+          "duration": 30,
+          "bytes": 2608317,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot of the 16:9 cut",
+          "kind": "image",
+          "src": "media/once-in-a-while/extra-1.jpg",
+          "width": 1600,
+          "height": 900,
+          "bytes": 279984
+        }
+      ]
+    },
+    {
+      "id": "portal",
+      "number": null,
+      "title": "Portal",
+      "logline": "A bored night in a laundromat, a phone that buzzes on a washer lid, a watch that pings, a dryer window that becomes a portal, a neon construction site, a 1970s punch-card computer room and an observatory, then back to the bench where her coding agent builds it.",
+      "summary": "A 30 s AI-generated short after Stake's \"It's All At Stake!\", re-staged for X policy a fourth time (amendment 4). A bored young woman on a bench in a late-night laundromat watches her phone buzz face-down on a washer lid, the room drains to grey but for the phone's magenta glow, a smartwatch pings and the dryer window swirls into a portal. She dives through into three first-person worlds: a neon construction site, a 1970s punch-card computer room where a brass scale settles, and an observatory under the stars where a capsule descends. Back on the bench she holds a punch card, pastes one line into her laptop and kinetic end type says SEND YOUR AGENT IN. Delivered in 16:9 and 1:1, with the contact sheet as an extra.",
+      "project": "make.fun auto",
+      "location": "ads/portal, amendment 4 renders in the uncommitted worktree of Portal chat item #72",
+      "chat": "Stake ad 1: It's All At Stake",
+      "status": "unfinished",
+      "statusNote": "The amendment 4 cut (laundromat, smartwatch ping, computer room, observatory), rebuilt on 2026-11-05 after the earlier cut failed its X review (ads/portal/X-COMPLIANCE.md: the strict reference-distance judge flagged the diner, office and grader worlds, and organic and paid both failed). This cut was not reviewed: its strict judge runs were unfinished when the chat was paused, and its files were still uncommitted. Paid is also blocked by the landing page, the advertiser category and the ads account. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "motion graphics",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/portal/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/portal/16x9.mp4",
+          "poster": "media/portal/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 5894965,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/portal/1x1.mp4",
+          "poster": "media/portal/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 4019312,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one cell per shot",
+          "kind": "image",
+          "src": "media/portal/extra-1.jpg",
+          "width": 1600,
+          "height": 1535,
+          "bytes": 397478
+        }
+      ]
+    },
+    {
       "id": "road-trip",
       "number": null,
       "title": "Road Trip",
@@ -195,6 +526,51 @@
           "width": 1600,
           "height": 540,
           "bytes": 128183
+        }
+      ]
+    },
+    {
+      "id": "seen-it",
+      "number": null,
+      "title": "Exists",
+      "logline": "Milo pitches an app idea to the group chat and the group chat has one word for it.",
+      "summary": "A 27 s square friends-roast skit after the genre devices of a group-chat sketch. Milo, in bed, pitches the group chat a social network for houseplants; his friends Jay and Priya answer \"Exists.\" and \"Also exists.\" Deflated, he asks what does not exist, and Jay says \"Your app.\" Then Milo sees a posted software brief, taps the copy button, pastes the command into a laptop and his coding agent works. Next morning in a cafe Jay pitches \"AI agents build what people ask for\", Milo answers \"Exists.\" and holds up his phone, and the friends' dunk word comes back as his twist: \"Exists now.\" The cast and voices are AI-generated adults, the phone and laptop screens are labelled as simulated, and the music is synthesised in code.",
+      "project": "make.fun auto",
+      "location": "ads/seen-it on branch cosmos/f5b85d23-dff3-468a-9e6b-aa50c8f61450/chat (commit 0dfd831)",
+      "chat": "Loop ad 2 ToS: Exists",
+      "status": "unfinished",
+      "statusNote": "Its clause-by-clause X review (ads/seen-it/X-REVIEW.md, 2026-11-05) failed the creative on 8 rows: the phone and laptop screens showed a flow the live product does not offer with nothing saying they were staged, and the rights to the generated picture and voices could not be shown. The film was then rebuilt with an on-screen 'Screen images simulated.' label and was being cleaned of a phone-notch detail when the chat was paused, and it was not reviewed again. The cut shown is the last committed one. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "screen capture"
+      ],
+      "primary": "1x1",
+      "poster": "media/seen-it/1x1.jpg",
+      "variants": [
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/seen-it/1x1.mp4",
+          "poster": "media/seen-it/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 27.08,
+          "bytes": 2008344,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/seen-it/extra-1.jpg",
+          "width": 1600,
+          "height": 1281,
+          "bytes": 328949
         }
       ]
     },
@@ -305,6 +681,141 @@
           "width": 1600,
           "height": 1333,
           "bytes": 408538
+        }
+      ]
+    },
+    {
+      "id": "who-checked-it",
+      "number": null,
+      "title": "Who Checked It?",
+      "logline": "Every build gets checked.",
+      "summary": "A 32.5 s film after the storytelling devices of a prediction-market launch spot, with none of its clips, posts, screens or words. Six quick doubts flash up (\"AI wrote it?\", \"Does it even run?\", \"It made that up.\", \"Works on the demo.\", \"Can anyone see it?\", \"Who checked it?\"), then a sample coding-agent session works through a real software brief. \"Who checked it?\" fills the screen, five of the real automatic checks appear and each one ticks and crosses out its matching doubt, and the camera dives into the magenta disc as the beat drops on the make.fun mark. The end card reads \"Software briefs for AI coding agents.\" The picture and the sound are made in code. Delivered in 16:9, 1:1 and 9:16, each rendered separately.",
+      "project": "make.fun auto",
+      "location": "ads/who-checked-it on branch cosmos/875cb539-ca11-4c9f-a7b2-6dcdbffc46be/5 (snapshot 2ad79ad)",
+      "chat": "Polymarket loop ad 3: The App Everyone Has Been Waiting For",
+      "status": "unfinished",
+      "statusNote": "Rendered in 16:9, 1:1 and 9:16 on 2026-11-05 with its sound mixed and encoded, but its assembly and QA item was cancelled when the chat was paused, so its checks are unconfirmed, and no X review has started. The files shown are the newest committed snapshot. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/who-checked-it/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/who-checked-it/16x9.mp4",
+          "poster": "media/who-checked-it/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 32.5,
+          "bytes": 1921403,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/who-checked-it/1x1.mp4",
+          "poster": "media/who-checked-it/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 32.5,
+          "bytes": 1408761,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/who-checked-it/9x16.mp4",
+          "poster": "media/who-checked-it/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 32.5,
+          "bytes": 1677496,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet of the 16:9 cut",
+          "kind": "image",
+          "src": "media/who-checked-it/extra-1.jpg",
+          "width": 1600,
+          "height": 988,
+          "bytes": 185553
+        }
+      ]
+    },
+    {
+      "id": "your-move",
+      "number": null,
+      "title": "By Hand",
+      "logline": "Every month someone closes the books by hand. Hand it to your agent.",
+      "summary": "A 30-second brand film in 16:9 and 9:16: a bookbinder, a ceramicist, a builder at a kitchen table and a mechanic's hands, each absorbed in exact work, while thin graphics draw the real checks of a posted software brief into their world. The cast and the voice are AI-generated and the score is synthesised in code.",
+      "project": "make.fun auto",
+      "location": "ads/your-move on main",
+      "chat": "Robinhood loop ad 1 X-TOS: By Hand",
+      "status": "unfinished",
+      "statusNote": "Built X-safe and reviewed clause by clause on 2026-11-05 (ads/your-move/X-COMPLIANCE.md): the words, disclosure and code-made score pass, but the review fails the creative because the rights to sublicense its AI-generated picture and voice to X are unclear, and the landing page fails. A second pass (a voice from an open-licence model run locally, and the picture regenerated on open-licence models) was still running when the chat was paused, so the cut shown is the reviewed one. Not cleared for X.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "motion graphics",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/your-move/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/your-move/16x9.mp4",
+          "poster": "media/your-move/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 30,
+          "bytes": 3967061,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/your-move/9x16.mp4",
+          "poster": "media/your-move/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 24,
+          "duration": 30,
+          "bytes": 4188226,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Poster, 9:16",
+          "kind": "image",
+          "src": "media/your-move/extra-1.jpg",
+          "width": 900,
+          "height": 1600,
+          "bytes": 152963
+        },
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/your-move/extra-2.jpg",
+          "width": 1600,
+          "height": 507,
+          "bytes": 180593
         }
       ]
     },
@@ -1016,7 +1527,7 @@
       "number": null,
       "title": "The Claw",
       "logline": "A gripper on a slide rod comes down onto a keyboard of magenta keycaps, takes the one white key printed with the ghost mark, and pops it off its switch.",
-      "summary": "A 10.3 s Blender-rendered film, set from a high angle on a dark desk: a large keyboard of satin magenta keycaps (some printed with code, automate, reconcile and agent, plus build and repo in the 9:16 cut), a matte graphite two-finger gripper on a straight slide rod, and one taller white key printed with the official ghost mark that the gripper takes and pops off its switch, with the brand lockup in the top-left corner throughout. It ends on an end card: the lockup and the line \"Your coding agent builds it.\" Every sound is synthesised in code, with no AI-generated audio; an 8.3 s scene-only loop cut is the alternate. Revision 4 keeps only the genre device of its reference (a machine picks the one branded piece) and changes the styling, pose and backdrop.",
+      "summary": "A 10.3 s Blender-rendered film, set from a high angle on a dark desk: a large keyboard of satin magenta keycaps (some printed with code, automate, reconcile and agent, plus build and repo in the 9:16 cut), a matte graphite two-finger gripper on a straight slide rod, and one taller white key printed with the official ghost mark that the gripper takes and pops off its switch, with the brand lockup in the top-left corner throughout. It ends on an end card: the lockup and the line \"Your coding agent builds it.\" Every sound is synthesised in code, with no AI-generated audio; an 8.3 s scene-only loop cut is the alternate. Revision 5 keeps only the genre device of its reference (a machine picks the one branded piece) and changes the styling, pose and backdrop.",
       "project": "make.fun auto",
       "location": "ads/claw on main",
       "chat": "The Claw: arcade claw 3D ad for make.fun",
@@ -1691,6 +2202,11 @@
       "reason": "The user asked for it to be removed (commit ea14f0a); it is no longer in any branch tip."
     },
     {
+      "what": "film-dive (The Dive, a root film like film-flow)",
+      "where": "film-dive/ on branch cosmos/1059e765-8f48-478e-afc1-ece2679c032d/chat (chat \"Bounty ad loop 3: make\")",
+      "reason": "Film and score code only (a 27 s film in the making); no MP4 or still of it was rendered, only QA contact sheets."
+    },
+    {
       "what": "home-tonight (She said she was home)",
       "where": "ads/home-tonight on branches cosmos/09579427-51ec-44f1-83a0-4f5ba8337083/{2,3,4}; chat \"Ad 30: She said she was home\"",
       "reason": "Only audio tooling and voice casting auditions exist; no film, still or video was ever rendered."
@@ -1773,7 +2289,12 @@
     {
       "what": "Other Cosmos projects and worktree sets",
       "where": "projects/* (26 folders) and Cosmos/worktrees/* except c11cfa1601da28ae",
-      "reason": "grep for make.fun / makefun found no ad media; the only hits were the Nana ad worktree (published as agentfun-ad), a make.fun memecoin bot kit and mockup source"
+      "reason": "grep for make.fun / makefun found no ad media; the only hits were the Nana ad worktree (published as agentfun-ad), a make.fun memecoin bot kit and mockup source. The 2026-11-05 re-sweep found nothing newer: the MP4s written since 2026-11-03 belong to other brands (Ouroboro, Reverie, Maya)"
+    },
+    {
+      "what": "X upload packaging of the make.fun ads (makefun-x-ads, makefun-x-fix, devmakefun-banner)",
+      "where": "quick-chats/.tmp/makefun-x-ads, quick-chats/.tmp/makefun-x-fix, quick-chats/.tmp/devmakefun-banner",
+      "reason": "A re-export of ads already cataloged (manifest and uploaded.json of the x-safe set), the audit chat's rework scratch and an X profile banner: no ad of its own"
     },
     {
       "what": "check-the-grader (Check the Grader)",
