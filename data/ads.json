@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T01:59:21.520Z",
+  "generatedAt": "2026-11-05T03:29:20.804Z",
   "totals": {
-    "ads": 31,
-    "final": 31,
+    "ads": 32,
+    "final": 32,
     "unfinished": 0,
-    "clips": 29,
-    "seconds": 513.7,
-    "bytes": 51840670
+    "clips": 30,
+    "seconds": 554.24,
+    "bytes": 61662312
   },
   "ads": [
     {
@@ -1142,6 +1142,52 @@
       ],
       "alternates": [],
       "extras": []
+    },
+    {
+      "id": "still-cant-code",
+      "number": null,
+      "title": "Still Can't Code",
+      "logline": "Can't code? Your agent can.",
+      "summary": "A 40.5 s 3D-animated skit. Kenji, a restaurant worker with a three-year-old app idea, hears about make.fun from his coworker Rosa on a rainy break, pastes one line into his coding agent and watches the submission checks come back passing. Next morning, in sunglasses: \"Bro, remember when we couldn't code?\" \"We still can't.\" A dramatization with AI-generated characters and voices.",
+      "project": "make.fun auto",
+      "location": "ads/still-cant-code on main",
+      "chat": "Loop ad 1: Normie get rich",
+      "status": "final",
+      "statusNote": "Built X-safe and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-04 (ads/still-cant-code/X-COMPLIANCE.md): the film and its copy pass; the ads account and the landing page still need X's approval before it can run.",
+      "madeAt": "2026-11-04",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "motion graphics",
+        "product demo"
+      ],
+      "primary": "9x16",
+      "poster": "media/still-cant-code/9x16.jpg",
+      "variants": [
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/still-cant-code/9x16.mp4",
+          "poster": "media/still-cant-code/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 24,
+          "duration": 40.54,
+          "bytes": 9467431,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one cell per shot",
+          "kind": "image",
+          "src": "media/still-cant-code/extra-1.jpg",
+          "width": 1364,
+          "height": 1600,
+          "bytes": 354211
+        }
+      ]
     }
   ],
   "excluded": [
