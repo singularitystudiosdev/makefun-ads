@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T11:19:33.361Z",
+  "generatedAt": "2026-11-05T14:13:06.283Z",
   "totals": {
     "ads": 38,
     "final": 38,
     "unfinished": 0,
     "clips": 45,
     "seconds": 976.44,
-    "bytes": 101287369
+    "bytes": 100813394
   },
   "ads": [
     {
@@ -951,13 +951,13 @@
       "id": "claw",
       "number": null,
       "title": "The Claw",
-      "logline": "A chrome arcade claw lowers onto a bed of magenta tiles, grabs the one whose screen lights up with the make.fun mark, and lifts it.",
-      "summary": "A 10.3 s Blender-rendered film in the craft of a reference arcade-claw ad: a dense bed of satin magenta tiles labelled build, code, repo, automate, reconcile and ledger, a chrome claw on a taut cable and a coiled cord, and a glossy black screen that ignites into the official mark. It ends on a make.fun end card: the lockup and the line \"Your coding agent builds it.\" Foley sound with a short generated end sting; an 8.3 s scene-only loop cut is the alternate.",
+      "logline": "A gripper on a slide rod comes down onto a keyboard of magenta keycaps, takes the one white key printed with the ghost mark, and pops it off its switch.",
+      "summary": "A 10.3 s Blender-rendered film, set from a high angle on a dark desk: a large keyboard of satin magenta keycaps (some printed with code, automate, reconcile and agent, plus build and repo in the 9:16 cut), a matte graphite two-finger gripper on a straight slide rod, and one taller white key printed with the official ghost mark that the gripper takes and pops off its switch, with the brand lockup in the top-left corner throughout. It ends on an end card: the lockup and the line \"Your coding agent builds it.\" Every sound is synthesised in code, with no AI-generated audio; an 8.3 s scene-only loop cut is the alternate. Revision 4 keeps only the genre device of its reference (a machine picks the one branded piece) and changes the styling, pose and backdrop.",
       "project": "make.fun auto",
       "location": "ads/claw on main",
       "chat": "The Claw: arcade claw 3D ad for make.fun",
       "status": "final",
-      "statusNote": "Built X-safe and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-04 (ads/claw/X-COMPLIANCE.md): the film, end card and promotable copy pass; the ads account and the landing page still need X's approval before it can run.",
+      "statusNote": "Final cut (revision 5, 2026-11-05), reviewed clause by clause against X's live Terms of Service (every paragraph, both versions), Purchaser Terms, Master Services Agreement, X Rules and ads policies (ads/claw/X-COMPLIANCE.md). The creative passes every clause checked: the films, end card, captions, copy and sound. No keycap legend is cut or half-covered, the picture takes only the genre device of its reference (an independent model check agrees), and every sound is synthesised in code and soft (-26.6 LUFS), judged acceptable by a blind comparison and a final listen that rated the earlier sound poorly. A launch still waits on a landing page that passes X's ads policies and on the ads account, so it cannot run on X yet.",
       "madeAt": "2026-11-04",
       "kind": "video",
       "tags": [
@@ -976,7 +976,7 @@
           "height": 900,
           "fps": 30,
           "duration": 10.3,
-          "bytes": 476644,
+          "bytes": 358586,
           "hasAudio": true
         },
         {
@@ -988,7 +988,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 10.3,
-          "bytes": 497720,
+          "bytes": 387758,
           "hasAudio": true
         },
         {
@@ -1000,7 +1000,7 @@
           "height": 720,
           "fps": 30,
           "duration": 10.3,
-          "bytes": 435923,
+          "bytes": 340248,
           "hasAudio": true
         }
       ],
@@ -1014,7 +1014,7 @@
           "height": 900,
           "fps": 30,
           "duration": 8.3,
-          "bytes": 427813,
+          "bytes": 310436,
           "hasAudio": true
         }
       ],
@@ -1025,7 +1025,7 @@
           "src": "media/claw/extra-1.jpg",
           "width": 1600,
           "height": 662,
-          "bytes": 178523
+          "bytes": 145620
         }
       ]
     },
