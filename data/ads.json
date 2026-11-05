@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T10:53:48.121Z",
+  "generatedAt": "2026-11-05T11:19:33.361Z",
   "totals": {
-    "ads": 37,
-    "final": 37,
+    "ads": 38,
+    "final": 38,
     "unfinished": 0,
-    "clips": 43,
-    "seconds": 896.44,
-    "bytes": 89551451
+    "clips": 45,
+    "seconds": 976.44,
+    "bytes": 101287369
   },
   "ads": [
     {
@@ -74,6 +74,63 @@
           "width": 1600,
           "height": 1501,
           "bytes": 316386
+        }
+      ]
+    },
+    {
+      "id": "road-trip",
+      "number": null,
+      "title": "Road Trip",
+      "logline": "Brief your agent. Check in from the road.",
+      "summary": "A 40 s 1970s buddy road-trip spot inspired by DraftKings' \"Road Trip\" (ispot.tv/ad/Sw32), sharing only its genre devices. Two friends hand their coding agent a make.fun brief and finally take the wood-panel wagon west: a canyon, a lost signal, a CB trucker checking in on the agent, and a Pacific overlook at sunset where the agent is done and they are out of road. Shot from behind so no lead's face shows; AI-generated people and scenes. Re-cut in four rounds of its X compliance pass.",
+      "project": "make.fun auto",
+      "location": "ads/road-trip on main",
+      "chat": "DK loop ad 1: Road Trip",
+      "status": "final",
+      "statusNote": "Re-cut in its X compliance chat and reviewed clause by clause against X's live Terms of Service, X Rules and ads policies in four independent rounds on 2026-11-05 (ads/road-trip/review/x-compliance.md): the film, its lines and post copy pass, with the 16:9 cut as the only X upload. It cannot run on X yet: the ads account, the pre-authorization, the landing page and the generated-media rights need the owner, and the 32 MB upload file is over X's 30 MB recommendation (ads/road-trip/review/x-owner-packet.md).",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "motion graphics"
+      ],
+      "primary": "16x9",
+      "poster": "media/road-trip/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/road-trip/16x9.mp4",
+          "poster": "media/road-trip/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 40,
+          "bytes": 6086692,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16 (not for X)",
+          "src": "media/road-trip/9x16.mp4",
+          "poster": "media/road-trip/9x16.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 24,
+          "duration": 40,
+          "bytes": 5521043,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot of the 16:9 cut",
+          "kind": "image",
+          "src": "media/road-trip/extra-1.jpg",
+          "width": 1600,
+          "height": 540,
+          "bytes": 128183
         }
       ]
     },
