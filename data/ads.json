@@ -1,14 +1,60 @@
 {
-  "generatedAt": "2026-11-05T07:25:43.828Z",
+  "generatedAt": "2026-11-05T08:31:29.705Z",
   "totals": {
-    "ads": 35,
-    "final": 35,
+    "ads": 36,
+    "final": 36,
     "unfinished": 0,
-    "clips": 39,
-    "seconds": 797.44,
-    "bytes": 82250741
+    "clips": 40,
+    "seconds": 812.44,
+    "bytes": 83532666
   },
   "ads": [
+    {
+      "id": "way-out",
+      "number": null,
+      "title": "Build Something Real",
+      "logline": "Your agent builds it.",
+      "summary": "A 15 s low-poly film, after Coinbase's \"Your Way Out\". A small character sits on a park bench, opens a laptop, pastes a command into a terminal titled \"your coding agent\" and presses Enter. A hard cut lands on one end card, \"Build something real.\", then the make.fun lockup under one continuous swing bed. A dramatization with an AI-generated character, labelled on every frame.",
+      "project": "make.fun auto",
+      "location": "ads/way-out on main",
+      "chat": "Coinbase loop ad 1: Your Way Out",
+      "status": "final",
+      "statusNote": "Cut down in its X compliance chat to the ad's own shots and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-05, with three independent audits (ads/way-out/X-COMPLIANCE.md): organic posting passes once X's AI-content declaration is made; paid fails on the landing page and the ads account. The longer cuts are withheld for their closeness to the Coinbase reference.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "motion graphics",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/way-out/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/way-out/16x9.mp4",
+          "poster": "media/way-out/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 15,
+          "bytes": 1145984,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot and the end card",
+          "kind": "image",
+          "src": "media/way-out/extra-1.jpg",
+          "width": 1480,
+          "height": 684,
+          "bytes": 135941
+        }
+      ]
+    },
     {
       "id": "what-would-you-build",
       "number": null,
