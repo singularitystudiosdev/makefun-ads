@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T19:35:39.973Z",
+  "generatedAt": "2026-11-05T19:56:42.971Z",
   "totals": {
-    "ads": 43,
-    "final": 36,
+    "ads": 42,
+    "final": 35,
     "unfinished": 7,
-    "clips": 59,
-    "seconds": 1335.74,
-    "bytes": 125021891
+    "clips": 55,
+    "seconds": 1296.54,
+    "bytes": 123479243
   },
   "ads": [
     {
@@ -1282,88 +1282,6 @@
       "extras": []
     },
     {
-      "id": "claw",
-      "number": null,
-      "title": "The Claw",
-      "logline": "A gripper on a slide rod comes down onto a keyboard of magenta keycaps, takes the one white key printed with the ghost mark, and pops it off its switch.",
-      "summary": "A 10.3 s Blender-rendered film, set from a high angle on a dark desk: a large keyboard of satin magenta keycaps (some printed with code, automate, reconcile and agent, plus build and repo in the 9:16 cut), a matte graphite two-finger gripper on a straight slide rod, and one taller white key printed with the official ghost mark that the gripper takes and pops off its switch, with the brand lockup in the top-left corner throughout. It ends on an end card: the lockup and the line \"Your coding agent builds it.\" Every sound is synthesised in code, with no AI-generated audio; an 8.3 s scene-only loop cut is the alternate. Revision 5 keeps only the genre device of its reference (a machine picks the one branded piece) and changes the styling, pose and backdrop.",
-      "project": "make.fun auto",
-      "location": "ads/claw on main",
-      "chat": "The Claw: arcade claw 3D ad for make.fun",
-      "status": "final",
-      "statusNote": "Final cut (revision 5, 2026-11-05), reviewed clause by clause against X's live Terms of Service (every paragraph, both versions), Purchaser Terms, Master Services Agreement, X Rules and ads policies (ads/claw/X-COMPLIANCE.md). The creative passes every clause checked: the films, end card, captions, copy and sound. No keycap legend is cut or half-covered, the picture takes only the genre device of its reference (an independent model check agrees), and every sound is synthesised in code and soft (-26.6 LUFS), judged acceptable by a blind comparison and a final listen that rated the earlier sound poorly. A launch still waits on a landing page that passes X's ads policies and on the ads account, so it cannot run on X yet.",
-      "madeAt": "2026-11-04",
-      "kind": "video",
-      "tags": [
-        "3D",
-        "motion graphics"
-      ],
-      "primary": "4x5",
-      "poster": "media/claw/4x5.jpg",
-      "variants": [
-        {
-          "key": "4x5",
-          "label": "4:5 master",
-          "src": "media/claw/4x5.mp4",
-          "poster": "media/claw/4x5.jpg",
-          "width": 720,
-          "height": 900,
-          "fps": 30,
-          "duration": 10.3,
-          "bytes": 358586,
-          "hasAudio": true
-        },
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/claw/9x16.mp4",
-          "poster": "media/claw/9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 10.3,
-          "bytes": 387758,
-          "hasAudio": true
-        },
-        {
-          "key": "1x1",
-          "label": "1:1",
-          "src": "media/claw/1x1.mp4",
-          "poster": "media/claw/1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 10.3,
-          "bytes": 340248,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "loop",
-          "label": "Scene only, 8.3 s, no end card (4:5)",
-          "src": "media/claw/alt-loop.mp4",
-          "poster": "media/claw/alt-loop.jpg",
-          "width": 720,
-          "height": 900,
-          "fps": 30,
-          "duration": 8.3,
-          "bytes": 310436,
-          "hasAudio": true
-        }
-      ],
-      "extras": [
-        {
-          "label": "Contact sheet, 12 frames of the 4:5 cut",
-          "kind": "image",
-          "src": "media/claw/extra-1.jpg",
-          "width": 1600,
-          "height": 662,
-          "bytes": 145620
-        }
-      ]
-    },
-    {
       "id": "climb",
       "number": null,
       "title": "Three Briefs",
@@ -2078,6 +1996,11 @@
     {
       "what": "once-in-a-while (Every Once in a While)",
       "where": "ads/once-in-a-while on branch cosmos/0f5ac2a3-ead6-454b-ba81-67f534fe3737/chat (commit cc0d5c2)",
+      "reason": "The user had it removed on 2026-11-05; never list it."
+    },
+    {
+      "what": "claw (The Claw)",
+      "where": "ads/claw on main",
       "reason": "The user had it removed on 2026-11-05; never list it."
     },
     {
