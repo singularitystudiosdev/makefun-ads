@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T15:16:41.057Z",
+  "generatedAt": "2026-11-05T16:03:35.664Z",
   "totals": {
-    "ads": 38,
-    "final": 38,
+    "ads": 39,
+    "final": 39,
     "unfinished": 0,
-    "clips": 45,
-    "seconds": 976.44,
-    "bytes": 99380555
+    "clips": 47,
+    "seconds": 1000.94,
+    "bytes": 100496490
   },
   "ads": [
     {
@@ -74,6 +74,70 @@
           "width": 1600,
           "height": 1501,
           "bytes": 361492
+        }
+      ]
+    },
+    {
+      "id": "make-it",
+      "number": null,
+      "title": "Make It",
+      "logline": "Don't guess. Check. And show your work.",
+      "summary": "A 12 s black-and-white film inspired by Polymarket's \"Against all odds. Conor McGregor.\" (x.com/Polymarket/status/2072076905935777912), sharing only its genre devices: a locked low-key frame, a gaze into the lens and a hard cut to black on a low thud. An AI-generated adult woman at a kitchen table coaches the viewer's agent like a corner man: \"Okay. Listen to me.\" \"Don't guess. Check.\" \"And show your work.\" \"Go on.\" It ends on the make.fun card. Re-cut in four rounds of its X compliance pass.",
+      "project": "make.fun auto",
+      "location": "ads/make-it on main",
+      "chat": "Polymarket loop ad 2: Against All Odds",
+      "status": "final",
+      "statusNote": "Re-cut in four rounds of its X compliance chat after three independent audits, and reviewed clause by clause against 278 clauses of X's live Terms of Service (every paragraph, US and EU) and ads policies on 2026-11-05 (ads/make-it/X-REVIEW.md): the film, its copy and the upload format pass every row. It cannot run on X yet: the landing page, the advertiser category and the ads account still fail.",
+      "madeAt": "2026-11-05",
+      "kind": "video",
+      "tags": [
+        "AI talent"
+      ],
+      "primary": "16x9",
+      "poster": "media/make-it/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/make-it/16x9.mp4",
+          "poster": "media/make-it/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 24,
+          "duration": 12.25,
+          "bytes": 562417,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/make-it/1x1.mp4",
+          "poster": "media/make-it/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 12.25,
+          "bytes": 462904,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot of the 16:9 cut",
+          "kind": "image",
+          "src": "media/make-it/extra-1.jpg",
+          "width": 1600,
+          "height": 327,
+          "bytes": 51420
+        },
+        {
+          "label": "Every shot cropped to the 1:1 square",
+          "kind": "image",
+          "src": "media/make-it/extra-2.jpg",
+          "width": 1600,
+          "height": 257,
+          "bytes": 39194
         }
       ]
     },
