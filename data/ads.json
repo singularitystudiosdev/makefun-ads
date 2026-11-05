@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T18:50:01.373Z",
+  "generatedAt": "2026-11-05T19:35:39.973Z",
   "totals": {
-    "ads": 47,
-    "final": 40,
+    "ads": 43,
+    "final": 36,
     "unfinished": 7,
-    "clips": 67,
-    "seconds": 1614.24,
-    "bytes": 156434105
+    "clips": 59,
+    "seconds": 1335.74,
+    "bytes": 125021891
   },
   "ads": [
     {
@@ -295,126 +295,6 @@
       ]
     },
     {
-      "id": "make-it",
-      "number": null,
-      "title": "Make It",
-      "logline": "Don't guess. Check. And show your work.",
-      "summary": "A 12 s black-and-white film inspired by Polymarket's \"Against all odds. Conor McGregor.\" (x.com/Polymarket/status/2072076905935777912), sharing only its genre devices: a locked low-key frame, a gaze into the lens and a hard cut to black on a low thud. An AI-generated adult woman at a kitchen table coaches the viewer's agent like a corner man: \"Okay. Listen to me.\" \"Don't guess. Check.\" \"And show your work.\" \"Go on.\" It ends on the make.fun card. Re-cut in four rounds of its X compliance pass.",
-      "project": "make.fun auto",
-      "location": "ads/make-it on main",
-      "chat": "Polymarket loop ad 2: Against All Odds",
-      "status": "final",
-      "statusNote": "Re-cut in four rounds of its X compliance chat after three independent audits, and reviewed clause by clause against 278 clauses of X's live Terms of Service (every paragraph, US and EU) and ads policies on 2026-11-05 (ads/make-it/X-REVIEW.md): the film, its copy and the upload format pass every row. It cannot run on X yet: the landing page, the advertiser category and the ads account still fail.",
-      "madeAt": "2026-11-05",
-      "kind": "video",
-      "tags": [
-        "AI talent"
-      ],
-      "primary": "16x9",
-      "poster": "media/make-it/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/make-it/16x9.mp4",
-          "poster": "media/make-it/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 12.25,
-          "bytes": 562417,
-          "hasAudio": true
-        },
-        {
-          "key": "1x1",
-          "label": "1:1",
-          "src": "media/make-it/1x1.mp4",
-          "poster": "media/make-it/1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 12.25,
-          "bytes": 462904,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per shot of the 16:9 cut",
-          "kind": "image",
-          "src": "media/make-it/extra-1.jpg",
-          "width": 1600,
-          "height": 327,
-          "bytes": 51420
-        },
-        {
-          "label": "Every shot cropped to the 1:1 square",
-          "kind": "image",
-          "src": "media/make-it/extra-2.jpg",
-          "width": 1600,
-          "height": 257,
-          "bytes": 39194
-        }
-      ]
-    },
-    {
-      "id": "once-in-a-while",
-      "number": null,
-      "title": "Every Once in a While",
-      "logline": "Give your agent a brief, and make it fun.",
-      "summary": "A 30 s sing-along spot after the genre devices of a sung sports anthem (everyday people with their phones, lines acted out literally, a quiet shared moment, a brand super and a comic button), with none of its shots, lines or music. An original AI baritone sings a verse that quotes a real software brief, \"close a month of books ... make the numbers reconcile\", and every line is acted out: a library book club snaps its books shut, two neighbours shake hands over a hedge, a phone gets the brief and a hotel guest taps the desk bell. The make.fun lockup lands on the end card and sits small in the upper left of every frame. Every person, scene and the song are AI-generated, and the film opens and closes with a burned-in \"AI-generated dramatization\" label. Delivered in 16:9 and 9:16 (not for X).",
-      "project": "make.fun auto",
-      "location": "ads/once-in-a-while on branch cosmos/0f5ac2a3-ead6-454b-ba81-67f534fe3737/chat (commit cc0d5c2)",
-      "chat": "DK loop ToS 2: Every Once in a While",
-      "status": "final",
-      "statusNote": "Re-cut in its X compliance chat (a persistent corner lockup, a phone command without the domain, and a burned-in AI-generated dramatization label that opens the film and repeats on the end card) and audited clause by clause against X's live Terms of Service and ads policies on 2026-11-05, revision 3 (ads/once-in-a-while/X-COMPLIANCE.md): the film, its post copy and the 16:9 upload format pass, and the 9:16 cut is not for X. It cannot run on X yet: the landing page, the advertiser category and the ads account fail, and an organic post waits for a cut with a spoken AI disclosure, which was being added when the chat was paused.",
-      "madeAt": "2026-11-05",
-      "kind": "video",
-      "tags": [
-        "AI talent"
-      ],
-      "primary": "16x9",
-      "poster": "media/once-in-a-while/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/once-in-a-while/16x9.mp4",
-          "poster": "media/once-in-a-while/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 30,
-          "bytes": 3526389,
-          "hasAudio": true
-        },
-        {
-          "key": "9x16",
-          "label": "9:16 (not for X)",
-          "src": "media/once-in-a-while/9x16.mp4",
-          "poster": "media/once-in-a-while/9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 30,
-          "bytes": 2608317,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per shot of the 16:9 cut",
-          "kind": "image",
-          "src": "media/once-in-a-while/extra-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "bytes": 279984
-        }
-      ]
-    },
-    {
       "id": "portal",
       "number": null,
       "title": "Portal",
@@ -469,63 +349,6 @@
           "width": 1600,
           "height": 1535,
           "bytes": 397478
-        }
-      ]
-    },
-    {
-      "id": "road-trip",
-      "number": null,
-      "title": "Road Trip",
-      "logline": "Brief your agent. Check in from the road.",
-      "summary": "A 40 s 1970s buddy road-trip spot inspired by DraftKings' \"Road Trip\" (ispot.tv/ad/Sw32), sharing only its genre devices. Two friends hand their coding agent a make.fun brief and finally take the wood-panel wagon west: a canyon, a lost signal, a CB trucker checking in on the agent, and a Pacific overlook at sunset where the agent is done and they are out of road. Shot from behind so no lead's face shows; AI-generated people and scenes. Re-cut in four rounds of its X compliance pass.",
-      "project": "make.fun auto",
-      "location": "ads/road-trip on main",
-      "chat": "DK loop ad 1: Road Trip",
-      "status": "final",
-      "statusNote": "Re-cut in its X compliance chat and reviewed clause by clause against X's live Terms of Service, X Rules and ads policies in four independent rounds on 2026-11-05 (ads/road-trip/review/x-compliance.md): the film, its lines and post copy pass, with the 16:9 cut as the only X upload. It cannot run on X yet: the ads account, the pre-authorization, the landing page and the generated-media rights need the owner, and the 32 MB upload file is over X's 30 MB recommendation (ads/road-trip/review/x-owner-packet.md).",
-      "madeAt": "2026-11-05",
-      "kind": "video",
-      "tags": [
-        "AI talent",
-        "motion graphics"
-      ],
-      "primary": "16x9",
-      "poster": "media/road-trip/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/road-trip/16x9.mp4",
-          "poster": "media/road-trip/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 40,
-          "bytes": 6086692,
-          "hasAudio": true
-        },
-        {
-          "key": "9x16",
-          "label": "9:16 (not for X)",
-          "src": "media/road-trip/9x16.mp4",
-          "poster": "media/road-trip/9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 40,
-          "bytes": 5521043,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per shot of the 16:9 cut",
-          "kind": "image",
-          "src": "media/road-trip/extra-1.jpg",
-          "width": 1600,
-          "height": 540,
-          "bytes": 128183
         }
       ]
     },
@@ -617,70 +440,6 @@
           "width": 1480,
           "height": 684,
           "bytes": 135941
-        }
-      ]
-    },
-    {
-      "id": "what-would-you-build",
-      "number": null,
-      "title": "What Would You Build?",
-      "logline": "An elder asks a cast of builders one question: what would you build?",
-      "summary": "A 57 s brand film inspired by Polymarket's \"Questions are everything\" (x.com/Polymarket/status/2069455471866433555), sharing only its genre devices: locked-off tableau portraits of an AI-generated adult cast of builders, each against a bold craft backdrop, a rubato piano under the elder's question, a breakbeat drop into a barrage of one-question title cards, a six-face eye montage, a hard cut to silence and the make.fun lockup on the elder's face. Re-cut in its X compliance pass.",
-      "project": "make.fun auto",
-      "location": "ads/what-would-you-build on main",
-      "chat": "Polymarket loop ad 1: Questions Are Everything",
-      "status": "final",
-      "statusNote": "Re-cut in its X compliance chat and reviewed clause by clause against 194 clauses of X's live Terms of Service and ads policies on 2026-11-05 (ads/what-would-you-build/X-REVIEW.md): the film, music and post copy pass; the landing page, the advertiser category and the ads account still fail, so it cannot run on X yet.",
-      "madeAt": "2026-11-05",
-      "kind": "video",
-      "tags": [
-        "AI talent"
-      ],
-      "primary": "16x9",
-      "poster": "media/what-would-you-build/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/what-would-you-build/16x9.mp4",
-          "poster": "media/what-would-you-build/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 57,
-          "bytes": 6383735,
-          "hasAudio": true
-        },
-        {
-          "key": "1x1",
-          "label": "1:1",
-          "src": "media/what-would-you-build/1x1.mp4",
-          "poster": "media/what-would-you-build/1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 57,
-          "bytes": 5093426,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per shot of the 16:9 cut",
-          "kind": "image",
-          "src": "media/what-would-you-build/extra-1.jpg",
-          "width": 1600,
-          "height": 918,
-          "bytes": 259972
-        },
-        {
-          "label": "Every shot cropped to the 1:1 square",
-          "kind": "image",
-          "src": "media/what-would-you-build/extra-2.jpg",
-          "width": 1600,
-          "height": 1333,
-          "bytes": 408538
         }
       ]
     },
@@ -2315,6 +2074,26 @@
       "what": "the-house (The House)",
       "where": "ads/x-safe/the-house on branch cosmos/92e1e1b4-4e5a-42d1-9324-4d198e124ce8/chat (commit d761990); audits in ads/x-safe/audit",
       "reason": "Retired in the X-policy pass: a casino comedy with no clean stretch of 6 s."
+    },
+    {
+      "what": "once-in-a-while (Every Once in a While)",
+      "where": "ads/once-in-a-while on branch cosmos/0f5ac2a3-ead6-454b-ba81-67f534fe3737/chat (commit cc0d5c2)",
+      "reason": "The user had it removed on 2026-11-05; never list it."
+    },
+    {
+      "what": "what-would-you-build (What Would You Build?)",
+      "where": "ads/what-would-you-build on main",
+      "reason": "The user had it removed on 2026-11-05; never list it."
+    },
+    {
+      "what": "road-trip (Road Trip)",
+      "where": "ads/road-trip on main",
+      "reason": "The user had it removed on 2026-11-05; never list it."
+    },
+    {
+      "what": "make-it (Make It)",
+      "where": "ads/make-it on main",
+      "reason": "The user had it removed on 2026-11-05; never list it."
     },
     {
       "what": "grow-up (Grow Up)",
