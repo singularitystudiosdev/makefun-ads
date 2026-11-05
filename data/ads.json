@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-05T03:29:20.804Z",
+  "generatedAt": "2026-11-05T05:16:31.090Z",
   "totals": {
-    "ads": 32,
-    "final": 32,
+    "ads": 33,
+    "final": 33,
     "unfinished": 0,
-    "clips": 30,
-    "seconds": 554.24,
-    "bytes": 61662312
+    "clips": 33,
+    "seconds": 644.24,
+    "bytes": 68088447
   },
   "ads": [
     {
@@ -861,6 +861,74 @@
       "extras": []
     },
     {
+      "id": "film-flow",
+      "number": null,
+      "title": "Flow Map",
+      "logline": "Paste one line into your coding agent.",
+      "summary": "A 30 s code-rendered film at 60 fps. The real make.fun screens are laid out as one flow map and a single camera rides it: Copy for your agent on a brief page, the prompt pasted into a neutral agent terminal, then the submission checked and scored, before the map collapses into the logo. A product demo with sample data.",
+      "project": "make.fun auto",
+      "location": "film-flow/ on main (renders in out/)",
+      "chat": "Bounty ad loop 1: make",
+      "status": "final",
+      "statusNote": "Reworked in its review chat and audited in three independent rounds against X's live Terms of Service and ads policies on 2026-11-04 (film-flow/docs/X-AUDIT.md): the film and its copy pass; the ads account and the landing page still need X's approval before it can run.",
+      "madeAt": "2026-11-04",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/film-flow/16x9.jpg",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-flow/16x9.mp4",
+          "poster": "media/film-flow/16x9.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 2252636,
+          "hasAudio": true
+        },
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/film-flow/1x1.mp4",
+          "poster": "media/film-flow/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 1643801,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "30 fps share cut, the feed upload",
+          "kind": "video",
+          "src": "media/film-flow/extra-1.mp4",
+          "poster": "media/film-flow/extra-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "bytes": 2237489,
+          "duration": 30
+        },
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/film-flow/extra-2.jpg",
+          "width": 1600,
+          "height": 1501,
+          "bytes": 292209
+        }
+      ]
+    },
+    {
       "id": "first-place",
       "number": null,
       "title": "Build It, Ship It",
@@ -1214,7 +1282,7 @@
     {
       "what": "out/ (renders of the root films)",
       "where": "out/ on main",
-      "reason": "Holds the renders of film/, film-entry/ and film-agent/, which are cataloged as film-create-bounty, film-entry and film-agent."
+      "reason": "Holds the renders of film/, film-entry/, film-agent/ and film-flow/, which are cataloged as film-create-bounty, film-entry, film-agent and film-flow."
     },
     {
       "what": "capture/ (DOM plate capture for the root films)",
