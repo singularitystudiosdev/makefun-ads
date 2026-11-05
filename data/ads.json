@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-05T14:13:06.283Z",
+  "generatedAt": "2026-11-05T15:16:41.057Z",
   "totals": {
     "ads": 38,
     "final": 38,
     "unfinished": 0,
     "clips": 45,
     "seconds": 976.44,
-    "bytes": 100813394
+    "bytes": 99380555
   },
   "ads": [
     {
       "id": "film-morph",
       "number": null,
       "title": "One Take",
-      "logline": "Pick a brief. Submit what your agent built.",
-      "summary": "A 28 s code-rendered film at 60 fps. The real make.fun screens perform their own transitions, opening on the make.fun logo, which becomes a software brief's card. The card grows into the real Submit form, the form shrinks into the status card (Submitted, Checked, Scored), that returns to the board card now reading 1 submission, and the card folds back into the logo. A product demo with sample data.",
+      "logline": "Real software briefs. Your agent builds it. You submit it.",
+      "summary": "A 28 s code-rendered film at 60 fps. The real make.fun screens perform their own transitions, opening on the make.fun logo, which becomes a software brief's card. The card becomes the real Submit sheet, shown one field group at a time, which becomes the receipt and then the status card (Submitted, Checked, Scored), returns to the board card now reading 1 submission, and folds back into the logo. The music is synthesized in code. A product demo with sample data.",
       "project": "make.fun auto",
       "location": "film-morph/ on main (renders in out/)",
       "chat": null,
       "status": "final",
-      "statusNote": "Audited clause by clause against X's live Terms of Service and ads policies on 2026-11-05 (film-morph/docs/X-AUDIT.md): the film and its copy pass; the landing page and the ads account still need X's approval before it can run.",
+      "statusNote": "Final cut re-audited independently, clause by clause against X's live Terms of Service, Master Services Agreement and ads policies on 2026-11-05 (film-morph/docs/X-AUDIT.md), and the reworded post text re-reviewed against the live Quality and Deceptive pages: the ad itself (every frame, the copy, specs and the code-synthesized sound) passes, and only the make.fun landing page, the Halted ads account and the pre-authorization still need X's approval before it can run.",
       "madeAt": "2026-11-05",
       "kind": "video",
       "tags": [
@@ -39,7 +39,7 @@
           "height": 720,
           "fps": 30,
           "duration": 28,
-          "bytes": 2024243,
+          "bytes": 1549836,
           "hasAudio": true
         },
         {
@@ -51,7 +51,7 @@
           "height": 720,
           "fps": 30,
           "duration": 28,
-          "bytes": 1622503,
+          "bytes": 1136371,
           "hasAudio": true
         }
       ],
@@ -64,7 +64,7 @@
           "poster": "media/film-morph/extra-1.jpg",
           "width": 1280,
           "height": 720,
-          "bytes": 2055653,
+          "bytes": 1538247,
           "duration": 28
         },
         {
@@ -73,7 +73,7 @@
           "src": "media/film-morph/extra-2.jpg",
           "width": 1600,
           "height": 1501,
-          "bytes": 316386
+          "bytes": 361492
         }
       ]
     },
