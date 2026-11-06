@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T19:56:42.971Z",
+  "generatedAt": "2026-11-06T02:38:18.278Z",
   "totals": {
     "ads": 42,
     "final": 35,
@@ -63,7 +63,12 @@
           "height": 909,
           "bytes": 351337
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A slapstick injury (a stone dropped on Maya's foot, 19.8 to 24.8 s), the \"Done!\" payoffs, a label shown only from 0 to 2.2 s, and a model in a trading-app spot.",
+        "fix": "None. The injury gag is structural."
+      }
     },
     {
       "id": "film-morph",
@@ -131,7 +136,12 @@
           "height": 1501,
           "bytes": 361492
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "pass",
+        "reason": "Nothing in the creative. A sample-data label sits on every frame.",
+        "fix": "Add the payout lines on the end card and in the post text."
+      }
     },
     {
       "id": "idle-agent",
@@ -236,7 +246,12 @@
           "height": 680,
           "bytes": 87814
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "pass",
+        "reason": "Nothing in the creative. It is type only, and its grader lines are claims rows 117 to 120.",
+        "fix": "Add the payout lines."
+      }
     },
     {
       "id": "karaoke",
@@ -292,7 +307,12 @@
           "height": 811,
           "bytes": 156817
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The sung lyrics are not in the post text, and Reddit requires spoken language to match the ad copy.",
+        "fix": "Put the lyrics in the post text. Add the payout lines."
+      }
     },
     {
       "id": "portal",
@@ -350,7 +370,12 @@
           "height": 1535,
           "bytes": 397478
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "Modelled on \"It's All At Stake!\" by Stake, a gambling brand; the end type lands on 0.4 s beats, and the cut was never reviewed.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "seen-it",
@@ -395,7 +420,12 @@
           "height": 1281,
           "bytes": 328949
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "The put-down \"Your app.\", simulated product flows, and a cartoon cast selling a cash-prize product.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "way-out",
@@ -441,7 +471,12 @@
           "height": 684,
           "bytes": 135941
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "Modelled on Coinbase's \"Your Way Out\", a blocky game-avatar style that appeals to minors, an escape premise and an illegible command line.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "who-checked-it",
@@ -510,7 +545,12 @@
           "height": 988,
           "bytes": 185553
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "Six phrases flash by at about three a second (0 to 2.1 s), which Reddit counts as distracting visuals.",
+        "fix": "Hold each phrase at least 1 s. Add the payout lines."
+      }
     },
     {
       "id": "your-move",
@@ -576,7 +616,12 @@
           "height": 507,
           "bytes": 180593
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "Its X review failed on the rights to its AI-generated picture and voice, which are still unresolved.",
+        "fix": "Hold until the rights are cleared."
+      }
     },
     {
       "id": "fries-to-first",
@@ -613,7 +658,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A worn-out worker, a hooded kid and a delivery rider are handed a \"bounty\" as the way out (an income premise), a teen-looking cast, and an alarm-card flash.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "hardest-part",
@@ -650,7 +700,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "\"…and cuts it completely\" is unsubstantiated, the board overlay collides with the label and caption (15.5 to 17.5 s), and the label is about 11 px.",
+        "fix": "Cut \"completely\". Remove the overlay. Enlarge the label."
+      }
     },
     {
       "id": "what-to-build",
@@ -687,7 +742,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "A teen-readable bedroom shot under a duvet (7.5 to 11 s), the claim \"cuts the guessing out completely\", and a label that shrinks to about 9 px.",
+        "fix": "Cut the shot and \"completely\". Keep the full label throughout."
+      }
     },
     {
       "id": "transparency",
@@ -724,7 +784,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The street-interview shot (3.9 to 7.7 s) has no label and reads as a real person.",
+        "fix": "Label every frame. Drop \"put your agent to work\"."
+      }
     },
     {
       "id": "two-checks",
@@ -762,7 +827,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The AI voice has no disclosure on any frame, and a blurred bar hides a value (0 to 3.5 s).",
+        "fix": "Add an AI-voice label. Remove or unblur the bar."
+      }
     },
     {
       "id": "more-fun",
@@ -798,7 +868,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The label is small, her hands cover it at 3 to 5 s, and the end card has none.",
+        "fix": "Enlarge and move the label, and add it to the end card. Drop the check-mark emoji."
+      }
     },
     {
       "id": "send-your-agent",
@@ -836,7 +911,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The \"AI-generated character\" label shows only from 19.5 to 21.2 s, and \"today\" is urgency.",
+        "fix": "Label from 0 s. Cut \"today\"."
+      }
     },
     {
       "id": "part-time-job",
@@ -874,7 +954,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "No AI label in any frame, and \"You guys should try this\" reads as a real user's recommendation.",
+        "fix": "Burn in the label for the whole clip. Give the line a presenter voice."
+      }
     },
     {
       "id": "never-knew",
@@ -912,7 +997,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "\"You'll learn way faster\" is unsubstantiated, and there is no label from 3 to 19 s.",
+        "fix": "Cut \"way faster\". Label throughout. Drop the lightning emoji."
+      }
     },
     {
       "id": "win-bounties",
@@ -949,7 +1039,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The phone UI text is about 8 to 10 px.",
+        "fix": "Crop in on the UI. Add the payout lines."
+      }
     },
     {
       "id": "copy-make-submit-win",
@@ -986,7 +1081,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "No label from 3 to 9 s, and she holds a coin-like black disc (7 to 9.5 s).",
+        "fix": "Label throughout. Remove the disc."
+      }
     },
     {
       "id": "one-big-win",
@@ -1023,7 +1123,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The label shows only from 6.25 to 7.25 s, she holds a coin-like disc, and the spoken line does not match the headline.",
+        "fix": "Label throughout. Remove the disc. Make the post text match the voice-over."
+      }
     },
     {
       "id": "group-chat",
@@ -1061,7 +1166,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "The premise is invented group-chat messages used as social proof, with race cues, and the label shows only for the last 2.2 s.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "get-it-together",
@@ -1097,7 +1207,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "\"Dude, you look terrible. Get it together.\" said to an overweight man (bullying), an invented brief with a \"Checks Passed\" card, and cans on the table.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "vows",
@@ -1133,7 +1248,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The lapel grab (31 to 33 s) and the priest gag, no AI label on the 3D AI characters, and one-word captions that flip every 0.3 to 0.5 s.",
+        "fix": "Cut the grab and the gag. Add the label. Use a stable caption block."
+      }
     },
     {
       "id": "vibes",
@@ -1169,7 +1289,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A grandmother as hero, \"You don't even code. / I don't. My agent does.\", an invented brief in the real UI, and no AI label.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "bounties-feed-scroll",
@@ -1206,7 +1331,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "Captcha-solver and CVE briefs on the board, staged live counts with no sample label, and a typed GitHub repo URL.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "bounties-launch",
@@ -1242,7 +1372,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The line \"Nobody can tune to the test.\" is a caption, not a guarantee, and the scripted terminal run has no label.",
+        "fix": "Cut the line. Label the run \"Dramatization\"."
+      }
     },
     {
       "id": "captcha-bounty-submit",
@@ -1279,7 +1414,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A captcha-solver brief, a fake user and receipt with no label in an off-brand mock UI, and a github.com URL.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "climb",
@@ -1316,7 +1456,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The bounty-card thumbnails are photos of real people (the Roll Safe meme, a Rick Astley still), and the \"@kai's agent is on it\" pills are invented.",
+        "fix": "Use neutral icons. Remove the pills."
+      }
     },
     {
       "id": "film-agent",
@@ -1353,7 +1498,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "Roll Safe and portrait thumbnails of real people, and the scripted run to \"Scored\" has no sample label.",
+        "fix": "Use neutral icons. Label the run as sample."
+      }
     },
     {
       "id": "film-create-bounty",
@@ -1390,7 +1540,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "The sponsor flow cuts out what a sponsor pays, an invented brief appears on the live board, and the GitHub sign-in logo shows.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "film-entry",
@@ -1427,7 +1582,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The fabricated submit and score flow has no label, a github.com URL is typed, and some motion-blur frames smear.",
+        "fix": "Label it. Show a generic \"public repo\". Steady the blurred frames."
+      }
     },
     {
       "id": "film-flow",
@@ -1495,7 +1655,12 @@
           "height": 1501,
           "bytes": 292209
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The flow-map panes and the terminal text are illegible at feed size.",
+        "fix": "Enlarge or crop in on the screens. Add the payout lines."
+      }
     },
     {
       "id": "first-place",
@@ -1531,7 +1696,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "Hard white-to-pink cuts at 1, 3, 5 and 7 s, a hard cut to black at 13 s and a ghost wall that re-randomises every frame read as strobing.",
+        "fix": "Cross-dissolve the cuts. Freeze the wall."
+      }
     },
     {
       "id": "ghostwriter",
@@ -1568,7 +1738,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "\"Every great repo has a ghostwriter… A full confession.\" frames the product as inauthentic work.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "lineup",
@@ -1600,7 +1775,12 @@
           "height": 900,
           "bytes": 139477
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "Police-lineup staging criminalises the entrants, and the entrant handles are invented.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "nanas-first-bounty",
@@ -1637,7 +1817,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "An elderly AI presenter framed as spontaneous UGC, disclosed only in micro text on the end card, and imagery of a vulnerable group.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "one-line",
@@ -1674,7 +1859,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The stage rail ticks to \"Scored\" with no sample label.",
+        "fix": "Label it as sample. The film is 6 s, so the payout lines go in the post text."
+      }
     },
     {
       "id": "payday",
@@ -1711,7 +1901,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "An invented submitter \"@kai\" and \"20 checks passed\", a typed github.com URL, and headlines tracked so tightly they merge.",
+        "fix": "Remove the handle and the URL. Label it as sample. Fix the tracking."
+      }
     },
     {
       "id": "prize-pool",
@@ -1742,7 +1937,12 @@
           "height": 900,
           "bytes": 103932
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "\"5 open software briefs\" must match the landing page on the day it runs.",
+        "fix": "Re-read the count at launch. Add the payout lines under the number."
+      }
     },
     {
       "id": "showdown",
@@ -1778,7 +1978,12 @@
         }
       ],
       "alternates": [],
-      "extras": []
+      "extras": [],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A young character called \"kid\" is taunted \"gonna cry?\", and the gloat when the rival loses.",
+        "fix": "None. It needs a new concept."
+      }
     },
     {
       "id": "still-cant-code",
@@ -1824,7 +2029,12 @@
           "height": 1600,
           "bytes": 354211
         }
-      ]
+      ],
+      "reddit": {
+        "verdict": "not",
+        "reason": "A remake of pump.fun's \"Normie get rich\" skit, with its beats and caption system, and a celebration payoff.",
+        "fix": "None. It needs a new concept."
+      }
     }
   ],
   "excluded": [
@@ -2023,5 +2233,11 @@
       "where": "ads/x-safe/grow-up on branch cosmos/92e1e1b4-4e5a-42d1-9324-4d198e124ce8/chat (commit d761990); audits in ads/x-safe/audit",
       "reason": "Retired in the X-policy pass: its story rests on two lip-synced lines that cannot be re-voiced."
     }
-  ]
+  ],
+  "reddit": {
+    "audit": "docs/reddit-ads-audit.md",
+    "auditedAt": "2026-11-05",
+    "blockers": "No ad can run on Reddit until make.fun's ads account has Reddit Sales pre-approval as a gambling advertiser and its landing page has official rules and no coin, Trading or USDC content.",
+    "ref": "2670fb6"
+  }
 }
