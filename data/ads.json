@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T07:22:28.752Z",
+  "generatedAt": "2026-11-06T07:27:00.295Z",
   "totals": {
     "ads": 44,
     "final": 37,
     "unfinished": 7,
-    "clips": 138,
-    "seconds": 3263.12,
-    "bytes": 309055141
+    "clips": 146,
+    "seconds": 3400.99,
+    "bytes": 318558673
   },
   "ads": [
     {
@@ -2299,6 +2299,18 @@
           "duration": 15,
           "bytes": 891900,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/win-bounties/alt-reddit.mp4",
+          "poster": "media/win-bounties/alt-reddit.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 963779,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -2311,6 +2323,24 @@
           "bytes": 95116
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The phone UI text is about 8 to 10 px.",
+        "fix": "Crop in on the UI. Add the payout lines.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Pick a bounty and paste one line into your coding agent. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Pick a bounty. Point your agent at it. Paste one line into your agent. Your agent builds it: a public repo plus the transcript that wrote it. Brief and starter kit at make.fun. Music is AI-generated.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "shortLine": "Prize money for the best builds. Rules on each brief.",
+          "copy": "ads/x-safe/win-bounties/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/win-bounties/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -2833,9 +2863,38 @@
           "duration": 18,
           "bytes": 1505281,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/climb/alt-reddit.mp4",
+          "poster": "media/climb/alt-reddit.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 18,
+          "bytes": 1120430,
+          "hasAudio": true
         }
       ],
       "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The bounty-card thumbnails are photos of real people (the Roll Safe meme, a Rick Astley still), and the \"@kai's agent is on it\" pills are invented.",
+        "fix": "Use neutral icons. Remove the pills.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Pick a bounty, then another: three real software briefs, one coding agent. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Pick a bounty. Then another. Same agent, new brief. It reads the brief. Your agent builds it. Every submission gets the same checks. Paste one line into your agent. The video is a dramatization. Music and sound effects are AI-generated.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "copy": "ads/x-safe/climb/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/climb/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -2899,6 +2958,18 @@
           "duration": 30,
           "bytes": 2651064,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/film-agent/alt-reddit.mp4",
+          "poster": "media/film-agent/alt-reddit.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 2098913,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -2913,6 +2984,23 @@
           "duration": 30
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "Roll Safe and portrait thumbnails of real people, and the scripted run to \"Scored\" has no sample label.",
+        "fix": "Use neutral icons. Label the run as sample.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Build it: copy one line for your coding agent and it takes a real software brief from there. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Build it. Copy for your agent, paste it into your coding agent, and your coding agent builds it. Point your agent at it. The submission in the video uses sample data. Music is AI-generated.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "copy": "ads/x-safe/film-agent/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/film-agent/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -2977,6 +3065,18 @@
           "duration": 30,
           "bytes": 3456050,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/film-entry/alt-reddit.mp4",
+          "poster": "media/film-entry/alt-reddit.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 26.6,
+          "bytes": 2285187,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -2991,6 +3091,23 @@
           "duration": 30
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The fabricated submit and score flow has no label, a github.com URL is typed, and some motion-blur frames smear.",
+        "fix": "Label it. Show a generic \"public repo\". Steady the blurred frames.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Build it, ship it: your coding agent builds a real software brief and you submit the public repo. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Build it. Pick a brief, get the starter kit, push to a public repo, paste the link with your agent's transcripts, and submit. Ship it. The submit flow in the video is a dramatization. Music is AI-generated.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "copy": "ads/x-safe/film-entry/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/film-entry/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -3066,6 +3183,18 @@
           "duration": 15,
           "bytes": 1826963,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/first-place/alt-reddit.mp4",
+          "poster": "media/first-place/alt-reddit.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 15.5,
+          "bytes": 1393578,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -3138,6 +3267,24 @@
           "bytes": 201138
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "Hard white-to-pink cuts at 1, 3, 5 and 7 s, a hard cut to black at 13 s and a ghost wall that re-randomises every frame read as strobing.",
+        "fix": "Cross-dissolve the cuts. Freeze the wall.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Pick a brief and point your agent at it. Build it, ship it. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "This one's for your agent. Build software with your agent. Pick a brief. Point your agent at it. Paste one line into your agent. Your agent builds it. Build it. Ship it.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "shortLine": "Prize money for the best builds. Rules on each brief.",
+          "copy": "ads/x-safe/first-place/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/first-place/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -3287,6 +3434,18 @@
           "duration": 6,
           "bytes": 470551,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/one-line/alt-reddit.mp4",
+          "poster": "media/one-line/alt-reddit.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 6.77,
+          "bytes": 361931,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -3299,6 +3458,24 @@
           "bytes": 165870
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The stage rail ticks to \"Scored\" with no sample label.",
+        "fix": "Label it as sample. The film is 6 s, so the payout lines go in the post text.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Pick a bounty and point your agent at it: one line starts the run. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Pick a bounty. Copy one line for your agent. Graded in a sandbox. Checks run. Point your agent at it. The submission in the video uses sample data.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "shortLine": "Prize money for the best builds. Rules on each brief.",
+          "copy": "ads/x-safe/one-line/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/one-line/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -3362,9 +3539,38 @@
           "duration": 20.5,
           "bytes": 1038626,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/payday/alt-reddit.mp4",
+          "poster": "media/payday/alt-reddit.jpg",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 11.5,
+          "bytes": 607272,
+          "hasAudio": true
         }
       ],
       "extras": [],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "An invented submitter \"@kai\" and \"20 checks passed\", a typed github.com URL, and headlines tracked so tightly they merge.",
+        "fix": "Remove the handle and the URL. Label it as sample. Fix the tracking.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Pick a bounty and point your coding agent at it. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Pick a bounty. Point your agent at it. Your agent builds it. We grade it. Paste one line into your agent. The video shows a sample submission (sample data). Music and sound effects are AI-generated.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "copy": "ads/x-safe/payday/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/payday/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -3458,8 +3664,33 @@
           "width": 1600,
           "height": 1600,
           "bytes": 248835
+        },
+        {
+          "label": "Reddit cut",
+          "kind": "image",
+          "src": "media/prize-pool/extra-8.jpg",
+          "width": 1600,
+          "height": 900,
+          "bytes": 146456
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "\"5 open software briefs\" must match the landing page on the day it runs.",
+        "fix": "Re-read the count at launch. Add the payout lines under the number.",
+        "judged": "v2",
+        "cut": {
+          "headline": "Point your coding agent at one of 5 open software briefs. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "5 open software briefs. Build on make.fun.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "copy": "ads/x-safe/prize-pool/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/prize-pool/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -3584,6 +3815,18 @@
           "duration": 6,
           "bytes": 215314,
           "hasAudio": true
+        },
+        {
+          "key": "reddit",
+          "label": "Reddit cut",
+          "src": "media/bounties-launch/alt-reddit.mp4",
+          "poster": "media/bounties-launch/alt-reddit.jpg",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 14.5,
+          "bytes": 525986,
+          "hasAudio": true
         }
       ],
       "extras": [
@@ -3652,6 +3895,24 @@
           "bytes": 97592
         }
       ],
+      "reddit": {
+        "verdict": "cut",
+        "reason": "The line \"Nobody can tune to the test.\" is a caption, not a guarantee, and the scripted terminal run has no label.",
+        "fix": "Cut the line. Label the run \"Dramatization\".",
+        "judged": "v2",
+        "cut": {
+          "headline": "Paste one line into your coding agent and it builds a real software brief. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
+          "postText": "Paste one line into your agent. Your coding agent builds it. Pick a bounty. Point your coding agent at it. Graded in a sandbox, transcripts required, and anyone can rerun the grader. The terminal run in the video is a dramatization.",
+          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
+          "shortLine": "Prize money for the best builds. Rules on each brief.",
+          "copy": "ads/x-safe/bounties-launch/reddit/REDDIT-COPY.md",
+          "folder": "ads/x-safe/bounties-launch/reddit",
+          "ref": "35db6d3",
+          "labels": [
+            "Reddit cut"
+          ]
+        }
+      },
       "xmoney": {
         "creative": "PASS",
         "organic": "PASS",
@@ -4330,7 +4591,7 @@
     "audit": "docs/reddit-ads-audit.md",
     "auditedAt": "2026-11-05",
     "blockers": "No ad can run on Reddit until make.fun's ads account has Reddit Sales pre-approval as a gambling advertiser and its landing page has official rules and no coin, Trading or USDC content.",
-    "ref": "2670fb6"
+    "ref": "35db6d3"
   },
   "xmoney": {
     "standard": "docs/x-money-ads.md",
