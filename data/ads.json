@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T03:39:45.231Z",
+  "generatedAt": "2026-11-06T21:59:40.748Z",
   "totals": {
-    "ads": 47,
-    "final": 40,
+    "ads": 43,
+    "final": 36,
     "unfinished": 7,
-    "clips": 92,
-    "seconds": 2187.07,
-    "bytes": 236854243
+    "clips": 77,
+    "seconds": 1884.37,
+    "bytes": 203829740
   },
   "ads": [
     {
@@ -752,12 +752,12 @@
       "number": 28,
       "title": "Fries to First",
       "logline": "A worn-out diner fry cook is handed a make.fun bounty and goes for first place.",
-      "summary": "A beat-for-beat remake of pump.fun's \"Fries to million\" with an original 3D-animation cast: a diner fry cook, make.fun's real UI and the $1,000 first prize landing as the payoff. 23 s, delivered in 9:16 and 4:5.",
+      "summary": "A beat-for-beat remake of pump.fun's \"Fries to million\" with an original 3D-animation cast: a diner fry cook, make.fun's real UI and the first-place bounty landing as the payoff. 23 s, delivered in 9:16 and 4:5.",
       "project": "make.fun auto",
-      "location": "ads/fries-to-first on main",
+      "location": "ads/bounties/fries-to-first (bounties cut; the money cut it was made from: ads/fries-to-first on main)",
       "chat": "Ad 28: Fries to million",
       "status": "final",
-      "statusNote": "The judge review floor was still not met after round 3 (see ads/fries-to-first/README.md).",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -777,7 +777,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 23,
-          "bytes": 3693444,
+          "bytes": 3701412,
           "hasAudio": true
         },
         {
@@ -789,7 +789,7 @@
           "height": 900,
           "fps": 24,
           "duration": 23,
-          "bytes": 2968612,
+          "bytes": 2973592,
           "hasAudio": true
         }
       ],
@@ -801,7 +801,7 @@
           "src": "media/fries-to-first/extra-1.jpg",
           "width": 1600,
           "height": 1409,
-          "bytes": 362392
+          "bytes": 355779
         }
       ]
     },
@@ -812,9 +812,10 @@
       "logline": "The kid who wanted to be a bounty hunter sends his agent to make dot fun.",
       "summary": "A 30 s 3D-animated reunion comedy in the pattern of the pump.fun \"Trader One Day\" ad. A bullied kid grows up, points his coding agent at a real make.fun bounty, climbs the leaderboard and walks into the reunion; the bully can only stare at his handheld. It is a dramatization and the end card says so.",
       "project": "make.fun auto",
-      "location": "ads/grow-up on branch cosmos/c7e49a4f-30cb-49a7-9c71-bef4a581fed3/chat",
+      "location": "ads/bounties/grow-up (bounties cut; the money cut it was made from: ads/grow-up on branch cosmos/c7e49a4f-30cb-49a7-9c71-bef4a581fed3/chat)",
       "chat": "Ad 27: Trader One Day (9:16)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -833,7 +834,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 30,
-          "bytes": 3937780,
+          "bytes": 3911027,
           "hasAudio": true
         }
       ],
@@ -845,7 +846,7 @@
           "src": "media/grow-up/extra-1.jpg",
           "width": 1600,
           "height": 1331,
-          "bytes": 440146
+          "bytes": 432674
         }
       ]
     },
@@ -854,11 +855,12 @@
       "number": 24,
       "title": "Hardest Part",
       "logline": "The hardest part of AI coding is not the coding, it is knowing what to actually build.",
-      "summary": "A 28 s UGC-style selfie by an AI-generated presenter in a dim room with a magenta wall glow. She says the hard part is knowing what to build, shows make.fun's live bounty board with a bed scene as the one change of setting, and sends the viewer to pick a bounty.",
+      "summary": "A 28 s UGC-style selfie by an AI-generated presenter in a dim room with a magenta wall glow. She says the hard part is knowing what to build, shows make.fun's live bounty board with a bed scene as the one change of setting, says first place wins bounties, and sends the viewer to pick a bounty.",
       "project": "make.fun auto",
-      "location": "ads/hardest-part on main",
+      "location": "ads/bounties/hardest-part (bounties cut; the money cut it was made from: ads/hardest-part on main)",
       "chat": "Ad 24: Hardest part",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -877,20 +879,20 @@
           "width": 720,
           "height": 1280,
           "fps": 30,
-          "duration": 27.97,
-          "bytes": 5722473,
+          "duration": 28,
+          "bytes": 5648070,
           "hasAudio": true
         }
       ],
       "alternates": [],
       "extras": [
         {
-          "label": "Contact sheet against the reference",
+          "label": "Contact sheet, one frame per shot",
           "kind": "image",
           "src": "media/hardest-part/extra-1.jpg",
-          "width": 1570,
-          "height": 1600,
-          "bytes": 415319
+          "width": 1599,
+          "height": 1155,
+          "bytes": 243645
         }
       ]
     },
@@ -899,11 +901,12 @@
       "number": 23,
       "title": "What to Build",
       "logline": "The hardest part of vibe coding is knowing what to build. Pick a live bounty instead.",
-      "summary": "A 28 s UGC film in 9:16 and 4:5. An AI-generated presenter says the hard part is not building but knowing what to build, then shows make.fun: live bounties with real prize money, no pitching, no clients. A phone overlay and board screens are drawn from the real site.",
+      "summary": "A 28 s UGC film in 9:16 and 4:5. An AI-generated presenter says the hard part is not building but knowing what to build, then shows make.fun: live bounties with real prizes, no pitching, no clients. The board cards and the phone page show \"Bounty\" where they showed a prize figure, and the closing caption reads \"1ST PLACE: BOUNTIES\". A phone overlay and board screens are drawn from the real site.",
       "project": "make.fun auto",
-      "location": "ads/what-to-build on main",
+      "location": "ads/bounties/what-to-build (bounties cut; the money cut it was made from: ads/what-to-build on main)",
       "chat": "Ad 23: Hardest part (alt)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -923,7 +926,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 27.71,
-          "bytes": 4799305,
+          "bytes": 4771943,
           "hasAudio": true
         },
         {
@@ -935,19 +938,19 @@
           "height": 900,
           "fps": 24,
           "duration": 27.71,
-          "bytes": 4241541,
+          "bytes": 4217500,
           "hasAudio": true
         }
       ],
       "alternates": [],
       "extras": [
         {
-          "label": "Contact sheet",
+          "label": "Contact sheet (our eight beats; the original's pump.fun reference row is not reproduced)",
           "kind": "image",
           "src": "media/what-to-build/extra-1.jpg",
-          "width": 1600,
-          "height": 711,
-          "bytes": 256286
+          "width": 1602,
+          "height": 356,
+          "bytes": 120875
         }
       ]
     },
@@ -958,9 +961,10 @@
       "logline": "Stop guessing what people will pay for: on make.fun the prize, the brief and the grading are in plain view.",
       "summary": "A 32 s vertical UGC film. An AI-generated presenter talks to camera, whips into a split with the make.fun lockup, then into the real mobile site (bounty board, command box, Prizes table, how it is graded) with the presenter in a circular picture-in-picture. It transposes the pump.fun \"Follow top traders\" UGC 7 ad beat for beat.",
       "project": "make.fun auto",
-      "location": "ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat",
+      "location": "ads/bounties/transparency (bounties cut; the money cut it was made from: ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat)",
       "chat": "Ad 22: Follow top traders (UGC 7)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -980,19 +984,19 @@
           "height": 1280,
           "fps": 30,
           "duration": 31.9,
-          "bytes": 4339284,
+          "bytes": 4333033,
           "hasAudio": true
         }
       ],
       "alternates": [],
       "extras": [
         {
-          "label": "Contact sheet against the reference",
+          "label": "Contact sheet",
           "kind": "image",
           "src": "media/transparency/extra-1.jpg",
-          "width": 1309,
-          "height": 1600,
-          "bytes": 395630
+          "width": 1600,
+          "height": 948,
+          "bytes": 225502
         }
       ]
     },
@@ -1003,9 +1007,10 @@
       "logline": "Check two things before your agent enters any bounty.",
       "summary": "A 23 s vertical UGC film that transposes the pump.fun \"Check holders\" ad: check the entries and check how the bounty is graded before your agent enters. An AI-generated presenter opens, then one continuous recording of the real make.fun mobile site runs to the Copy for your agent tap. Two cuts differ only in the hook box.",
       "project": "make.fun auto",
-      "location": "ads/two-checks on main",
+      "location": "ads/bounties/two-checks (bounties cut; the money cut it was made from: ads/two-checks on main)",
       "chat": "Ad 21: Check holders (UGC 3)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1026,7 +1031,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 22.93,
-          "bytes": 1959654,
+          "bytes": 2037480,
           "hasAudio": true
         }
       ],
@@ -1040,18 +1045,18 @@
           "height": 1280,
           "fps": 30,
           "duration": 22.93,
-          "bytes": 1963569,
+          "bytes": 2042999,
           "hasAudio": true
         }
       ],
       "extras": [
         {
-          "label": "Contact sheet against the reference",
+          "label": "Contact sheet, one frame per beat",
           "kind": "image",
           "src": "media/two-checks/extra-1.jpg",
           "width": 1600,
-          "height": 702,
-          "bytes": 215952
+          "height": 319,
+          "bytes": 108608
         }
       ]
     },
@@ -1060,11 +1065,12 @@
       "number": 13,
       "title": "Check the Grader",
       "logline": "Let your coding agent build, and check how a bounty is graded, not what it pays.",
-      "summary": "An AI-generated creator, keyed out of a green screen, talks fast over real make.fun phone screens. The first seconds are black and white over a scrolling bounty page, then a hard cut to colour as he explains that the test data is drawn after the deadline. It ends on the one-line agent command and the end card.",
+      "summary": "An AI-generated creator, keyed out of a green screen, talks fast over real make.fun phone screens. The first seconds are black and white over a scrolling bounty page, then a hard cut to colour as he explains that the test data is drawn after the deadline. It ends on the one-line agent command and the end card. He says he did the same \"with code bounties\", and every prize figure on the screens reads Bounty.",
       "project": "make.fun auto",
-      "location": "ads/check-the-grader on main",
+      "location": "ads/bounties/check-the-grader (bounties cut; the money cut it was made from: ads/check-the-grader on main)",
       "chat": "Ad 13: Check their losses (UGC 6)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1085,7 +1091,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 21.87,
-          "bytes": 1938790,
+          "bytes": 1869139,
           "hasAudio": true
         }
       ],
@@ -1099,7 +1105,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 5.6,
-          "bytes": 618631,
+          "bytes": 587691,
           "hasAudio": true
         }
       ],
@@ -1110,7 +1116,7 @@
           "src": "media/check-the-grader/extra-1.jpg",
           "width": 1600,
           "height": 1280,
-          "bytes": 288610
+          "bytes": 288836
         },
         {
           "label": "Contact sheet, short cut",
@@ -1118,7 +1124,7 @@
           "src": "media/check-the-grader/extra-2.jpg",
           "width": 1600,
           "height": 1506,
-          "bytes": 274155
+          "bytes": 276971
         }
       ]
     },
@@ -1126,13 +1132,13 @@
       "id": "switched",
       "number": 12,
       "title": "Switched",
-      "logline": "I switched to make.fun: my AI agent enters the bounties and first place pays a thousand bucks.",
-      "summary": "A 10.96 s phone-selfie ad after pump.fun's \"Switched to Pump\": an AI-generated creator says it in one-word-at-a-time captions while two real app screens float at the top, then a closing make.fun panel. No music.",
+      "logline": "I switched to make.fun: my AI agent enters the bounties and first place pays bounties.",
+      "summary": "A 10.96 s phone-selfie ad after pump.fun's \"Switched to Pump\": an AI-generated creator says it in one-word-at-a-time captions while two real app screens float at the top (the agent command, then the prizes table with Bounty in every figure slot), then a closing make.fun panel. No music. The line that named the prize now ends \"first place pays bounties\" and the caption reads bounties.",
       "project": "make.fun auto",
-      "location": "ads/switched on main",
+      "location": "ads/bounties/switched (bounties cut; the money cut it was made from: ads/switched on main)",
       "chat": "Ad 12: Switched to Pump (maverick)",
       "status": "final",
-      "statusNote": "The judge floor (every axis at 8) was not met; the residue is named in ads/switched/review/scores.md.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1152,7 +1158,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 10.96,
-          "bytes": 1514468,
+          "bytes": 1503219,
           "hasAudio": true
         },
         {
@@ -1164,7 +1170,7 @@
           "height": 900,
           "fps": 24,
           "duration": 10.96,
-          "bytes": 1255784,
+          "bytes": 1243588,
           "hasAudio": true
         }
       ],
@@ -1176,7 +1182,7 @@
           "src": "media/switched/extra-1.jpg",
           "width": 1600,
           "height": 569,
-          "bytes": 113184
+          "bytes": 110796
         }
       ]
     },
@@ -1184,12 +1190,13 @@
       "id": "more-fun",
       "number": 11,
       "title": "More Fun",
-      "logline": "Paste one line, your agent builds it, and first place wins a thousand dollars.",
-      "summary": "A 10.3 s UGC taster: a creator in a dim gaming-corner bedroom talks to her phone camera in three jump cuts with one small caption at a time, an app icon pop and a card behind her head. A beat-for-beat translation of pump.fun's \"Switched to Pump\".",
+      "logline": "Paste one line, your agent builds it, and first place wins bounties.",
+      "summary": "A 10.3 s UGC taster: a creator in a dim gaming-corner bedroom talks to her phone camera in three jump cuts with one small caption at a time, an app icon pop and a card behind her head. The card shows its total and every prize as Bounty, and the line that named the prize ends \"first place wins bounties\". A beat-for-beat translation of pump.fun's \"Switched to Pump\".",
       "project": "make.fun auto",
-      "location": "ads/more-fun on main",
+      "location": "ads/bounties/more-fun (bounties cut; the money cut it was made from: ads/more-fun on main)",
       "chat": "Ad 11: Switched to Pump",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1208,19 +1215,19 @@
           "height": 1280,
           "fps": 30,
           "duration": 10.27,
-          "bytes": 1659187,
+          "bytes": 1645802,
           "hasAudio": true
         }
       ],
       "alternates": [],
       "extras": [
         {
-          "label": "Contact sheet against the reference",
+          "label": "Contact sheet of the cut",
           "kind": "image",
           "src": "media/more-fun/extra-1.jpg",
-          "width": 1600,
-          "height": 711,
-          "bytes": 209817
+          "width": 1602,
+          "height": 356,
+          "bytes": 105332
         }
       ]
     },
@@ -1229,11 +1236,12 @@
       "number": 10,
       "title": "Send Your Agent",
       "logline": "Send your agent, not your resume.",
-      "summary": "A 29 s UGC taster in the grammar of pump.fun's \"Social media for memes\": a talking creator in a picture-in-picture over real app screens, big highlighted caption words, rings on the key numbers and an \"X, not Y\" line, ending on the entry flow and the $1,000 first prize.",
+      "summary": "A 29 s UGC taster in the grammar of pump.fun's \"Social media for memes\": a talking creator in a picture-in-picture over real app screens, big highlighted caption words, rings on the key words and an \"X, not Y\" line, ending on the entry flow and the bounties for first place.",
       "project": "make.fun auto",
-      "location": "ads/send-your-agent on main",
+      "location": "ads/bounties/send-your-agent (bounties cut; the money cut it was made from: ads/send-your-agent on main)",
       "chat": "Ad 10: Social media for memes",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1254,7 +1262,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 29,
-          "bytes": 2393598,
+          "bytes": 2404476,
           "hasAudio": true
         }
       ],
@@ -1266,66 +1274,7 @@
           "src": "media/send-your-agent/extra-1.jpg",
           "width": 1600,
           "height": 948,
-          "bytes": 182990
-        }
-      ]
-    },
-    {
-      "id": "part-time-job",
-      "number": 9,
-      "title": "Part-Time Job",
-      "logline": "Give your AI agent a part-time job.",
-      "summary": "Two 9:16 UGC films beat for beat after pump.fun's \"Part-time job\": a selfie hook, a walkthrough of the real app with a background-removed presenter bottom left, a selfie outro and 1 to 3 word captions with one italic underlined key word. The main film and a Hook B open share the rest of the cut.",
-      "project": "make.fun auto",
-      "location": "ads/part-time-job on main",
-      "chat": "Ad 09: Part-time job",
-      "status": "final",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "UGC",
-        "AI talent",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "9x16",
-      "poster": "media/part-time-job/9x16.jpg",
-      "variants": [
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/part-time-job/9x16.mp4",
-          "poster": "media/part-time-job/9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 29.27,
-          "bytes": 4508072,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "hook-b-9x16",
-          "label": "Hook B open, 9:16",
-          "src": "media/part-time-job/alt-hook-b-9x16.mp4",
-          "poster": "media/part-time-job/alt-hook-b-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 28.43,
-          "bytes": 4367619,
-          "hasAudio": true
-        }
-      ],
-      "extras": [
-        {
-          "label": "Contact sheet against the reference",
-          "kind": "image",
-          "src": "media/part-time-job/extra-1.jpg",
-          "width": 1600,
-          "height": 792,
-          "bytes": 228648
+          "bytes": 181074
         }
       ]
     },
@@ -1334,11 +1283,12 @@
       "number": 8,
       "title": "Never Knew How to Start",
       "logline": "I did not know what to build with my coding agent, so pick a bounty somebody already wants built.",
-      "summary": "A 32.6 s vertical UGC ad translated from pump.fun's \"Pick people, not coins\": a selfie hook titled \"Pick bounties, not ideas.\", a brand slate, full-screen product plates with a head-and-shoulders cut-out and number pops, and a dark end card.",
+      "summary": "A 29.6 s vertical UGC ad translated from pump.fun's \"Pick people, not coins\": a selfie hook titled \"Pick bounties, not ideas.\", a brand slate, full-screen product plates with a head-and-shoulders cut-out and number pops, and a dark end card. Every figure now reads Bounty (the board cards, the timer card, the prize rows) and the presenter says \"First place wins bounties\" while the pop reads Bounties.",
       "project": "make.fun auto",
-      "location": "ads/never-knew on main (lip-synced presenter cut, commit ac15cfa)",
+      "location": "ads/bounties/never-knew (bounties cut; the money cut it was made from: ads/never-knew on main (lip-synced presenter cut, commit ac15cfa))",
       "chat": "Ad 08: Never knew how to start",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1359,7 +1309,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 29.63,
-          "bytes": 3273161,
+          "bytes": 3152106,
           "hasAudio": true
         }
       ],
@@ -1371,7 +1321,7 @@
           "src": "media/never-knew/extra-1.jpg",
           "width": 1600,
           "height": 1533,
-          "bytes": 414022
+          "bytes": 401616
         }
       ]
     },
@@ -1380,11 +1330,12 @@
       "number": 7,
       "title": "Win Bounties",
       "logline": "Win bounties on make.fun. Enter with your agent.",
-      "summary": "A 15 s film after pump.fun's \"Trade memes\" 2:3 ad: a block caret types WIN / BOUNTIES / ON / make.fun, a stripe wipe to ENTER WITH YOUR AGENT, then a phone showing the real bounty page where one tap on Copy for your agent turns to Copied and the 1st $1,000 prize row breaks out.",
+      "summary": "A 15 s film after pump.fun's \"Trade memes\" 2:3 ad: a block caret types WIN / BOUNTIES / ON / make.fun, a stripe wipe to ENTER WITH YOUR AGENT, then a phone showing the real bounty page where one tap on Copy for your agent turns to Copied and the 1st prize row breaks out as a magenta Bounty bar.",
       "project": "make.fun auto",
-      "location": "ads/win-bounties on main",
+      "location": "ads/bounties/win-bounties (bounties cut; the money cut it was made from: ads/win-bounties on main)",
       "chat": "Ad 07: Trade memes (2x3)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1404,7 +1355,7 @@
           "height": 1080,
           "fps": 30,
           "duration": 15,
-          "bytes": 862798,
+          "bytes": 911813,
           "hasAudio": true
         },
         {
@@ -1416,24 +1367,11 @@
           "height": 1280,
           "fps": 30,
           "duration": 15,
-          "bytes": 891900,
+          "bytes": 955747,
           "hasAudio": true
         }
       ],
-      "alternates": [
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/win-bounties/alt-reddit.mp4",
-          "poster": "media/win-bounties/alt-reddit.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 15,
-          "bytes": 963779,
-          "hasAudio": true
-        }
-      ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one frame per timeline row",
@@ -1441,39 +1379,21 @@
           "src": "media/win-bounties/extra-1.jpg",
           "width": 1600,
           "height": 589,
-          "bytes": 95116
+          "bytes": 95572
         }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "The phone UI text is about 8 to 10 px.",
-        "fix": "Crop in on the UI. Add the payout lines.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Pick a bounty and paste one line into your coding agent. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Pick a bounty. Point your agent at it. Paste one line into your agent. Your agent builds it: a public repo plus the transcript that wrote it. Brief and starter kit at make.fun. Music is AI-generated.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "shortLine": "Prize money for the best builds. Rules on each brief.",
-          "copy": "ads/x-safe/win-bounties/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/win-bounties/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "copy-make-submit-win",
       "number": 6,
       "title": "Copy, Make, Submit, Win",
       "logline": "The whole make.fun loop in four verbs, lit one by one over the real UI.",
-      "summary": "A 16.6 s vertical UGC-style film, the remake of \"One big win\". An AI-generated presenter says the four verbs while a step tracker lights up over the real make.fun agent bar, entry form, Submitted card and prize rows, and a \"1st place\" chip pops on the word win. The end card asks the viewer to copy the prompt.",
+      "summary": "A 16.6 s vertical UGC-style film, the remake of \"One big win\". An AI-generated presenter says the four verbs while a step tracker lights up over the real make.fun agent bar, entry form, Submitted card and prize rows, and a \"1st place\" chip pops on the word win. The prize card and the chips read Bounty where they showed a figure, and the presenter says \"Top score takes bounties.\" The end card asks the viewer to copy the prompt.",
       "project": "make.fun auto",
-      "location": "ads/copy-make-submit-win on branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat",
+      "location": "ads/bounties/copy-make-submit-win (bounties cut; the money cut it was made from: ads/copy-make-submit-win on branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat)",
       "chat": "Ad 06: One big win",
       "status": "final",
-      "statusNote": "Not cleared to run: make.fun did not resolve publicly when this was built (launch blocker in the ad README).",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1492,8 +1412,8 @@
           "width": 720,
           "height": 1280,
           "fps": 30,
-          "duration": 16.6,
-          "bytes": 2702872,
+          "duration": 16.33,
+          "bytes": 2731533,
           "hasAudio": true
         }
       ],
@@ -1505,7 +1425,7 @@
           "src": "media/copy-make-submit-win/extra-1.jpg",
           "width": 1456,
           "height": 1288,
-          "bytes": 314014
+          "bytes": 311428
         }
       ]
     },
@@ -1514,11 +1434,12 @@
       "number": 6,
       "title": "One Big Win",
       "logline": "A lucky demo proves nothing: this bounty is scored on data drawn after the deadline.",
-      "summary": "A 19.8 s vertical film where an AI-generated presenter talks to a propped phone camera. Captions, a board overlay and a phone card of the real bounty page carry the point that one lucky run does not win, and the end card sends viewers to make.fun.",
+      "summary": "A 19.8 s vertical film where an AI-generated presenter talks to a propped phone camera. Captions, a board overlay and a phone card of the real bounty page carry the point that one lucky run does not win, and the end card sends viewers to make.fun. Every figure on the board cards, the phone card and the chip now reads Bounty, and she says \"bounties for first\".",
       "project": "make.fun auto",
-      "location": "ads/one-big-win on main; newest cut from unmerged branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat (commit 78db563, phone card and board re-captured from production)",
+      "location": "ads/bounties/one-big-win (bounties cut; the money cut it was made from: ads/one-big-win on main; newest cut from unmerged branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat (commit 78db563, phone card and board re-captured from production))",
       "chat": "Ad 06: One big win",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1537,8 +1458,8 @@
           "width": 720,
           "height": 1280,
           "fps": 30,
-          "duration": 19.8,
-          "bytes": 3735927,
+          "duration": 19.7,
+          "bytes": 3650625,
           "hasAudio": true
         }
       ],
@@ -1550,7 +1471,7 @@
           "src": "media/one-big-win/extra-1.jpg",
           "width": 1456,
           "height": 1288,
-          "bytes": 288468
+          "bytes": 290417
         }
       ]
     },
@@ -1559,12 +1480,12 @@
       "number": 5,
       "title": "Group Chat",
       "logline": "My group chat thinks I can code. My agent does the coding. I just find the bounties.",
-      "summary": "A 35 s vertical dramatization in which an AI-generated creator, Jules, tells his group chat the truth about how he enters bounties. Footage is generated; every piece of text and UI is drawn by code from the real make.fun board, bounty page, terminal and chat.",
+      "summary": "A 35 s vertical dramatization in which an AI-generated creator, Jules, tells his group chat the truth about how he enters bounties. Footage is generated; every piece of text and UI is drawn by code from the real make.fun board, bounty page, terminal and chat. Wherever the board, the bounty page and the chat showed a prize figure they now say \"Bounty\", and the chat bubble reads \"wait 1st gets bounties??\".",
       "project": "make.fun auto",
-      "location": "ads/group-chat on branch cosmos/6bc315ea-5d4a-4918-84d0-efe349815bed/chat",
+      "location": "ads/bounties/group-chat (bounties cut; the money cut it was made from: ads/group-chat on branch cosmos/6bc315ea-5d4a-4918-84d0-efe349815bed/chat)",
       "chat": "Ad 05: Group chat early coins",
       "status": "final",
-      "statusNote": "Round 4 cut. All hard gates pass; the review judges still score motion and variety below the floor.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1585,7 +1506,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 35.03,
-          "bytes": 5950472,
+          "bytes": 5890184,
           "hasAudio": true
         }
       ],
@@ -1597,7 +1518,7 @@
           "src": "media/group-chat/extra-1.jpg",
           "width": 1600,
           "height": 948,
-          "bytes": 245118
+          "bytes": 244678
         }
       ]
     },
@@ -1606,11 +1527,12 @@
       "number": 4,
       "title": "Get It Together",
       "logline": "A slob on the couch is told to get it together, points his agent at a prize bounty and glows up.",
-      "summary": "A 36 s 3D-animated skit after pump.fun's \"Get It Together\": a tough-love stranger outside a corner store, a POV insert of the product on a phone, the leap off the couch, a glow-up montage and a rooftop party where the regretful ex comes back.",
+      "summary": "A 36 s 3D-animated skit after pump.fun's \"Get It Together\": a tough-love stranger outside a corner store, a POV insert of the product on a phone (the bounty page's total now reads \"Bounty\"), the leap off the couch, a glow-up montage with a results card whose four rows read \"Bounty\", and a rooftop party where the regretful ex comes back.",
       "project": "make.fun auto",
-      "location": "ads/get-it-together on main",
+      "location": "ads/bounties/get-it-together (bounties cut; the money cut it was made from: ads/get-it-together on main)",
       "chat": "Ad 04: Get It Together (3D)",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1629,7 +1551,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 36,
-          "bytes": 6739191,
+          "bytes": 6738962,
           "hasAudio": true
         }
       ],
@@ -1641,7 +1563,7 @@
           "src": "media/get-it-together/extra-1.jpg",
           "width": 807,
           "height": 1600,
-          "bytes": 369588
+          "bytes": 369288
         }
       ]
     },
@@ -1650,11 +1572,12 @@
       "number": 3,
       "title": "Derby",
       "logline": "A soapbox derby in the grammar of pump.fun's \"Scared money\": a cardboard kart beats the chrome one.",
-      "summary": "A nervous kid in a cardboard kart races a smug rival in a chrome kart. A black-and-white flashback shows the kid entering a make.fun bounty with his agent, then comes \"Send it.\", a photo finish and \"In a cardboard box?!\" before the end card.",
+      "summary": "A nervous kid in a cardboard kart races a smug rival in a chrome kart. A black-and-white flashback shows the kid entering a make.fun bounty with his agent (the bounty page and the lower third now say \"Bounty\" and \"1st prize: bounties\"), then comes \"Send it.\", a photo finish and \"In a cardboard box?!\" before the end card.",
       "project": "make.fun auto",
-      "location": "ads/derby on main; newest cut from unmerged branch cosmos/f93d7e99-2593-4a3b-a624-0a225e65530a/chat (commit 365847e, HUD row clip fix)",
+      "location": "ads/bounties/derby (bounties cut; the money cut it was made from: ads/derby on main; newest cut from unmerged branch cosmos/f93d7e99-2593-4a3b-a624-0a225e65530a/chat (commit 365847e, HUD row clip fix))",
       "chat": "Ad 03: Scared money",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1673,7 +1596,7 @@
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 3139828,
+          "bytes": 3139701,
           "hasAudio": true
         }
       ],
@@ -1685,7 +1608,7 @@
           "src": "media/derby/extra-1.jpg",
           "width": 1600,
           "height": 1167,
-          "bytes": 336294
+          "bytes": 336187
         }
       ]
     },
@@ -1694,12 +1617,12 @@
       "number": 2,
       "title": "Vows",
       "logline": "A stylized-3D wedding skit that ends on a new bounty on make.fun.",
-      "summary": "A 50.1 s wedding skit in the grammar of a pump.fun ad: one-word captions at dead centre, two full-frame phone cutaways of the real product, a punchline that names the brand and a short brand end card. The committed files are previews; the upload masters stay out of git.",
+      "summary": "A 50.1 s wedding skit in the grammar of a pump.fun ad: one-word captions at dead centre, two full-frame phone cutaways of the real product, a punchline that names the brand and a short brand end card. In this cut the groom says \"My agent's about to win bounties\" and the phone shows Bounty and \"On track to win bounties\" where it showed dollar figures.",
       "project": "make.fun auto",
-      "location": "ads/vows on main",
+      "location": "ads/bounties/vows (bounties cut; the money cut it was made from: ads/vows on main)",
       "chat": "Ad 02: Married to the game",
       "status": "final",
-      "statusNote": "Launch blockers in ads/vows/README.md: make.fun must serve the product, and the X ad-policy review is still owed.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1718,7 +1641,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 50.13,
-          "bytes": 7003172,
+          "bytes": 7016297,
           "hasAudio": true
         },
         {
@@ -1730,7 +1653,7 @@
           "height": 720,
           "fps": 24,
           "duration": 50.13,
-          "bytes": 5056185,
+          "bytes": 5054776,
           "hasAudio": true
         }
       ],
@@ -1742,7 +1665,7 @@
           "src": "media/vows/extra-1.jpg",
           "width": 1600,
           "height": 917,
-          "bytes": 320426
+          "bytes": 318872
         }
       ]
     },
@@ -1751,11 +1674,12 @@
       "number": 1,
       "title": "Vibes",
       "logline": "If Grandma can enter a bounty, so can you.",
-      "summary": "A 32.5 s 3D-animated comedy in a grandparents' kitchen: Theo is stuck in the one-more-prompt loop while June, knitting, has already pointed her AI agent at a $1,000 bounty, and Walt wakes up and reaches for a tablet. One caption word at a time, no music until the app appears.",
+      "summary": "A 32.5 s 3D-animated comedy in a grandparents' kitchen: Theo is stuck in the one-more-prompt loop while June, knitting, has already pointed her AI agent at bounties, and Walt wakes up and reaches for a tablet. One caption word at a time, no music until the app appears. Bounties cut: June now says \"Mine's for bounties.\" (same voice, lip-synced) and the bounty page shows Bounty in every prize slot.",
       "project": "make.fun auto",
-      "location": "ads/vibes on main",
+      "location": "ads/bounties/vibes (bounties cut; the money cut it was made from: ads/vibes on main)",
       "chat": "Ad 01: Grandma can trade memes",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1774,7 +1698,7 @@
           "height": 720,
           "fps": 24,
           "duration": 32.5,
-          "bytes": 2896366,
+          "bytes": 2875203,
           "hasAudio": true
         }
       ],
@@ -1786,7 +1710,7 @@
           "src": "media/vibes/extra-1.jpg",
           "width": 1600,
           "height": 763,
-          "bytes": 246003
+          "bytes": 242704
         }
       ]
     },
@@ -1794,12 +1718,13 @@
       "id": "climb",
       "number": null,
       "title": "Climb",
-      "logline": "Kai's agent enters the five live bounties and the running total climbs to $3,075.",
-      "summary": "A code-rendered 18 s film built from captured make.fun mobile screens. Star-coins drop and the Earnings counter ticks up as each of the five live bounties is entered, ending on the landed end card. The figures are a dramatization of the live prize ladder.",
+      "logline": "Kai's agent enters the five live bounties and the Bounties label grows with every win.",
+      "summary": "A code-rendered 18 s film built from captured make.fun mobile screens. Star-coins drop and the \"Bounties\" label grows as each of the five live bounties is entered, ending on the landed end card. The wins are a dramatization of the live prize ladder.",
       "project": "make.fun auto",
-      "location": "ads/climb on main",
+      "location": "ads/bounties/climb (bounties cut; the money cut it was made from: ads/climb on main)",
       "chat": "Pump.fun-style escalating winnings ad for make.fun",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1819,42 +1744,12 @@
           "height": 1280,
           "fps": 30,
           "duration": 18,
-          "bytes": 1505281,
+          "bytes": 1464138,
           "hasAudio": true
         }
       ],
-      "alternates": [
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/climb/alt-reddit.mp4",
-          "poster": "media/climb/alt-reddit.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 18,
-          "bytes": 1120430,
-          "hasAudio": true
-        }
-      ],
-      "extras": [],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "The bounty-card thumbnails are photos of real people (the Roll Safe meme, a Rick Astley still), and the \"@kai's agent is on it\" pills are invented.",
-        "fix": "Use neutral icons. Remove the pills.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Pick a bounty, then another: three real software briefs, one coding agent. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Pick a bounty. Then another. Same agent, new brief. It reads the brief. Your agent builds it. Every submission gets the same checks. Paste one line into your agent. The video is a dramatization. Music and sound effects are AI-generated.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "copy": "ads/x-safe/climb/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/climb/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      "alternates": [],
+      "extras": []
     },
     {
       "id": "film-agent",
@@ -1863,9 +1758,10 @@
       "logline": "The entrant clicks Copy for the manager's agent, pastes the prompt into their coding agent, and the bounty page shows the entry graded and scored.",
       "summary": "A 30 s 16:9 film at 60 fps: the entrant copies the prompt from a bounty page and pastes it into a neutral terminal titled \"the manager's coding agent\". No manual form appears anywhere; the real bounty page then shows the entry graded and scored.",
       "project": "make.fun auto",
-      "location": "film-agent/ on main (renders in out/)",
+      "location": "ads/bounties/film-agent (bounties cut; the money cut it was made from: film-agent/ on main (renders in out/))",
       "chat": "Animated bounty submission ad for make.fun",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1885,53 +1781,25 @@
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 2651064,
+          "bytes": 2700845,
           "hasAudio": true
         }
       ],
       "alternates": [
         {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/film-agent/alt-reddit.mp4",
-          "poster": "media/film-agent/alt-reddit.jpg",
+          "key": "share-30fps",
+          "label": "30 fps share cut",
+          "src": "media/film-agent/alt-share-30fps.mp4",
+          "poster": "media/film-agent/alt-share-30fps.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 2098913,
+          "bytes": 2791522,
           "hasAudio": true
         }
       ],
-      "extras": [
-        {
-          "label": "30 fps share cut",
-          "kind": "video",
-          "src": "media/film-agent/extra-1.mp4",
-          "poster": "media/film-agent/extra-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "bytes": 2704755,
-          "duration": 30
-        }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "Roll Safe and portrait thumbnails of real people, and the scripted run to \"Scored\" has no sample label.",
-        "fix": "Use neutral icons. Label the run as sample.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Build it: copy one line for your coding agent and it takes a real software brief from there. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Build it. Copy for your agent, paste it into your coding agent, and your coding agent builds it. Point your agent at it. The submission in the video uses sample data. Music is AI-generated.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "copy": "ads/x-safe/film-agent/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/film-agent/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      "extras": []
     },
     {
       "id": "film-entry",
@@ -1940,10 +1808,10 @@
       "logline": "The entrant fills in and submits an entry to a make.fun bounty, shown in the real interface.",
       "summary": "A 30 s 16:9 film at 60 fps built from DOM plates captured from the make.fun entry-submission flow. It was replaced by the \"Enter With Your Agent\" film, which drops the manual form.",
       "project": "make.fun auto",
-      "location": "film-entry/ on main (renders in out/)",
+      "location": "ads/bounties/film-entry (bounties cut; the money cut it was made from: film-entry/ on main (renders in out/))",
       "chat": "Animated bounty submission ad for make.fun",
       "status": "final",
-      "statusNote": "Superseded by film-agent (listed as film-agent), which rebuilds the entry ad without a manual form.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1963,64 +1831,37 @@
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 3456050,
+          "bytes": 3525210,
           "hasAudio": true
         }
       ],
       "alternates": [
         {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/film-entry/alt-reddit.mp4",
-          "poster": "media/film-entry/alt-reddit.jpg",
+          "key": "share-30fps",
+          "label": "30 fps share cut",
+          "src": "media/film-entry/alt-share-30fps.mp4",
+          "poster": "media/film-entry/alt-share-30fps.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
-          "duration": 26.6,
-          "bytes": 2285187,
+          "duration": 30,
+          "bytes": 3501934,
           "hasAudio": true
         }
       ],
-      "extras": [
-        {
-          "label": "30 fps share cut",
-          "kind": "video",
-          "src": "media/film-entry/extra-1.mp4",
-          "poster": "media/film-entry/extra-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "bytes": 3463865,
-          "duration": 30
-        }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "The fabricated submit and score flow has no label, a github.com URL is typed, and some motion-blur frames smear.",
-        "fix": "Label it. Show a generic \"public repo\". Steady the blurred frames.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Build it, ship it: your coding agent builds a real software brief and you submit the public repo. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Build it. Pick a brief, get the starter kit, push to a public repo, paste the link with your agent's transcripts, and submit. Ship it. The submit flow in the video is a dramatization. Music is AI-generated.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "copy": "ads/x-safe/film-entry/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/film-entry/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      "extras": []
     },
     {
       "id": "first-place",
       "number": null,
       "title": "First Place",
-      "logline": "pump.fun's \"1.5X Referral Boosts\" still and Creator Program film, translated into make.fun: $1,000 for 1st place.",
-      "summary": "A 15 s music-only film: a bass drop into an extruded title on a ring bullseye, live bounty cards in depth, a slammed-in $1,000 \"for 1st place\", the real bounty page, a wall of crew ghosts and a black end card. The set also carries static heroes in four sizes and A/B display banner GIFs.",
+      "logline": "pump.fun's \"1.5X Referral Boosts\" still and Creator Program film, translated into make.fun: Bounties for 1st place.",
+      "summary": "A 15 s music-only film: a bass drop into an extruded title on a ring bullseye, live bounty cards in depth, a slammed-in \"Bounties\" for \"1st place\", the real bounty page, a wall of crew ghosts and a black end card. The set also carries static heroes in four sizes and A/B display banner GIFs.",
       "project": "make.fun auto",
-      "location": "ads/first-place on main (film files under ads/first-place/out)",
+      "location": "ads/bounties/first-place (bounties cut; the money cut it was made from: ads/first-place on main (film files under ads/first-place/out))",
       "chat": "Pump.fun-style ad for make.fun",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2040,7 +1881,7 @@
           "height": 720,
           "fps": 30,
           "duration": 15,
-          "bytes": 1769827,
+          "bytes": 1760300,
           "hasAudio": true
         },
         {
@@ -2052,24 +1893,11 @@
           "height": 1280,
           "fps": 30,
           "duration": 15,
-          "bytes": 1826963,
+          "bytes": 1802977,
           "hasAudio": true
         }
       ],
-      "alternates": [
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/first-place/alt-reddit.mp4",
-          "poster": "media/first-place/alt-reddit.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 15.5,
-          "bytes": 1393578,
-          "hasAudio": true
-        }
-      ],
+      "alternates": [],
       "extras": [
         {
           "label": "Static hero 1:1 (2000 px)",
@@ -2077,7 +1905,7 @@
           "src": "media/first-place/extra-1.jpg",
           "width": 1600,
           "height": 1600,
-          "bytes": 208728
+          "bytes": 207363
         },
         {
           "label": "Static hero Meta feed 4:5",
@@ -2085,7 +1913,7 @@
           "src": "media/first-place/extra-2.jpg",
           "width": 1080,
           "height": 1350,
-          "bytes": 148831
+          "bytes": 147569
         },
         {
           "label": "Static hero X timeline 16:9",
@@ -2093,7 +1921,7 @@
           "src": "media/first-place/extra-3.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 143720
+          "bytes": 135112
         },
         {
           "label": "Static hero Stories 9:16",
@@ -2101,7 +1929,7 @@
           "src": "media/first-place/extra-4.jpg",
           "width": 900,
           "height": 1600,
-          "bytes": 137415
+          "bytes": 137301
         },
         {
           "label": "Display banner 300x250, version A (GIF)",
@@ -2110,7 +1938,7 @@
           "poster": "media/first-place/extra-5.jpg",
           "width": 300,
           "height": 250,
-          "bytes": 31702,
+          "bytes": 30941,
           "duration": 6
         },
         {
@@ -2120,7 +1948,7 @@
           "poster": "media/first-place/extra-6.jpg",
           "width": 728,
           "height": 90,
-          "bytes": 22988,
+          "bytes": 23057,
           "duration": 6
         },
         {
@@ -2129,7 +1957,7 @@
           "src": "media/first-place/extra-7.jpg",
           "width": 1600,
           "height": 1448,
-          "bytes": 323572
+          "bytes": 314519
         },
         {
           "label": "Contact sheet, film beats",
@@ -2137,70 +1965,7 @@
           "src": "media/first-place/extra-8.jpg",
           "width": 1599,
           "height": 655,
-          "bytes": 201138
-        }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "Hard white-to-pink cuts at 1, 3, 5 and 7 s, a hard cut to black at 13 s and a ghost wall that re-randomises every frame read as strobing.",
-        "fix": "Cross-dissolve the cuts. Freeze the wall.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Pick a brief and point your agent at it. Build it, ship it. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "This one's for your agent. Build software with your agent. Pick a brief. Point your agent at it. Paste one line into your agent. Your agent builds it. Build it. Ship it.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "shortLine": "Prize money for the best builds. Rules on each brief.",
-          "copy": "ads/x-safe/first-place/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/first-place/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
-    },
-    {
-      "id": "nanas-first-bounty",
-      "number": null,
-      "title": "Nana's First Bounty",
-      "logline": "A grandma asks how to make money with AI, then her agents win bounties on make.fun.",
-      "summary": "A 47 second AI-generated short film: Nana asks \"How do I make money with AI?\", finds make.fun, submits to the captcha bounty and climbs to #1 for $10,000, then celebrates with a Lamborghini and a yacht while her agents keep winning. It ends on the make.fun logo and \"make money with AI.\". It is also published at singularitystudiosdev.github.io/agentfun-ad.",
-      "project": "agent.fun",
-      "location": "singularitystudiosdev.github.io/agentfun-ad (built in agent-fun/.tmp/adb07)",
-      "chat": "Grandma AI money video ad for agent.fun",
-      "status": "final",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "AI talent",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "16x9",
-      "poster": "media/nanas-first-bounty/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/nanas-first-bounty/16x9.mp4",
-          "poster": "media/nanas-first-bounty/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 46.79,
-          "bytes": 5912475,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "$10,000 win moment",
-          "kind": "image",
-          "src": "media/nanas-first-bounty/extra-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "bytes": 112782
+          "bytes": 198521
         }
       ]
     },
@@ -2209,11 +1974,12 @@
       "number": null,
       "title": "One Line",
       "logline": "You press one button, the entry is graded in a sandbox, and you get paid.",
-      "summary": "A 6 s code-rendered film with no cuts: one container travels from the bounty card and its \"Copy for your agent\" button through the stage rail to the coin in the ghost's hand of the real logo. Delivered as a 9:16 master and a 16:9 re-layout.",
+      "summary": "A 6 s code-rendered film with no cuts: one container travels from the bounty card and its \"Copy for your agent\" button through the stage rail to the coin in the ghost's hand of the real logo, with \"Bounties\" on the payout beat. Delivered as a 9:16 master and a 16:9 re-layout.",
       "project": "make.fun auto",
-      "location": "ads/one-line on main (files under ads/one-line/out)",
+      "location": "ads/bounties/one-line (bounties cut; the money cut it was made from: ads/one-line on main (files under ads/one-line/out))",
       "chat": "Short video ad for make.fun bounties",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2233,7 +1999,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 6,
-          "bytes": 570065,
+          "bytes": 556116,
           "hasAudio": true
         },
         {
@@ -2245,24 +2011,11 @@
           "height": 720,
           "fps": 30,
           "duration": 6,
-          "bytes": 470551,
+          "bytes": 448613,
           "hasAudio": true
         }
       ],
-      "alternates": [
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/one-line/alt-reddit.mp4",
-          "poster": "media/one-line/alt-reddit.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 6.77,
-          "bytes": 361931,
-          "hasAudio": true
-        }
-      ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -2270,38 +2023,21 @@
           "src": "media/one-line/extra-1.jpg",
           "width": 1600,
           "height": 948,
-          "bytes": 165870
+          "bytes": 159886
         }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "The stage rail ticks to \"Scored\" with no sample label.",
-        "fix": "Label it as sample. The film is 6 s, so the payout lines go in the post text.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Pick a bounty and point your agent at it: one line starts the run. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Pick a bounty. Copy one line for your agent. Graded in a sandbox. Checks run. Point your agent at it. The submission in the video uses sample data.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "shortLine": "Prize money for the best builds. Rules on each brief.",
-          "copy": "ads/x-safe/one-line/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/one-line/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "payday",
       "number": null,
       "title": "Payday",
       "logline": "Build it. Get paid.",
-      "summary": "A 20.5 s vertical film of one submission and one $1,000 win, built from captured fragments of the real make.fun mobile pages. Screens only scroll vertically, with no zoom, side crop or blur.",
+      "summary": "A 20.5 s vertical film of one submission and one win, built from captured fragments of the real make.fun mobile pages. Screens only scroll vertically, with no zoom, side crop or blur; every figure reads Bounty or Bounties.",
       "project": "make.fun auto",
-      "location": "ads/payday on main",
+      "location": "ads/bounties/payday (bounties cut; the money cut it was made from: ads/payday on main)",
       "chat": "Make.fun bounty submission ad video",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2321,53 +2057,24 @@
           "height": 1280,
           "fps": 30,
           "duration": 20.5,
-          "bytes": 1038626,
+          "bytes": 1003118,
           "hasAudio": true
         }
       ],
-      "alternates": [
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/payday/alt-reddit.mp4",
-          "poster": "media/payday/alt-reddit.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.5,
-          "bytes": 607272,
-          "hasAudio": true
-        }
-      ],
-      "extras": [],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "An invented submitter \"@kai\" and \"20 checks passed\", a typed github.com URL, and headlines tracked so tightly they merge.",
-        "fix": "Remove the handle and the URL. Label it as sample. Fix the tracking.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Pick a bounty and point your coding agent at it. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Pick a bounty. Point your agent at it. Your agent builds it. We grade it. Paste one line into your agent. The video shows a sample submission (sample data). Music and sound effects are AI-generated.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "copy": "ads/x-safe/payday/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/payday/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      "alternates": [],
+      "extras": []
     },
     {
       "id": "prize-pool",
       "number": null,
       "title": "Prize Pool",
-      "logline": "A giant extruded prize number on a bright ground: the live prize pool, and the first prize with the five bounties around it.",
-      "summary": "Two organic X statics in the grammar of pump.fun's prize-number posts. Hero A shows the live pool figure in four sizes; Hero B shows concentric rings, the $1,000 first prize and one chip per live bounty. Every number is read from the live API snapshot.",
+      "logline": "A giant extruded number on a bright ground: the live bounties, and the first place prize with the five bounties around it.",
+      "summary": "Two organic X statics in the grammar of pump.fun's prize-number posts. Hero A shows the word Bounties as one giant extruded figure in four sizes; Hero B shows concentric rings, a Bounties figure over a 1st place prize pill and one chip per live bounty. Every figure that was a dollar amount now reads Bounties.",
       "project": "make.fun auto",
-      "location": "ads/prize-pool on main",
+      "location": "ads/bounties/prize-pool (bounties cut; the money cut it was made from: ads/prize-pool on main)",
       "chat": "Pump.fun-style promo ad for make.fun",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "static",
       "tags": [
@@ -2384,7 +2091,7 @@
           "src": "media/prize-pool/extra-1.jpg",
           "width": 1080,
           "height": 1080,
-          "bytes": 111330
+          "bytes": 101982
         },
         {
           "label": "Hero A, 4:5",
@@ -2392,7 +2099,7 @@
           "src": "media/prize-pool/extra-2.jpg",
           "width": 1080,
           "height": 1350,
-          "bytes": 119462
+          "bytes": 110042
         },
         {
           "label": "Hero A, 16:9",
@@ -2400,7 +2107,7 @@
           "src": "media/prize-pool/extra-3.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 133460
+          "bytes": 123762
         },
         {
           "label": "Hero B rings, 1:1",
@@ -2408,7 +2115,7 @@
           "src": "media/prize-pool/extra-4.jpg",
           "width": 1080,
           "height": 1080,
-          "bytes": 151890
+          "bytes": 139865
         },
         {
           "label": "Hero A, 1:1 at 2160 px",
@@ -2416,7 +2123,7 @@
           "src": "media/prize-pool/extra-5.jpg",
           "width": 1600,
           "height": 1600,
-          "bytes": 184169
+          "bytes": 170170
         },
         {
           "label": "Hero B rings, 1:1 at 2160 px",
@@ -2424,45 +2131,21 @@
           "src": "media/prize-pool/extra-6.jpg",
           "width": 1600,
           "height": 1600,
-          "bytes": 248835
-        },
-        {
-          "label": "Reddit cut",
-          "kind": "image",
-          "src": "media/prize-pool/extra-7.jpg",
-          "width": 1600,
-          "height": 900,
-          "bytes": 146456
+          "bytes": 232361
         }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "\"5 open software briefs\" must match the landing page on the day it runs.",
-        "fix": "Re-read the count at launch. Add the payout lines under the number.",
-        "judged": "v2",
-        "cut": {
-          "headline": "Point your coding agent at one of 5 open software briefs. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "5 open software briefs. Build on make.fun.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "copy": "ads/x-safe/prize-pool/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/prize-pool/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "showdown",
       "number": null,
       "title": "Showdown",
       "logline": "A build showdown over two laptops: the pro slams his laptop shut when the kid turns his screen round.",
-      "summary": "A 30 s 1:1 film in the grammar of a pump.fun promoted ad: a smug pro taunts a nervous kid across a table, a white flash cuts to a black-and-white flashback, an eye montage builds, the kid turns his screen round and the pro stares before the end card.",
+      "summary": "A 30 s 1:1 film in the grammar of a pump.fun promoted ad: a smug pro taunts a nervous kid across a table, a white flash cuts to a black-and-white flashback, an eye montage builds, the kid turns his screen round and the pro stares before the end card. On the bounty page in the flashback the pool and every prize read Bounty.",
       "project": "make.fun auto",
-      "location": "ads/showdown on main",
+      "location": "ads/bounties/showdown (bounties cut; the money cut it was made from: ads/showdown on main)",
       "chat": "Pump.fun-style video ad for make.fun",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2481,7 +2164,7 @@
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 2066493,
+          "bytes": 2066657,
           "hasAudio": true
         }
       ],
@@ -2491,9 +2174,9 @@
           "label": "Contact sheet, one cell per shot",
           "kind": "image",
           "src": "media/showdown/extra-1.jpg",
-          "width": 1600,
+          "width": 1599,
           "height": 1167,
-          "bytes": 230952
+          "bytes": 231542
         }
       ]
     },
@@ -2502,12 +2185,12 @@
       "number": null,
       "title": "The House",
       "logline": "The house always wins, until a make.fun bounty where the best build wins.",
-      "summary": "A 32.7 s 3D-animated casino comedy in the pattern of the pump.fun \"grandma\" ad: a grandma at a rigged slot machine, a kid who tells her the house always wins, and the turn to make.fun, where the best build takes the prize.",
+      "summary": "A 32.7 s 3D-animated casino comedy in the pattern of the pump.fun \"grandma\" ad: a grandma at a rigged slot machine, a kid who tells her the house always wins, and the turn to make.fun, where the best build takes the prize. On the app screens the brief's figure reads Bounty and the ranking says \"On track to win bounties\".",
       "project": "make.fun auto",
-      "location": "ads/the-house on main",
+      "location": "ads/bounties/the-house (bounties cut; the money cut it was made from: ads/the-house on main)",
       "chat": "Pump.fun-style ad for make.fun",
       "status": "final",
-      "statusNote": "A review against X's live Ads Policies (including gambling content) is owed before any upload.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2526,7 +2209,7 @@
           "height": 720,
           "fps": 24,
           "duration": 32.67,
-          "bytes": 3736213,
+          "bytes": 3741873,
           "hasAudio": true
         }
       ],
@@ -2538,21 +2221,21 @@
           "src": "media/the-house/extra-1.jpg",
           "width": 1600,
           "height": 1279,
-          "bytes": 449834
+          "bytes": 451929
         }
       ]
     },
     {
       "id": "bounties-launch",
       "number": null,
-      "title": "Bounties Launch: One Line, $1,000",
-      "logline": "One line pasted into your coding agent can win $1,000 on a make.fun bounty.",
-      "summary": "The launch ad for make.fun's bounties page. A terminal takes one pasted line, the agent works, five live bounty cards flip in with the prize ladder (1st $1,000), three proof chips explain the grading and an end card says \"Build it. Get paid.\" Every number is read from the live API at render time. A 6 s bumper and a prize-first static series ride with it.",
+      "title": "Bounties Launch: One Line",
+      "logline": "One line pasted into your coding agent can win bounties on a make.fun bounty.",
+      "summary": "The launch ad for make.fun's bounties page. A terminal takes one pasted line, the agent works, five live bounty cards flip in with the prize ladder (every figure now reads Bounty), three proof chips explain the grading and an end card says \"Build it. Get paid.\" A 6 s bumper and a prize-first static series ride with it.",
       "project": "make.fun auto",
-      "location": "ads/video, ads/static, ads/brief.md and ads/README.md on main (built by ads/src)",
+      "location": "ads/bounties/bounties-launch (bounties cut; the money cut it was made from: ads/video, ads/static, ads/brief.md and ads/README.md on main (built by ads/src))",
       "chat": "make.fun ad: build the creative",
       "status": "final",
-      "statusNote": "ads/README.md lists a contact-sheet.png that was never committed, so none is shown.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "video",
       "tags": [
@@ -2572,7 +2255,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 15,
-          "bytes": 588900,
+          "bytes": 580062,
           "hasAudio": true
         },
         {
@@ -2584,7 +2267,7 @@
           "height": 720,
           "fps": 30,
           "duration": 15,
-          "bytes": 547816,
+          "bytes": 540628,
           "hasAudio": true
         },
         {
@@ -2596,7 +2279,7 @@
           "height": 720,
           "fps": 30,
           "duration": 15,
-          "bytes": 593724,
+          "bytes": 584888,
           "hasAudio": true
         }
       ],
@@ -2610,7 +2293,7 @@
           "height": 1280,
           "fps": 30,
           "duration": 6,
-          "bytes": 208603,
+          "bytes": 204969,
           "hasAudio": true
         },
         {
@@ -2622,7 +2305,7 @@
           "height": 720,
           "fps": 30,
           "duration": 6,
-          "bytes": 202361,
+          "bytes": 198174,
           "hasAudio": true
         },
         {
@@ -2634,19 +2317,7 @@
           "height": 720,
           "fps": 30,
           "duration": 6,
-          "bytes": 215314,
-          "hasAudio": true
-        },
-        {
-          "key": "reddit",
-          "label": "Reddit cut",
-          "src": "media/bounties-launch/alt-reddit.mp4",
-          "poster": "media/bounties-launch/alt-reddit.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 14.5,
-          "bytes": 525986,
+          "bytes": 209876,
           "hasAudio": true
         }
       ],
@@ -2657,7 +2328,7 @@
           "src": "media/bounties-launch/extra-1.jpg",
           "width": 900,
           "height": 1600,
-          "bytes": 96323
+          "bytes": 95564
         },
         {
           "label": "Static: dropshipping bounty, 4:5",
@@ -2665,7 +2336,7 @@
           "src": "media/bounties-launch/extra-2.jpg",
           "width": 1080,
           "height": 1350,
-          "bytes": 121994
+          "bytes": 120886
         },
         {
           "label": "Static: dropshipping bounty, X 16:9",
@@ -2673,7 +2344,7 @@
           "src": "media/bounties-launch/extra-3.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 94984
+          "bytes": 94916
         },
         {
           "label": "Static: close the books bounty, 4:5",
@@ -2681,7 +2352,7 @@
           "src": "media/bounties-launch/extra-4.jpg",
           "width": 1080,
           "height": 1350,
-          "bytes": 128522
+          "bytes": 127572
         },
         {
           "label": "Static: store import bounty, 9:16",
@@ -2689,7 +2360,7 @@
           "src": "media/bounties-launch/extra-5.jpg",
           "width": 900,
           "height": 1600,
-          "bytes": 96778
+          "bytes": 96159
         },
         {
           "label": "Static: save module bounty, X 16:9",
@@ -2697,7 +2368,7 @@
           "src": "media/bounties-launch/extra-6.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 105514
+          "bytes": 105462
         },
         {
           "label": "Static: chart scrape bounty, 9:16",
@@ -2705,7 +2376,7 @@
           "src": "media/bounties-launch/extra-7.jpg",
           "width": 900,
           "height": 1600,
-          "bytes": 95832
+          "bytes": 95068
         },
         {
           "label": "Organic arena card, X 16:9",
@@ -2713,39 +2384,21 @@
           "src": "media/bounties-launch/extra-8.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 97592
+          "bytes": 99793
         }
-      ],
-      "reddit": {
-        "verdict": "cut",
-        "reason": "The line \"Nobody can tune to the test.\" is a caption, not a guarantee, and the scripted terminal run has no label.",
-        "fix": "Cut the line. Label the run \"Dramatization\".",
-        "judged": "v2",
-        "cut": {
-          "headline": "Paste one line into your coding agent and it builds a real software brief. Your agent builds it, a sandbox grades it, and make.fun pays prize money to entries that place in the top 10 and beat the house baseline.",
-          "postText": "Paste one line into your agent. Your coding agent builds it. Pick a bounty. Point your coding agent at it. Graded in a sandbox, transcripts required, and anyone can rerun the grader. The terminal run in the video is a dramatization.",
-          "smallPrint": "Skill contest. Prizes paid by make.fun: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief. Not sponsored by, endorsed by or associated with Reddit.",
-          "shortLine": "Prize money for the best builds. Rules on each brief.",
-          "copy": "ads/x-safe/bounties-launch/reddit/REDDIT-COPY.md",
-          "folder": "ads/x-safe/bounties-launch/reddit",
-          "ref": "35db6d3",
-          "labels": [
-            "Reddit cut"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "film-create-bounty",
       "number": null,
       "title": "Create a Bounty",
       "logline": "From a blank question to a funded bounty that AI agents compete for, in one smooth take through make.fun's real interface.",
-      "summary": "A 30 s 16:9 film at 60 fps: a tilted bounty board and a hook question, then one continuous take through the create-a-bounty wizard (idea, title, prizes, review), sign-in and funding, ending as the new bounty drops into the board. Every change is caused by the cursor, and the cut lands on a 124 bpm score.",
+      "summary": "A 30 s 16:9 film at 60 fps: a tilted bounty board and a hook question, then one continuous take through the create-a-bounty wizard (idea, title, prizes, review), sign-in and funding, ending as the new bounty drops into the board. Every figure reads Bounty or Bounties. Every change is caused by the cursor, and the cut lands on a 124 bpm score.",
       "project": "make.fun auto",
-      "location": "film/ on main (renders in out/)",
+      "location": "ads/bounties/film-create-bounty (bounties cut; the money cut it was made from: film/ on main (renders in out/))",
       "chat": "Animated bounty submission ad for make.fun",
       "status": "final",
-      "statusNote": "No review rounds were run on this film (the manager waived them); see film/docs/review_log.md.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "video",
       "tags": [
@@ -2765,7 +2418,7 @@
           "height": 720,
           "fps": 30,
           "duration": 30,
-          "bytes": 2853436,
+          "bytes": 2823146,
           "hasAudio": true
         }
       ],
@@ -2776,8 +2429,8 @@
           "kind": "image",
           "src": "media/film-create-bounty/extra-1.jpg",
           "width": 1600,
-          "height": 1086,
-          "bytes": 182333
+          "height": 750,
+          "bytes": 134525
         },
         {
           "label": "30 fps share cut",
@@ -2786,7 +2439,7 @@
           "poster": "media/film-create-bounty/extra-2.jpg",
           "width": 1280,
           "height": 720,
-          "bytes": 2892230,
+          "bytes": 2853131,
           "duration": 30.07
         }
       ]
@@ -2798,10 +2451,10 @@
       "logline": "One finished video ad made with the AI-service keys in the keychain: a ghost writer, a bounty and a prize.",
       "summary": "A 20 s film built from generated ghost clips, a recorded voiceover, a 120 BPM score and a code-rendered layer: a real dark-mode bounty page, the Copy for your agent click, the command landing in a terminal, proof tags and an end card.",
       "project": "make.fun auto",
-      "location": "ads/ghostwriter on main; the rendered MP4s were removed from main and are pinned to commit 19b13c7 (Kling clips swapped in); edit/build.sh rebuilds them",
+      "location": "ads/bounties/ghostwriter (bounties cut; the money cut it was made from: ads/ghostwriter on main; the rendered MP4s were removed from main and are pinned to commit 19b13c7 (Kling clips swapped in); edit/build.sh rebuilds them)",
       "chat": "Make.fun ad using keychain API services",
       "status": "final",
-      "statusNote": "No poster or contact sheet was ever committed, and the post-Kling judge round was not run.",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "video",
       "tags": [
@@ -2821,7 +2474,7 @@
           "height": 1280,
           "fps": 24,
           "duration": 20,
-          "bytes": 1505133,
+          "bytes": 1500840,
           "hasAudio": true
         },
         {
@@ -2833,7 +2486,7 @@
           "height": 720,
           "fps": 24,
           "duration": 20,
-          "bytes": 1562606,
+          "bytes": 1557745,
           "hasAudio": true
         }
       ],
@@ -2845,11 +2498,12 @@
       "number": null,
       "title": "The Lineup",
       "logline": "A police lineup of crew ghosts holding entry receipts, over make.fun's live bounty board.",
-      "summary": "A static ad set translated from nof1's Alpha Arena lineup creative into make.fun's Light UI, in X, Meta feed and Stories sizes, with a per-bounty sign variant and a follow-up \"Open places\" podium card. An 8 s 4:5 motion cut of the hero is included as an extra.",
+      "summary": "A static ad set translated from nof1's Alpha Arena lineup creative into make.fun's Light UI, in X, Meta feed and Stories sizes, with a per-bounty sign variant (its prize line now reads Bounty) and a follow-up \"Open places\" podium card whose figures read Bounty. An 8 s 4:5 motion cut of the hero is included as an extra.",
       "project": "make.fun auto",
-      "location": "ads/lineup on main (files under ads/lineup/out)",
+      "location": "ads/bounties/lineup (bounties cut; the money cut it was made from: ads/lineup on main (files under ads/lineup/out))",
       "chat": "make.fun ad: The Lineup",
       "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every dollar amount the original showed or said now reads \"bounties\"; nothing else changed. The money cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "static",
       "tags": [
@@ -2901,7 +2555,7 @@
           "src": "media/lineup/extra-5.jpg",
           "width": 1600,
           "height": 900,
-          "bytes": 153899
+          "bytes": 153243
         },
         {
           "label": "Open places follow-up, 1:1 light",
@@ -2909,7 +2563,7 @@
           "src": "media/lineup/extra-6.jpg",
           "width": 1080,
           "height": 1080,
-          "bytes": 87761
+          "bytes": 90440
         },
         {
           "label": "Open places follow-up, 1:1 dark",
@@ -2917,7 +2571,7 @@
           "src": "media/lineup/extra-7.jpg",
           "width": 1080,
           "height": 1080,
-          "bytes": 82684
+          "bytes": 84855
         },
         {
           "label": "Contact sheet, every size",
@@ -2925,138 +2579,7 @@
           "src": "media/lineup/extra-8.jpg",
           "width": 1600,
           "height": 1414,
-          "bytes": 260038
-        }
-      ]
-    },
-    {
-      "id": "bounties-feed-scroll",
-      "number": null,
-      "title": "Bounties: scroll, submit, get paid",
-      "logline": "The live make.fun board scrolls to the captcha bounty, a GitHub link goes in, and $10,000 lands.",
-      "summary": "A 16 second launch film shot on the real make.fun frontend, staged offline. The board scrolls fast, the cursor opens the \"Make the fastest captcha solver\" bounty, a repo link is typed and submitted, and the page jumps to the $10,000 win before a match cut to the make.fun logo and \"make stuff and make money\". Music and click SFX are on the 120 BPM grid; there is no voice.",
-      "project": "Quick chats",
-      "location": "quick-chats/makefun-bounties-ad",
-      "chat": "Make.fun bounties scrolling ad video",
-      "status": "final",
-      "madeAt": "2026-10-30",
-      "kind": "video",
-      "tags": [
-        "screen capture",
-        "product demo",
-        "motion graphics"
-      ],
-      "primary": "16x9",
-      "poster": "media/bounties-feed-scroll/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/bounties-feed-scroll/16x9.mp4",
-          "poster": "media/bounties-feed-scroll/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 16,
-          "bytes": 1495220,
-          "hasAudio": true
-        },
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/bounties-feed-scroll/9x16.mp4",
-          "poster": "media/bounties-feed-scroll/9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 16,
-          "bytes": 2075877,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet 16:9",
-          "kind": "image",
-          "src": "media/bounties-feed-scroll/extra-1.jpg",
-          "width": 1600,
-          "height": 907,
-          "bytes": 200887
-        },
-        {
-          "label": "Contact sheet 9:16",
-          "kind": "image",
-          "src": "media/bounties-feed-scroll/extra-2.jpg",
-          "width": 907,
-          "height": 1600,
-          "bytes": 236691
-        }
-      ]
-    },
-    {
-      "id": "captcha-bounty-submit",
-      "number": null,
-      "title": "Submit solutions, make money",
-      "logline": "One continuous screen recording: open the captcha bounty, submit a repo, climb to #1, win $10,000.",
-      "summary": "A 14 second, 60 fps film that is a single unbroken recording of the make.fun mockup: the board, the \"fastest captcha solver\" card, a typed GitHub link, a live leaderboard climb and the $10,000 payout card, then a hard cut on the downbeat to the end card. No voice, no zoom, no click effects. The alternate adds the line \"Submit solutions to bounties, and make money.\" as a lower third for the first two seconds.",
-      "project": "Quick chats",
-      "location": "quick-chats/makefun-captcha-ad",
-      "chat": "Make.fun bounty submission ad",
-      "status": "final",
-      "madeAt": "2026-10-30",
-      "kind": "video",
-      "tags": [
-        "screen capture",
-        "product demo",
-        "motion graphics"
-      ],
-      "primary": "16x9",
-      "poster": "media/captcha-bounty-submit/16x9.jpg",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/captcha-bounty-submit/16x9.mp4",
-          "poster": "media/captcha-bounty-submit/16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 14,
-          "bytes": 1422768,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "caption",
-          "label": "With caption",
-          "src": "media/captcha-bounty-submit/alt-caption.mp4",
-          "poster": "media/captcha-bounty-submit/alt-caption.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 14,
-          "bytes": 1518211,
-          "hasAudio": true
-        }
-      ],
-      "extras": [
-        {
-          "label": "Contact sheet",
-          "kind": "image",
-          "src": "media/captcha-bounty-submit/extra-1.jpg",
-          "width": 1600,
-          "height": 577,
-          "bytes": 196763
-        },
-        {
-          "label": "Phone preview strip",
-          "kind": "image",
-          "src": "media/captcha-bounty-submit/extra-2.jpg",
-          "width": 1206,
-          "height": 514,
-          "bytes": 116294
+          "bytes": 260945
         }
       ]
     }
@@ -3231,6 +2754,26 @@
       "what": "make-it (Make It)",
       "where": "ads/make-it on main",
       "reason": "The user had it removed on 2026-11-05; never list it."
+    },
+    {
+      "what": "part-time-job (bounties cut in progress)",
+      "where": "ads/bounties/part-time-job (not built yet); the money cut is ads/part-time-job on main",
+      "reason": "Its original cut shows a dollar amount and its bounties cut is not finished, so it is held off the page."
+    },
+    {
+      "what": "bounties-feed-scroll (bounties cut in progress)",
+      "where": "ads/bounties/bounties-feed-scroll (not built yet); the money cut is quick-chats/makefun-bounties-ad",
+      "reason": "Its original cut shows a dollar amount and its bounties cut is not finished, so it is held off the page."
+    },
+    {
+      "what": "captcha-bounty-submit (bounties cut in progress)",
+      "where": "ads/bounties/captcha-bounty-submit (not built yet); the money cut is quick-chats/makefun-captcha-ad",
+      "reason": "Its original cut shows a dollar amount and its bounties cut is not finished, so it is held off the page."
+    },
+    {
+      "what": "nanas-first-bounty (bounties cut in progress)",
+      "where": "ads/bounties/nanas-first-bounty (not built yet); the money cut is singularitystudiosdev.github.io/agentfun-ad (built in agent-fun/.tmp/adb07)",
+      "reason": "Its original cut shows a dollar amount and its bounties cut is not finished, so it is held off the page."
     }
   ],
   "reddit": {
