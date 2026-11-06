@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-06T07:27:00.295Z",
+  "generatedAt": "2026-11-06T03:39:45.231Z",
   "totals": {
-    "ads": 44,
-    "final": 37,
+    "ads": 47,
+    "final": 40,
     "unfinished": 7,
-    "clips": 146,
-    "seconds": 3400.99,
-    "bytes": 318558673
+    "clips": 92,
+    "seconds": 2187.07,
+    "bytes": 236854243
   },
   "ads": [
     {
@@ -25,40 +25,14 @@
       "tags": [
         "AI talent"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/always-this-easy/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/always-this-easy/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/always-this-easy/xmoney-16x9.mp4",
-          "poster": "media/always-this-easy/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 45.88,
-          "bytes": 7495591,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/always-this-easy/alt-xmoney-1x1.mp4",
-          "poster": "media/always-this-easy/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 45.88,
-          "bytes": 5313729,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/always-this-easy/alt-original-16x9.mp4",
-          "poster": "media/always-this-easy/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/always-this-easy/16x9.mp4",
+          "poster": "media/always-this-easy/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 24,
@@ -67,10 +41,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/always-this-easy/alt-original-1x1.mp4",
-          "poster": "media/always-this-easy/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/always-this-easy/1x1.mp4",
+          "poster": "media/always-this-easy/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 24,
@@ -79,6 +53,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet of the 16:9 cut",
@@ -93,24 +68,6 @@
         "verdict": "not",
         "reason": "A slapstick injury (a stone dropped on Maya's foot, 19.8 to 24.8 s), the \"Done!\" payoffs, a label shown only from 0 to 2.2 s, and a model in a trading-app spot.",
         "fix": "None. The injury gag is structural."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/always-this-easy/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/always-this-easy/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/always-this-easy/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1"
-          ]
-        }
       }
     },
     {
@@ -131,52 +88,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/film-morph/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/film-morph/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/film-morph/xmoney-16x9.mp4",
-          "poster": "media/film-morph/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 31.77,
-          "bytes": 1617317,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/film-morph/alt-xmoney-1x1.mp4",
-          "poster": "media/film-morph/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 31.77,
-          "bytes": 1200026,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-16x9-30fps",
-          "label": "X cut (prize money), 16:9, 30 fps",
-          "src": "media/film-morph/alt-xmoney-16x9-30fps.mp4",
-          "poster": "media/film-morph/alt-xmoney-16x9-30fps.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 31.77,
-          "bytes": 1617720,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/film-morph/alt-original-16x9.mp4",
-          "poster": "media/film-morph/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-morph/16x9.mp4",
+          "poster": "media/film-morph/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -185,10 +104,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/film-morph/alt-original-1x1.mp4",
-          "poster": "media/film-morph/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/film-morph/1x1.mp4",
+          "poster": "media/film-morph/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -197,9 +116,10 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
-          "label": "Original cut, 30 fps share (the feed upload)",
+          "label": "30 fps share cut, the feed upload",
           "kind": "video",
           "src": "media/film-morph/extra-1.mp4",
           "poster": "media/film-morph/extra-1.jpg",
@@ -221,24 +141,6 @@
         "verdict": "pass",
         "reason": "Nothing in the creative. A sample-data label sits on every frame.",
         "fix": "Add the payout lines on the end card and in the post text."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "film-morph/x-money",
-        "ref": "1f0a12d",
-        "compliance": "film-morph/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "film-morph/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1",
-            "X cut (prize money), 16:9, 30 fps"
-          ]
-        }
       }
     },
     {
@@ -257,88 +159,14 @@
       "tags": [
         "motion graphics"
       ],
-      "primary": "xmoney-15-16x9",
-      "poster": "media/idle-agent/xmoney-15-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/idle-agent/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-15-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/idle-agent/xmoney-15-16x9.mp4",
-          "poster": "media/idle-agent/xmoney-15-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 18.4,
-          "bytes": 690228,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-15-1x1",
-          "label": "X cut (prize money), 1:1 (15 s)",
-          "src": "media/idle-agent/alt-xmoney-15-1x1.mp4",
-          "poster": "media/idle-agent/alt-xmoney-15-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 18.4,
-          "bytes": 600712,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-15-9x16",
-          "label": "X cut (prize money), 9:16 (15 s)",
-          "src": "media/idle-agent/alt-xmoney-15-9x16.mp4",
-          "poster": "media/idle-agent/alt-xmoney-15-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 18.4,
-          "bytes": 728506,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money), 16:9",
-          "src": "media/idle-agent/alt-xmoney-16x9.mp4",
-          "poster": "media/idle-agent/alt-xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 43,
-          "bytes": 2121214,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/idle-agent/alt-xmoney-1x1.mp4",
-          "poster": "media/idle-agent/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 43,
-          "bytes": 1733615,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money), 9:16",
-          "src": "media/idle-agent/alt-xmoney-9x16.mp4",
-          "poster": "media/idle-agent/alt-xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 43,
-          "bytes": 2155549,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/idle-agent/alt-original-16x9.mp4",
-          "poster": "media/idle-agent/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/idle-agent/16x9.mp4",
+          "poster": "media/idle-agent/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -347,10 +175,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/idle-agent/alt-original-1x1.mp4",
-          "poster": "media/idle-agent/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/idle-agent/1x1.mp4",
+          "poster": "media/idle-agent/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -359,17 +187,19 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/idle-agent/alt-original-9x16.mp4",
-          "poster": "media/idle-agent/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/idle-agent/9x16.mp4",
+          "poster": "media/idle-agent/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 39.6,
           "bytes": 2044533,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "15s-16x9",
           "label": "15 s cutdown, 16:9",
@@ -421,27 +251,6 @@
         "verdict": "pass",
         "reason": "Nothing in the creative. It is type only, and its grader lines are claims rows 117 to 120.",
         "fix": "Add the payout lines."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/idle-agent/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/idle-agent/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/idle-agent/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1 (15 s)",
-            "X cut (prize money), 9:16 (15 s)",
-            "X cut (prize money), 16:9",
-            "X cut (prize money), 1:1",
-            "X cut (prize money), 9:16"
-          ]
-        }
       }
     },
     {
@@ -460,40 +269,14 @@
       "tags": [
         "motion graphics"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/karaoke/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/karaoke/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/karaoke/xmoney-16x9.mp4",
-          "poster": "media/karaoke/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 31.2,
-          "bytes": 1021401,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money), 9:16",
-          "src": "media/karaoke/alt-xmoney-9x16.mp4",
-          "poster": "media/karaoke/alt-xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 31.2,
-          "bytes": 1001288,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/karaoke/alt-original-16x9.mp4",
-          "poster": "media/karaoke/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/karaoke/16x9.mp4",
+          "poster": "media/karaoke/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -502,10 +285,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/karaoke/alt-original-9x16.mp4",
-          "poster": "media/karaoke/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/karaoke/9x16.mp4",
+          "poster": "media/karaoke/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -514,6 +297,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet of the 16:9 film",
@@ -528,23 +312,6 @@
         "verdict": "cut",
         "reason": "The sung lyrics are not in the post text, and Reddit requires spoken language to match the ad copy.",
         "fix": "Put the lyrics in the post text. Add the payout lines."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/karaoke/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/karaoke/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/karaoke/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 9:16"
-          ]
-        }
       }
     },
     {
@@ -565,40 +332,14 @@
         "motion graphics",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/portal/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/portal/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/portal/xmoney-16x9.mp4",
-          "poster": "media/portal/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 34.37,
-          "bytes": 5489633,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/portal/alt-xmoney-1x1.mp4",
-          "poster": "media/portal/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 34.37,
-          "bytes": 3897130,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/portal/alt-original-16x9.mp4",
-          "poster": "media/portal/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/portal/16x9.mp4",
+          "poster": "media/portal/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -607,10 +348,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/portal/alt-original-1x1.mp4",
-          "poster": "media/portal/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/portal/1x1.mp4",
+          "poster": "media/portal/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -619,6 +360,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one cell per shot",
@@ -633,24 +375,6 @@
         "verdict": "not",
         "reason": "Modelled on \"It's All At Stake!\" by Stake, a gambling brand; the end type lands on 0.4 s beats, and the cut was never reviewed.",
         "fix": "None. It needs a new concept."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/portal/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/portal/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/portal/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1"
-          ]
-        }
       }
     },
     {
@@ -670,28 +394,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/seen-it/xmoney.jpg",
+      "primary": "1x1",
+      "poster": "media/seen-it/1x1.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/seen-it/xmoney.mp4",
-          "poster": "media/seen-it/xmoney.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 30.67,
-          "bytes": 2068700,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-1x1",
-          "label": "Original cut",
-          "src": "media/seen-it/alt-original-1x1.mp4",
-          "poster": "media/seen-it/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/seen-it/1x1.mp4",
+          "poster": "media/seen-it/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 24,
@@ -700,6 +410,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -714,23 +425,6 @@
         "verdict": "not",
         "reason": "The put-down \"Your app.\", simulated product flows, and a cartoon cast selling a cash-prize product.",
         "fix": "None. It needs a new concept."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/seen-it/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/seen-it/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/seen-it/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -751,28 +445,14 @@
         "motion graphics",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/way-out/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/way-out/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/way-out/xmoney-16x9.mp4",
-          "poster": "media/way-out/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 14.42,
-          "bytes": 1096512,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/way-out/alt-original-16x9.mp4",
-          "poster": "media/way-out/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/way-out/16x9.mp4",
+          "poster": "media/way-out/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 24,
@@ -781,6 +461,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one frame per shot and the end card",
@@ -795,22 +476,6 @@
         "verdict": "not",
         "reason": "Modelled on Coinbase's \"Your Way Out\", a blocky game-avatar style that appeals to minors, an escape premise and an illegible command line.",
         "fix": "None. It needs a new concept."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/way-out/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/way-out/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/way-out/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -830,52 +495,14 @@
         "motion graphics",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/who-checked-it/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/who-checked-it/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/who-checked-it/xmoney-16x9.mp4",
-          "poster": "media/who-checked-it/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 38,
-          "bytes": 2066410,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/who-checked-it/alt-xmoney-1x1.mp4",
-          "poster": "media/who-checked-it/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 38,
-          "bytes": 1533897,
-          "hasAudio": true
-        },
-        {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money), 9:16",
-          "src": "media/who-checked-it/alt-xmoney-9x16.mp4",
-          "poster": "media/who-checked-it/alt-xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 38,
-          "bytes": 1808368,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/who-checked-it/alt-original-16x9.mp4",
-          "poster": "media/who-checked-it/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/who-checked-it/16x9.mp4",
+          "poster": "media/who-checked-it/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -884,10 +511,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/who-checked-it/alt-original-1x1.mp4",
-          "poster": "media/who-checked-it/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/who-checked-it/1x1.mp4",
+          "poster": "media/who-checked-it/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -896,10 +523,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/who-checked-it/alt-original-9x16.mp4",
-          "poster": "media/who-checked-it/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/who-checked-it/9x16.mp4",
+          "poster": "media/who-checked-it/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -908,6 +535,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet of the 16:9 cut",
@@ -922,24 +550,6 @@
         "verdict": "cut",
         "reason": "Six phrases flash by at about three a second (0 to 2.1 s), which Reddit counts as distracting visuals.",
         "fix": "Hold each phrase at least 1 s. Add the payout lines."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/who-checked-it/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/who-checked-it/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/who-checked-it/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1",
-            "X cut (prize money), 9:16"
-          ]
-        }
       }
     },
     {
@@ -960,40 +570,14 @@
         "motion graphics",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/your-move/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/your-move/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/your-move/xmoney-16x9.mp4",
-          "poster": "media/your-move/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 33.21,
-          "bytes": 3915670,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money), 9:16",
-          "src": "media/your-move/alt-xmoney-9x16.mp4",
-          "poster": "media/your-move/alt-xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 33.21,
-          "bytes": 4096093,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/your-move/alt-original-16x9.mp4",
-          "poster": "media/your-move/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/your-move/16x9.mp4",
+          "poster": "media/your-move/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 24,
@@ -1002,10 +586,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/your-move/alt-original-9x16.mp4",
-          "poster": "media/your-move/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/your-move/9x16.mp4",
+          "poster": "media/your-move/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1014,6 +598,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Poster, 9:16",
@@ -1036,24 +621,6 @@
         "verdict": "not",
         "reason": "Its X review failed on the rights to its AI-generated picture and voice, which are still unresolved.",
         "fix": "Hold until the rights are cleared."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/your-move/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/your-move/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/your-move/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 9:16"
-          ]
-        }
       }
     },
     {
@@ -1074,40 +641,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney-16x9",
-      "poster": "media/film-flow/xmoney-16x9.jpg",
+      "primary": "16x9",
+      "poster": "media/film-flow/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney-16x9",
-          "label": "X cut (prize money)",
-          "src": "media/film-flow/xmoney-16x9.mp4",
-          "poster": "media/film-flow/xmoney-16x9.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 35.07,
-          "bytes": 2302197,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-1x1",
-          "label": "X cut (prize money), 1:1",
-          "src": "media/film-flow/alt-xmoney-1x1.mp4",
-          "poster": "media/film-flow/alt-xmoney-1x1.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 30,
-          "duration": 34.67,
-          "bytes": 1650723,
-          "hasAudio": true
-        },
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/film-flow/alt-original-16x9.mp4",
-          "poster": "media/film-flow/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-flow/16x9.mp4",
+          "poster": "media/film-flow/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -1116,10 +657,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/film-flow/alt-original-1x1.mp4",
-          "poster": "media/film-flow/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/film-flow/1x1.mp4",
+          "poster": "media/film-flow/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -1128,9 +669,10 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
-          "label": "Original cut, 30 fps share (the feed upload)",
+          "label": "30 fps share cut, the feed upload",
           "kind": "video",
           "src": "media/film-flow/extra-1.mp4",
           "poster": "media/film-flow/extra-1.jpg",
@@ -1152,23 +694,6 @@
         "verdict": "cut",
         "reason": "The flow-map panes and the terminal text are illegible at feed size.",
         "fix": "Enlarge or crop in on the screens. Add the payout lines."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "film-flow/x-money",
-        "ref": "1f0a12d",
-        "compliance": "film-flow/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "film-flow/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 1:1"
-          ]
-        }
       }
     },
     {
@@ -1189,28 +714,14 @@
         "motion graphics",
         "product demo"
       ],
-      "primary": "xmoney-9x16",
-      "poster": "media/still-cant-code/xmoney-9x16.jpg",
+      "primary": "9x16",
+      "poster": "media/still-cant-code/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money)",
-          "src": "media/still-cant-code/xmoney-9x16.mp4",
-          "poster": "media/still-cant-code/xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 16.08,
-          "bytes": 355864,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/still-cant-code/alt-original-9x16.mp4",
-          "poster": "media/still-cant-code/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/still-cant-code/9x16.mp4",
+          "poster": "media/still-cant-code/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1219,6 +730,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one cell per shot",
@@ -1233,23 +745,6 @@
         "verdict": "not",
         "reason": "A remake of pump.fun's \"Normie get rich\" skit, with its beats and caption system, and a celebration payoff.",
         "fix": "None. It needs a new concept."
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/still-cant-code/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/still-cant-code/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/still-cant-code/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -1270,28 +765,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/fries-to-first/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/fries-to-first/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/fries-to-first/xmoney.mp4",
-          "poster": "media/fries-to-first/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 12.08,
-          "bytes": 545700,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/fries-to-first/alt-original-9x16.mp4",
-          "poster": "media/fries-to-first/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/fries-to-first/9x16.mp4",
+          "poster": "media/fries-to-first/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1300,10 +781,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-4x5",
-          "label": "Original cut, 4:5",
-          "src": "media/fries-to-first/alt-original-4x5.mp4",
-          "poster": "media/fries-to-first/alt-original-4x5.jpg",
+          "key": "4x5",
+          "label": "4:5",
+          "src": "media/fries-to-first/4x5.mp4",
+          "poster": "media/fries-to-first/4x5.jpg",
           "width": 720,
           "height": 900,
           "fps": 24,
@@ -1312,6 +793,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one frame per shot",
@@ -1321,24 +803,7 @@
           "height": 1409,
           "bytes": 362392
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/fries-to-first/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/fries-to-first/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/fries-to-first/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "grow-up",
@@ -1356,28 +821,14 @@
         "AI talent",
         "motion graphics"
       ],
-      "primary": "xmoney-9x16",
-      "poster": "media/grow-up/xmoney-9x16.jpg",
+      "primary": "9x16",
+      "poster": "media/grow-up/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money)",
-          "src": "media/grow-up/xmoney-9x16.mp4",
-          "poster": "media/grow-up/xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.33,
-          "bytes": 986904,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/grow-up/alt-original-9x16.mp4",
-          "poster": "media/grow-up/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/grow-up/9x16.mp4",
+          "poster": "media/grow-up/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1386,6 +837,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -1395,24 +847,7 @@
           "height": 1331,
           "bytes": 440146
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/grow-up/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/grow-up/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/grow-up/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "hardest-part",
@@ -1431,28 +866,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/hardest-part/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/hardest-part/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/hardest-part/xmoney.mp4",
-          "poster": "media/hardest-part/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 20.87,
-          "bytes": 2806356,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/hardest-part/alt-original-9x16.mp4",
-          "poster": "media/hardest-part/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/hardest-part/9x16.mp4",
+          "poster": "media/hardest-part/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -1461,6 +882,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet against the reference",
@@ -1470,23 +892,7 @@
           "height": 1600,
           "bytes": 415319
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/hardest-part/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/hardest-part/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/hardest-part/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "what-to-build",
@@ -1505,28 +911,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/what-to-build/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/what-to-build/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/what-to-build/xmoney.mp4",
-          "poster": "media/what-to-build/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 15.37,
-          "bytes": 1621029,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/what-to-build/alt-original-9x16.mp4",
-          "poster": "media/what-to-build/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/what-to-build/9x16.mp4",
+          "poster": "media/what-to-build/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1535,10 +927,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-4x5",
-          "label": "Original cut, 4:5",
-          "src": "media/what-to-build/alt-original-4x5.mp4",
-          "poster": "media/what-to-build/alt-original-4x5.jpg",
+          "key": "4x5",
+          "label": "4:5",
+          "src": "media/what-to-build/4x5.mp4",
+          "poster": "media/what-to-build/4x5.jpg",
           "width": 720,
           "height": 900,
           "fps": 24,
@@ -1547,6 +939,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -1556,23 +949,7 @@
           "height": 711,
           "bytes": 256286
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/what-to-build/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/what-to-build/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/what-to-build/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "transparency",
@@ -1591,28 +968,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/transparency/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/transparency/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/transparency/xmoney.mp4",
-          "poster": "media/transparency/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 7.97,
-          "bytes": 225232,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/transparency/alt-original-9x16.mp4",
-          "poster": "media/transparency/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/transparency/9x16.mp4",
+          "poster": "media/transparency/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -1621,6 +984,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet against the reference",
@@ -1630,23 +994,7 @@
           "height": 1600,
           "bytes": 395630
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/transparency/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/transparency/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/transparency/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "two-checks",
@@ -1666,35 +1014,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/two-checks/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/two-checks/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/two-checks/xmoney.mp4",
-          "poster": "media/two-checks/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 9.1,
-          "bytes": 243311,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/two-checks/alt-original-9x16.mp4",
-          "poster": "media/two-checks/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/two-checks/9x16.mp4",
+          "poster": "media/two-checks/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 22.93,
           "bytes": 1959654,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "hook-b",
           "label": "Hook B box",
@@ -1717,23 +1053,7 @@
           "height": 702,
           "bytes": 215952
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/two-checks/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/two-checks/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/two-checks/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "check-the-grader",
@@ -1753,35 +1073,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney-9x16",
-      "poster": "media/check-the-grader/xmoney-9x16.jpg",
+      "primary": "9x16",
+      "poster": "media/check-the-grader/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money)",
-          "src": "media/check-the-grader/xmoney-9x16.mp4",
-          "poster": "media/check-the-grader/xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.27,
-          "bytes": 778342,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/check-the-grader/alt-original-9x16.mp4",
-          "poster": "media/check-the-grader/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/check-the-grader/9x16.mp4",
+          "poster": "media/check-the-grader/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 21.87,
           "bytes": 1938790,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "short",
           "label": "Short cut, 6 to 7 s",
@@ -1812,24 +1120,7 @@
           "height": 1506,
           "bytes": 274155
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/check-the-grader/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/check-the-grader/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/check-the-grader/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "switched",
@@ -1849,40 +1140,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney-9x16",
-      "poster": "media/switched/xmoney-9x16.jpg",
+      "primary": "9x16",
+      "poster": "media/switched/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney-9x16",
-          "label": "X cut (prize money)",
-          "src": "media/switched/xmoney-9x16.mp4",
-          "poster": "media/switched/xmoney-9x16.jpg",
-          "width": 720,
-          "height": 1290,
-          "fps": 30,
-          "duration": 11.27,
-          "bytes": 877536,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "xmoney-4x5",
-          "label": "X cut (prize money), 4:5",
-          "src": "media/switched/alt-xmoney-4x5.mp4",
-          "poster": "media/switched/alt-xmoney-4x5.jpg",
-          "width": 720,
-          "height": 906,
-          "fps": 30,
-          "duration": 11.27,
-          "bytes": 717678,
-          "hasAudio": true
-        },
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/switched/alt-original-9x16.mp4",
-          "poster": "media/switched/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/switched/9x16.mp4",
+          "poster": "media/switched/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -1891,10 +1156,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-4x5",
-          "label": "Original cut, 4:5",
-          "src": "media/switched/alt-original-4x5.mp4",
-          "poster": "media/switched/alt-original-4x5.jpg",
+          "key": "4x5",
+          "label": "4:5",
+          "src": "media/switched/4x5.mp4",
+          "poster": "media/switched/4x5.jpg",
           "width": 720,
           "height": 900,
           "fps": 24,
@@ -1903,6 +1168,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet against the reference",
@@ -1912,25 +1178,7 @@
           "height": 569,
           "bytes": 113184
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/switched/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/switched/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief.",
-          "copy": "ads/switched/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)",
-            "X cut (prize money), 4:5"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "more-fun",
@@ -1948,28 +1196,14 @@
         "UGC",
         "AI talent"
       ],
-      "primary": "xmoney",
-      "poster": "media/more-fun/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/more-fun/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/more-fun/xmoney.mp4",
-          "poster": "media/more-fun/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.13,
-          "bytes": 1024890,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/more-fun/alt-original-9x16.mp4",
-          "poster": "media/more-fun/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/more-fun/9x16.mp4",
+          "poster": "media/more-fun/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -1978,6 +1212,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet against the reference",
@@ -1987,23 +1222,7 @@
           "height": 711,
           "bytes": 209817
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/more-fun/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/more-fun/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/more-fun/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "send-your-agent",
@@ -2023,28 +1242,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/send-your-agent/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/send-your-agent/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/send-your-agent/xmoney.mp4",
-          "poster": "media/send-your-agent/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.3,
-          "bytes": 730624,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/send-your-agent/alt-original-9x16.mp4",
-          "poster": "media/send-your-agent/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/send-your-agent/9x16.mp4",
+          "poster": "media/send-your-agent/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -2053,6 +1258,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, 12 frames",
@@ -2062,23 +1268,7 @@
           "height": 948,
           "bytes": 182990
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/send-your-agent/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/send-your-agent/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/send-your-agent/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "part-time-job",
@@ -2098,35 +1288,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/part-time-job/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/part-time-job/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/part-time-job/xmoney.mp4",
-          "poster": "media/part-time-job/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.1,
-          "bytes": 484392,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/part-time-job/alt-original-9x16.mp4",
-          "poster": "media/part-time-job/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/part-time-job/9x16.mp4",
+          "poster": "media/part-time-job/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 29.27,
           "bytes": 4508072,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "hook-b-9x16",
           "label": "Hook B open, 9:16",
@@ -2149,23 +1327,7 @@
           "height": 792,
           "bytes": 228648
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/part-time-job/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/part-time-job/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/part-time-job/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "never-knew",
@@ -2185,28 +1347,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/never-knew/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/never-knew/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/never-knew/xmoney.mp4",
-          "poster": "media/never-knew/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 10.93,
-          "bytes": 732605,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/never-knew/alt-original-9x16.mp4",
-          "poster": "media/never-knew/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/never-knew/9x16.mp4",
+          "poster": "media/never-knew/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -2215,6 +1363,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one cell per shot",
@@ -2224,23 +1373,7 @@
           "height": 1533,
           "bytes": 414022
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/never-knew/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/never-knew/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/never-knew/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "win-bounties",
@@ -2259,28 +1392,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/win-bounties/xmoney.jpg",
+      "primary": "2x3",
+      "poster": "media/win-bounties/2x3.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/win-bounties/xmoney.mp4",
-          "poster": "media/win-bounties/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 18.9,
-          "bytes": 1059770,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-2x3",
-          "label": "Original cut, 2:3",
-          "src": "media/win-bounties/alt-original-2x3.mp4",
-          "poster": "media/win-bounties/alt-original-2x3.jpg",
+          "key": "2x3",
+          "label": "2:3",
+          "src": "media/win-bounties/2x3.mp4",
+          "poster": "media/win-bounties/2x3.jpg",
           "width": 720,
           "height": 1080,
           "fps": 30,
@@ -2289,17 +1408,19 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/win-bounties/alt-original-9x16.mp4",
-          "poster": "media/win-bounties/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/win-bounties/9x16.mp4",
+          "poster": "media/win-bounties/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 15,
           "bytes": 891900,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -2340,22 +1461,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/win-bounties/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/win-bounties/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/win-bounties/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -2376,28 +1481,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/copy-make-submit-win/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/copy-make-submit-win/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/copy-make-submit-win/xmoney.mp4",
-          "poster": "media/copy-make-submit-win/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.47,
-          "bytes": 1107056,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/copy-make-submit-win/alt-original-9x16.mp4",
-          "poster": "media/copy-make-submit-win/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/copy-make-submit-win/9x16.mp4",
+          "poster": "media/copy-make-submit-win/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -2406,6 +1497,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -2415,23 +1507,7 @@
           "height": 1288,
           "bytes": 314014
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/copy-make-submit-win/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/copy-make-submit-win/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/copy-make-submit-win/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "one-big-win",
@@ -2450,28 +1526,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/one-big-win/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/one-big-win/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/one-big-win/xmoney.mp4",
-          "poster": "media/one-big-win/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 12.14,
-          "bytes": 487870,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/one-big-win/alt-original-9x16.mp4",
-          "poster": "media/one-big-win/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/one-big-win/9x16.mp4",
+          "poster": "media/one-big-win/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -2480,6 +1542,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one cell per shot",
@@ -2489,23 +1552,7 @@
           "height": 1288,
           "bytes": 288468
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/one-big-win/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/one-big-win/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/one-big-win/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "group-chat",
@@ -2526,28 +1573,14 @@
         "screen capture",
         "motion graphics"
       ],
-      "primary": "xmoney",
-      "poster": "media/group-chat/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/group-chat/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/group-chat/xmoney.mp4",
-          "poster": "media/group-chat/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 11.67,
-          "bytes": 692370,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/group-chat/alt-original-9x16.mp4",
-          "poster": "media/group-chat/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/group-chat/9x16.mp4",
+          "poster": "media/group-chat/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -2556,6 +1589,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -2565,23 +1599,7 @@
           "height": 948,
           "bytes": 245118
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/group-chat/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/group-chat/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/group-chat/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "get-it-together",
@@ -2599,28 +1617,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/get-it-together/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/get-it-together/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/get-it-together/xmoney.mp4",
-          "poster": "media/get-it-together/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 24,
-          "duration": 10.08,
-          "bytes": 1071994,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/get-it-together/alt-original-9x16.mp4",
-          "poster": "media/get-it-together/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/get-it-together/9x16.mp4",
+          "poster": "media/get-it-together/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -2629,6 +1633,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one frame per shot",
@@ -2638,24 +1643,51 @@
           "height": 1600,
           "bytes": 369588
         }
+      ]
+    },
+    {
+      "id": "derby",
+      "number": 3,
+      "title": "Derby",
+      "logline": "A soapbox derby in the grammar of pump.fun's \"Scared money\": a cardboard kart beats the chrome one.",
+      "summary": "A nervous kid in a cardboard kart races a smug rival in a chrome kart. A black-and-white flashback shows the kid entering a make.fun bounty with his agent, then comes \"Send it.\", a photo finish and \"In a cardboard box?!\" before the end card.",
+      "project": "make.fun auto",
+      "location": "ads/derby on main; newest cut from unmerged branch cosmos/f93d7e99-2593-4a3b-a624-0a225e65530a/chat (commit 365847e, HUD row clip fix)",
+      "chat": "Ad 03: Scared money",
+      "status": "final",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "screen capture"
       ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/get-it-together/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/get-it-together/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/get-it-together/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
+      "primary": "1x1",
+      "poster": "media/derby/1x1.jpg",
+      "variants": [
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/derby/1x1.mp4",
+          "poster": "media/derby/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 3139828,
+          "hasAudio": true
         }
-      }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one cell per shot",
+          "kind": "image",
+          "src": "media/derby/extra-1.jpg",
+          "width": 1600,
+          "height": 1167,
+          "bytes": 336294
+        }
+      ]
     },
     {
       "id": "vows",
@@ -2674,28 +1706,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/vows/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/vows/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/vows/xmoney.mp4",
-          "poster": "media/vows/xmoney.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 33.29,
-          "bytes": 2975301,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/vows/alt-original-9x16.mp4",
-          "poster": "media/vows/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/vows/9x16.mp4",
+          "poster": "media/vows/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -2704,10 +1722,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1",
-          "src": "media/vows/alt-original-1x1.mp4",
-          "poster": "media/vows/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/vows/1x1.mp4",
+          "poster": "media/vows/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 24,
@@ -2716,6 +1734,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet of the 1:1 cut, one frame per shot",
@@ -2725,24 +1744,7 @@
           "height": 917,
           "bytes": 320426
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/vows/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/vows/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/vows/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "vibes",
@@ -2760,28 +1762,14 @@
         "AI talent",
         "screen capture"
       ],
-      "primary": "xmoney",
-      "poster": "media/vibes/xmoney.jpg",
+      "primary": "1x1",
+      "poster": "media/vibes/1x1.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/vibes/xmoney.mp4",
-          "poster": "media/vibes/xmoney.jpg",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 12.83,
-          "bytes": 650937,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-1x1",
-          "label": "Original cut",
-          "src": "media/vibes/alt-original-1x1.mp4",
-          "poster": "media/vibes/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/vibes/1x1.mp4",
+          "poster": "media/vibes/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 24,
@@ -2790,6 +1778,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet, one frame per shot",
@@ -2799,24 +1788,7 @@
           "height": 763,
           "bytes": 246003
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/vibes/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/vibes/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/vibes/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "climb",
@@ -2835,35 +1807,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/climb/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/climb/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/climb/xmoney.mp4",
-          "poster": "media/climb/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 21.1,
-          "bytes": 1146784,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/climb/alt-original-9x16.mp4",
-          "poster": "media/climb/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/climb/9x16.mp4",
+          "poster": "media/climb/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 18,
           "bytes": 1505281,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -2894,23 +1854,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/climb/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/climb/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/climb/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -2930,35 +1873,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/film-agent/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/film-agent/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/film-agent/xmoney.mp4",
-          "poster": "media/film-agent/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 33.4,
-          "bytes": 2169587,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/film-agent/alt-original-16x9.mp4",
-          "poster": "media/film-agent/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-agent/16x9.mp4",
+          "poster": "media/film-agent/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 30,
           "bytes": 2651064,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -2974,7 +1905,7 @@
       ],
       "extras": [
         {
-          "label": "Original cut, 30 fps share",
+          "label": "30 fps share cut",
           "kind": "video",
           "src": "media/film-agent/extra-1.mp4",
           "poster": "media/film-agent/extra-1.jpg",
@@ -3000,23 +1931,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/film-agent/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/film-agent/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/film-agent/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3037,35 +1951,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/film-entry/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/film-entry/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/film-entry/xmoney.mp4",
-          "poster": "media/film-entry/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 30,
-          "bytes": 2322018,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/film-entry/alt-original-16x9.mp4",
-          "poster": "media/film-entry/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-entry/16x9.mp4",
+          "poster": "media/film-entry/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 30,
           "bytes": 3456050,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -3081,7 +1983,7 @@
       ],
       "extras": [
         {
-          "label": "Original cut, 30 fps share",
+          "label": "30 fps share cut",
           "kind": "video",
           "src": "media/film-entry/extra-1.mp4",
           "poster": "media/film-entry/extra-1.jpg",
@@ -3107,23 +2009,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/film-entry/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/film-entry/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/film-entry/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3143,28 +2028,14 @@
         "static",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/first-place/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/first-place/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/first-place/xmoney.mp4",
-          "poster": "media/first-place/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 17,
-          "bytes": 1392663,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/first-place/alt-original-16x9.mp4",
-          "poster": "media/first-place/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/first-place/16x9.mp4",
+          "poster": "media/first-place/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -3173,17 +2044,19 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/first-place/alt-original-9x16.mp4",
-          "poster": "media/first-place/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/first-place/9x16.mp4",
+          "poster": "media/first-place/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 15,
           "bytes": 1826963,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -3284,22 +2157,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/first-place/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/first-place/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/first-place/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3319,28 +2176,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/nanas-first-bounty/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/nanas-first-bounty/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/nanas-first-bounty/xmoney.mp4",
-          "poster": "media/nanas-first-bounty/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 24,
-          "duration": 13.71,
-          "bytes": 910674,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/nanas-first-bounty/alt-original-16x9.mp4",
-          "poster": "media/nanas-first-bounty/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/nanas-first-bounty/16x9.mp4",
+          "poster": "media/nanas-first-bounty/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 24,
@@ -3349,6 +2192,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "$10,000 win moment",
@@ -3358,24 +2202,7 @@
           "height": 900,
           "bytes": 112782
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/nanas-first-bounty/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/nanas-first-bounty/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/nanas-first-bounty/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "one-line",
@@ -3394,28 +2221,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/one-line/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/one-line/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/one-line/xmoney.mp4",
-          "poster": "media/one-line/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 9,
-          "bytes": 460334,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/one-line/alt-original-9x16.mp4",
-          "poster": "media/one-line/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/one-line/9x16.mp4",
+          "poster": "media/one-line/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -3424,17 +2237,19 @@
           "hasAudio": true
         },
         {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/one-line/alt-original-16x9.mp4",
-          "poster": "media/one-line/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/one-line/16x9.mp4",
+          "poster": "media/one-line/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 6,
           "bytes": 470551,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -3475,23 +2290,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/one-line/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/one-line/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/one-line/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3511,35 +2309,23 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/payday/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/payday/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/payday/xmoney.mp4",
-          "poster": "media/payday/xmoney.jpg",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 15.6,
-          "bytes": 744511,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut",
-          "src": "media/payday/alt-original-9x16.mp4",
-          "poster": "media/payday/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/payday/9x16.mp4",
+          "poster": "media/payday/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
           "duration": 20.5,
           "bytes": 1038626,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "reddit",
           "label": "Reddit cut",
@@ -3570,23 +2356,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/payday/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/payday/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/payday/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3610,17 +2379,9 @@
       "alternates": [],
       "extras": [
         {
-          "label": "X cut (prize money)",
+          "label": "Hero A, 1:1",
           "kind": "image",
           "src": "media/prize-pool/extra-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "bytes": 198896
-        },
-        {
-          "label": "Original cut",
-          "kind": "image",
-          "src": "media/prize-pool/extra-2.jpg",
           "width": 1080,
           "height": 1080,
           "bytes": 111330
@@ -3628,7 +2389,7 @@
         {
           "label": "Hero A, 4:5",
           "kind": "image",
-          "src": "media/prize-pool/extra-3.jpg",
+          "src": "media/prize-pool/extra-2.jpg",
           "width": 1080,
           "height": 1350,
           "bytes": 119462
@@ -3636,7 +2397,7 @@
         {
           "label": "Hero A, 16:9",
           "kind": "image",
-          "src": "media/prize-pool/extra-4.jpg",
+          "src": "media/prize-pool/extra-3.jpg",
           "width": 1600,
           "height": 900,
           "bytes": 133460
@@ -3644,7 +2405,7 @@
         {
           "label": "Hero B rings, 1:1",
           "kind": "image",
-          "src": "media/prize-pool/extra-5.jpg",
+          "src": "media/prize-pool/extra-4.jpg",
           "width": 1080,
           "height": 1080,
           "bytes": 151890
@@ -3652,7 +2413,7 @@
         {
           "label": "Hero A, 1:1 at 2160 px",
           "kind": "image",
-          "src": "media/prize-pool/extra-6.jpg",
+          "src": "media/prize-pool/extra-5.jpg",
           "width": 1600,
           "height": 1600,
           "bytes": 184169
@@ -3660,7 +2421,7 @@
         {
           "label": "Hero B rings, 1:1 at 2160 px",
           "kind": "image",
-          "src": "media/prize-pool/extra-7.jpg",
+          "src": "media/prize-pool/extra-6.jpg",
           "width": 1600,
           "height": 1600,
           "bytes": 248835
@@ -3668,7 +2429,7 @@
         {
           "label": "Reddit cut",
           "kind": "image",
-          "src": "media/prize-pool/extra-8.jpg",
+          "src": "media/prize-pool/extra-7.jpg",
           "width": 1600,
           "height": 900,
           "bytes": 146456
@@ -3690,24 +2451,96 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/prize-pool/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/prize-pool/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/prize-pool/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
+    },
+    {
+      "id": "showdown",
+      "number": null,
+      "title": "Showdown",
+      "logline": "A build showdown over two laptops: the pro slams his laptop shut when the kid turns his screen round.",
+      "summary": "A 30 s 1:1 film in the grammar of a pump.fun promoted ad: a smug pro taunts a nervous kid across a table, a white flash cuts to a black-and-white flashback, an eye montage builds, the kid turns his screen round and the pro stares before the end card.",
+      "project": "make.fun auto",
+      "location": "ads/showdown on main",
+      "chat": "Pump.fun-style video ad for make.fun",
+      "status": "final",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "screen capture"
+      ],
+      "primary": "1x1",
+      "poster": "media/showdown/1x1.jpg",
+      "variants": [
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/showdown/1x1.mp4",
+          "poster": "media/showdown/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 2066493,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one cell per shot",
+          "kind": "image",
+          "src": "media/showdown/extra-1.jpg",
+          "width": 1600,
+          "height": 1167,
+          "bytes": 230952
+        }
+      ]
+    },
+    {
+      "id": "the-house",
+      "number": null,
+      "title": "The House",
+      "logline": "The house always wins, until a make.fun bounty where the best build wins.",
+      "summary": "A 32.7 s 3D-animated casino comedy in the pattern of the pump.fun \"grandma\" ad: a grandma at a rigged slot machine, a kid who tells her the house always wins, and the turn to make.fun, where the best build takes the prize.",
+      "project": "make.fun auto",
+      "location": "ads/the-house on main",
+      "chat": "Pump.fun-style ad for make.fun",
+      "status": "final",
+      "statusNote": "A review against X's live Ads Policies (including gambling content) is owed before any upload.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "screen capture"
+      ],
+      "primary": "1x1",
+      "poster": "media/the-house/1x1.jpg",
+      "variants": [
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/the-house/1x1.mp4",
+          "poster": "media/the-house/1x1.jpg",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 32.67,
+          "bytes": 3736213,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot",
+          "kind": "image",
+          "src": "media/the-house/extra-1.jpg",
+          "width": 1600,
+          "height": 1279,
+          "bytes": 449834
+        }
+      ]
     },
     {
       "id": "bounties-launch",
@@ -3727,28 +2560,14 @@
         "product demo",
         "static"
       ],
-      "primary": "xmoney",
-      "poster": "media/bounties-launch/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/bounties-launch/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/bounties-launch/xmoney.mp4",
-          "poster": "media/bounties-launch/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 16.5,
-          "bytes": 599443,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16, 15 s",
-          "src": "media/bounties-launch/alt-original-9x16.mp4",
-          "poster": "media/bounties-launch/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16, 15 s",
+          "src": "media/bounties-launch/9x16.mp4",
+          "poster": "media/bounties-launch/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -3757,10 +2576,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-1x1",
-          "label": "Original cut, 1:1, 15 s",
-          "src": "media/bounties-launch/alt-original-1x1.mp4",
-          "poster": "media/bounties-launch/alt-original-1x1.jpg",
+          "key": "1x1",
+          "label": "1:1, 15 s",
+          "src": "media/bounties-launch/1x1.mp4",
+          "poster": "media/bounties-launch/1x1.jpg",
           "width": 720,
           "height": 720,
           "fps": 30,
@@ -3769,17 +2588,19 @@
           "hasAudio": true
         },
         {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9, 15 s",
-          "src": "media/bounties-launch/alt-original-16x9.mp4",
-          "poster": "media/bounties-launch/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9, 15 s",
+          "src": "media/bounties-launch/16x9.mp4",
+          "poster": "media/bounties-launch/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 15,
           "bytes": 593724,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "bumper-9x16",
           "label": "6 s bumper, 9:16",
@@ -3912,23 +2733,6 @@
             "Reddit cut"
           ]
         }
-      },
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/bounties-launch/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/bounties-launch/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/bounties-launch/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
       }
     },
     {
@@ -3949,28 +2753,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/film-create-bounty/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/film-create-bounty/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/film-create-bounty/xmoney.mp4",
-          "poster": "media/film-create-bounty/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 33.4,
-          "bytes": 2380945,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/film-create-bounty/alt-original-16x9.mp4",
-          "poster": "media/film-create-bounty/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-create-bounty/16x9.mp4",
+          "poster": "media/film-create-bounty/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -3979,6 +2769,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet",
@@ -3989,7 +2780,7 @@
           "bytes": 182333
         },
         {
-          "label": "Original cut, 30 fps share",
+          "label": "30 fps share cut",
           "kind": "video",
           "src": "media/film-create-bounty/extra-2.mp4",
           "poster": "media/film-create-bounty/extra-2.jpg",
@@ -3998,24 +2789,7 @@
           "bytes": 2892230,
           "duration": 30.07
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/film-create-bounty/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/film-create-bounty/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/film-create-bounty/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "ghostwriter",
@@ -4035,28 +2809,14 @@
         "screen capture",
         "product demo"
       ],
-      "primary": "xmoney",
-      "poster": "media/ghostwriter/xmoney.jpg",
+      "primary": "9x16",
+      "poster": "media/ghostwriter/9x16.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/ghostwriter/xmoney.mp4",
-          "poster": "media/ghostwriter/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 11.2,
-          "bytes": 551193,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/ghostwriter/alt-original-9x16.mp4",
-          "poster": "media/ghostwriter/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/ghostwriter/9x16.mp4",
+          "poster": "media/ghostwriter/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 24,
@@ -4065,10 +2825,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/ghostwriter/alt-original-16x9.mp4",
-          "poster": "media/ghostwriter/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/ghostwriter/16x9.mp4",
+          "poster": "media/ghostwriter/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 24,
@@ -4077,23 +2837,8 @@
           "hasAudio": true
         }
       ],
-      "extras": [],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/ghostwriter/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/ghostwriter/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/ghostwriter/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      "alternates": [],
+      "extras": []
     },
     {
       "id": "lineup",
@@ -4112,32 +2857,24 @@
         "motion graphics"
       ],
       "primary": "",
-      "poster": "media/lineup/extra-1.jpg",
+      "poster": "media/lineup/extra-2.jpg",
       "variants": [],
       "alternates": [],
       "extras": [
         {
-          "label": "X cut (prize money)",
-          "kind": "image",
-          "src": "media/lineup/extra-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "bytes": 179107
-        },
-        {
-          "label": "Original 8 s motion cut, 4:5",
+          "label": "8 s motion cut, 4:5",
           "kind": "video",
-          "src": "media/lineup/extra-2.mp4",
-          "poster": "media/lineup/extra-2.jpg",
+          "src": "media/lineup/extra-1.mp4",
+          "poster": "media/lineup/extra-1.jpg",
           "width": 720,
           "height": 900,
           "bytes": 835668,
           "duration": 8
         },
         {
-          "label": "Original cut",
+          "label": "X timeline 16:9",
           "kind": "image",
-          "src": "media/lineup/extra-3.jpg",
+          "src": "media/lineup/extra-2.jpg",
           "width": 1600,
           "height": 900,
           "bytes": 145252
@@ -4145,7 +2882,7 @@
         {
           "label": "Meta feed 4:5",
           "kind": "image",
-          "src": "media/lineup/extra-4.jpg",
+          "src": "media/lineup/extra-3.jpg",
           "width": 1080,
           "height": 1350,
           "bytes": 134920
@@ -4153,7 +2890,7 @@
         {
           "label": "Stories 9:16",
           "kind": "image",
-          "src": "media/lineup/extra-5.jpg",
+          "src": "media/lineup/extra-4.jpg",
           "width": 900,
           "height": 1600,
           "bytes": 114443
@@ -4161,7 +2898,7 @@
         {
           "label": "Per-bounty sign, X 16:9",
           "kind": "image",
-          "src": "media/lineup/extra-6.jpg",
+          "src": "media/lineup/extra-5.jpg",
           "width": 1600,
           "height": 900,
           "bytes": 153899
@@ -4169,7 +2906,7 @@
         {
           "label": "Open places follow-up, 1:1 light",
           "kind": "image",
-          "src": "media/lineup/extra-7.jpg",
+          "src": "media/lineup/extra-6.jpg",
           "width": 1080,
           "height": 1080,
           "bytes": 87761
@@ -4177,7 +2914,7 @@
         {
           "label": "Open places follow-up, 1:1 dark",
           "kind": "image",
-          "src": "media/lineup/extra-8.jpg",
+          "src": "media/lineup/extra-7.jpg",
           "width": 1080,
           "height": 1080,
           "bytes": 82684
@@ -4185,29 +2922,12 @@
         {
           "label": "Contact sheet, every size",
           "kind": "image",
-          "src": "media/lineup/extra-9.jpg",
+          "src": "media/lineup/extra-8.jpg",
           "width": 1600,
           "height": 1414,
           "bytes": 260038
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/lineup/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/lineup/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/lineup/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "bounties-feed-scroll",
@@ -4226,28 +2946,14 @@
         "product demo",
         "motion graphics"
       ],
-      "primary": "xmoney",
-      "poster": "media/bounties-feed-scroll/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/bounties-feed-scroll/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/bounties-feed-scroll/xmoney.mp4",
-          "poster": "media/bounties-feed-scroll/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 16.4,
-          "bytes": 915105,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut, 16:9",
-          "src": "media/bounties-feed-scroll/alt-original-16x9.mp4",
-          "poster": "media/bounties-feed-scroll/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/bounties-feed-scroll/16x9.mp4",
+          "poster": "media/bounties-feed-scroll/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
@@ -4256,10 +2962,10 @@
           "hasAudio": true
         },
         {
-          "key": "original-9x16",
-          "label": "Original cut, 9:16",
-          "src": "media/bounties-feed-scroll/alt-original-9x16.mp4",
-          "poster": "media/bounties-feed-scroll/alt-original-9x16.jpg",
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/bounties-feed-scroll/9x16.mp4",
+          "poster": "media/bounties-feed-scroll/9x16.jpg",
           "width": 720,
           "height": 1280,
           "fps": 30,
@@ -4268,6 +2974,7 @@
           "hasAudio": true
         }
       ],
+      "alternates": [],
       "extras": [
         {
           "label": "Contact sheet 16:9",
@@ -4285,24 +2992,7 @@
           "height": 1600,
           "bytes": 236691
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/bounties-feed-scroll/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/bounties-feed-scroll/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/bounties-feed-scroll/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     },
     {
       "id": "captcha-bounty-submit",
@@ -4321,35 +3011,23 @@
         "product demo",
         "motion graphics"
       ],
-      "primary": "xmoney",
-      "poster": "media/captcha-bounty-submit/xmoney.jpg",
+      "primary": "16x9",
+      "poster": "media/captcha-bounty-submit/16x9.jpg",
       "variants": [
         {
-          "key": "xmoney",
-          "label": "X cut (prize money)",
-          "src": "media/captcha-bounty-submit/xmoney.mp4",
-          "poster": "media/captcha-bounty-submit/xmoney.jpg",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 10.17,
-          "bytes": 294794,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "original-16x9",
-          "label": "Original cut",
-          "src": "media/captcha-bounty-submit/alt-original-16x9.mp4",
-          "poster": "media/captcha-bounty-submit/alt-original-16x9.jpg",
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/captcha-bounty-submit/16x9.mp4",
+          "poster": "media/captcha-bounty-submit/16x9.jpg",
           "width": 1280,
           "height": 720,
           "fps": 30,
           "duration": 14,
           "bytes": 1422768,
           "hasAudio": true
-        },
+        }
+      ],
+      "alternates": [
         {
           "key": "caption",
           "label": "With caption",
@@ -4380,24 +3058,7 @@
           "height": 514,
           "bytes": 116294
         }
-      ],
-      "xmoney": {
-        "creative": "PASS",
-        "organic": "PASS",
-        "paid": "FAIL",
-        "reviewedAt": "2026-11-06",
-        "folder": "ads/x-safe/captcha-bounty-submit/x-money",
-        "ref": "1f0a12d",
-        "compliance": "ads/x-safe/captcha-bounty-submit/x-money/X-COMPLIANCE.md",
-        "cut": {
-          "headline": "Prize money for the best builds. Rules on each brief.",
-          "postText": "Point your AI coding agent at a real software brief. A sandbox grades every entry the same way. Prize money goes to entries that place in the top 10 and beat the house baseline. No prize is guaranteed. Rules on each brief. Build for fun; never count on a prize.",
-          "copy": "ads/x-safe/captcha-bounty-submit/x-money/X-MONEY-COPY.md",
-          "labels": [
-            "X cut (prize money)"
-          ]
-        }
-      }
+      ]
     }
   ],
   "excluded": [
@@ -4570,21 +3231,6 @@
       "what": "make-it (Make It)",
       "where": "ads/make-it on main",
       "reason": "The user had it removed on 2026-11-05; never list it."
-    },
-    {
-      "what": "derby (Derby)",
-      "where": "ads/derby/x-money",
-      "reason": "Honest statement of the basis: the Not-for-X verdict rests on the house standard alone, plus the paid-route rows."
-    },
-    {
-      "what": "showdown (Showdown)",
-      "where": "ads/x-safe/showdown/x-money",
-      "reason": "Organic: nothing to approve for an unpromoted post."
-    },
-    {
-      "what": "the-house (The House)",
-      "where": "ads/the-house/x-money",
-      "reason": "Honest statement of the basis: one clause binds both routes and cannot be edited away, (ambiguous, so counted as a fail); on the paid route the casino staging also misdescribes the product ( / ) and the base carries \"Graded twice\" (claims row 106, UNVERIFIED)."
     }
   ],
   "reddit": {
@@ -4592,18 +3238,5 @@
     "auditedAt": "2026-11-05",
     "blockers": "No ad can run on Reddit until make.fun's ads account has Reddit Sales pre-approval as a gambling advertiser and its landing page has official rules and no coin, Trading or USDC content.",
     "ref": "35db6d3"
-  },
-  "xmoney": {
-    "standard": "docs/x-money-ads.md",
-    "ref": "1f0a12d",
-    "smallPrint": "Skill-based competition. Prizes paid by make.fun in USDC: $1,000 for 1st, $50 each for 2nd to 5th, $25 each for 6th to 10th, only to entries that beat the house baseline. No prize is guaranteed. Prize rules on each brief.",
-    "paidShort": "Paid needs the owner's pre-authorization (P1 to P5).",
-    "paidNeeds": "Paid needs the owner: the X Ads account approved again (P1), Gambling Content pre-authorization (P2), Financial Products pre-authorization for a blockchain game (P3), a landing page that meets every ads policy (P4) and proof the advertiser is based in the US (P5).",
-    "counts": {
-      "showing": 44,
-      "fail": 0,
-      "coming": 0,
-      "notForX": 3
-    }
   }
 }
