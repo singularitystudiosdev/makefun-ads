@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T00:35:47.508Z",
+  "generatedAt": "2026-11-07T17:35:04.085Z",
   "totals": {
-    "ads": 43,
-    "final": 36,
+    "ads": 36,
+    "final": 29,
     "unfinished": 7,
-    "clips": 77,
-    "seconds": 1884.37,
-    "bytes": 203934118
+    "clips": 66,
+    "seconds": 1637.23,
+    "bytes": 178124635
   },
   "ads": [
     {
@@ -324,7 +324,7 @@
       "location": "ads/portal, amendment 4 renders in the uncommitted worktree of Portal chat item #72",
       "chat": "Stake ad 1: It's All At Stake",
       "status": "unfinished",
-      "statusNote": "The amendment 4 cut (laundromat, smartwatch ping, computer room, observatory), rebuilt on 2026-11-05 after the earlier cut failed its X review (ads/portal/X-COMPLIANCE.md: the strict reference-distance judge flagged the diner, office and grader worlds, and organic and paid both failed). This cut was not reviewed: its strict judge runs were unfinished when the chat was paused, and its files were still uncommitted. Paid is also blocked by the landing page, the advertiser category and the ads account. Not cleared for X.",
+      "statusNote": "The amendment 4 cut (laundromat, smartwatch ping, computer room, observatory), rebuilt on 2026-11-05 after the earlier cut failed its X review (ads/portal/X-COMPLIANCE.md: the strict reference-distance judge flagged the diner, office and grader worlds, and organic and promoted both failed). This cut was not reviewed: its strict judge runs were unfinished when the chat was paused, and its files were still uncommitted. Promoting it is also blocked by the landing page, the advertiser category and the ads account. Not cleared for X.",
       "madeAt": "2026-11-05",
       "kind": "video",
       "tags": [
@@ -437,7 +437,7 @@
       "location": "ads/way-out on main",
       "chat": "Coinbase loop ad 1: Your Way Out",
       "status": "final",
-      "statusNote": "Cut down in its X compliance chat to the ad's own shots and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-05, with three independent audits (ads/way-out/X-COMPLIANCE.md): organic posting passes once X's AI-content declaration is made; paid fails on the landing page and the ads account. The longer cuts are withheld for their closeness to the Coinbase reference.",
+      "statusNote": "Cut down in its X compliance chat to the ad's own shots and reviewed clause by clause against X's live Terms of Service and ads policies on 2026-11-05, with three independent audits (ads/way-out/X-COMPLIANCE.md): organic posting passes once X's AI-content declaration is made; promoted fails on the landing page and the ads account. The longer cuts are withheld for their closeness to the Coinbase reference.",
       "madeAt": "2026-11-05",
       "kind": "video",
       "tags": [
@@ -757,7 +757,7 @@
       "location": "ads/bounties/fries-to-first (bounties cut; the original cut it was made from: ads/fries-to-first on main)",
       "chat": "Ad 28: Fries to million",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -815,7 +815,7 @@
       "location": "ads/bounties/grow-up (bounties cut; the original cut it was made from: ads/grow-up on branch cosmos/c7e49a4f-30cb-49a7-9c71-bef4a581fed3/chat)",
       "chat": "Ad 27: Trader One Day (9:16)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -860,7 +860,7 @@
       "location": "ads/bounties/hardest-part (bounties cut; the original cut it was made from: ads/hardest-part on main)",
       "chat": "Ad 24: Hardest part",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -906,7 +906,7 @@
       "location": "ads/bounties/what-to-build (bounties cut; the original cut it was made from: ads/what-to-build on main)",
       "chat": "Ad 23: Hardest part (alt)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -955,52 +955,6 @@
       ]
     },
     {
-      "id": "transparency",
-      "number": 22,
-      "title": "Transparency",
-      "logline": "Stop guessing what people will pay for: on make.fun the prize, the brief and the grading are in plain view.",
-      "summary": "A 32 s vertical UGC film. An AI-generated presenter talks to camera, whips into a split with the make.fun lockup, then into the real mobile site (bounty board, command box, Prizes table, how it is graded) with the presenter in a circular picture-in-picture. It transposes the pump.fun \"Follow top traders\" UGC 7 ad beat for beat.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/transparency (bounties cut; the original cut it was made from: ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat)",
-      "chat": "Ad 22: Follow top traders (UGC 7)",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "UGC",
-        "AI talent",
-        "screen capture"
-      ],
-      "primary": "9x16",
-      "poster": "media/transparency/9x16.jpg?v=239abb38708b",
-      "variants": [
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/transparency/9x16.mp4?v=4dcbacb60e6f",
-          "poster": "media/transparency/9x16.jpg?v=239abb38708b",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 31.9,
-          "bytes": 4294372,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet",
-          "kind": "image",
-          "src": "media/transparency/extra-1.jpg?v=a1b6c7f96ef6",
-          "width": 1600,
-          "height": 948,
-          "bytes": 225406
-        }
-      ]
-    },
-    {
       "id": "two-checks",
       "number": 21,
       "title": "Two Checks",
@@ -1010,7 +964,7 @@
       "location": "ads/bounties/two-checks (bounties cut; the original cut it was made from: ads/two-checks on main)",
       "chat": "Ad 21: Check holders (UGC 3)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1070,7 +1024,7 @@
       "location": "ads/bounties/check-the-grader (bounties cut; the original cut it was made from: ads/check-the-grader on main)",
       "chat": "Ad 13: Check their losses (UGC 6)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1138,7 +1092,7 @@
       "location": "ads/bounties/switched (bounties cut; the original cut it was made from: ads/switched on main)",
       "chat": "Ad 12: Switched to Pump (maverick)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1196,7 +1150,7 @@
       "location": "ads/bounties/more-fun (bounties cut; the original cut it was made from: ads/more-fun on main)",
       "chat": "Ad 11: Switched to Pump",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1241,7 +1195,7 @@
       "location": "ads/bounties/send-your-agent (bounties cut; the original cut it was made from: ads/send-your-agent on main)",
       "chat": "Ad 10: Social media for memes",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1288,7 +1242,7 @@
       "location": "ads/bounties/never-knew (bounties cut; the original cut it was made from: ads/never-knew on main (lip-synced presenter cut, commit ac15cfa))",
       "chat": "Ad 08: Never knew how to start",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1326,64 +1280,6 @@
       ]
     },
     {
-      "id": "win-bounties",
-      "number": 7,
-      "title": "Win Bounties",
-      "logline": "Win bounties on make.fun. Enter with your agent.",
-      "summary": "A 15 s film after pump.fun's \"Trade memes\" 2:3 ad: a block caret types WIN / BOUNTIES / ON / make.fun, a stripe wipe to ENTER WITH YOUR AGENT, then a phone showing the real bounty page where one tap on Copy for your agent turns to Copied and the 1st prize row breaks out as a magenta Bounty bar.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/win-bounties (bounties cut; the original cut it was made from: ads/win-bounties on main)",
-      "chat": "Ad 07: Trade memes (2x3)",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "motion graphics",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "2x3",
-      "poster": "media/win-bounties/2x3.jpg?v=5f3abdbcad93",
-      "variants": [
-        {
-          "key": "2x3",
-          "label": "2:3",
-          "src": "media/win-bounties/2x3.mp4?v=4411a2b1d030",
-          "poster": "media/win-bounties/2x3.jpg?v=5f3abdbcad93",
-          "width": 720,
-          "height": 1080,
-          "fps": 30,
-          "duration": 15,
-          "bytes": 921748,
-          "hasAudio": true
-        },
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/win-bounties/9x16.mp4?v=b5712a36cb5b",
-          "poster": "media/win-bounties/9x16.jpg?v=e41011cf6b97",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 15,
-          "bytes": 965359,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per timeline row",
-          "kind": "image",
-          "src": "media/win-bounties/extra-1.jpg?v=cbe0278272bd",
-          "width": 1600,
-          "height": 589,
-          "bytes": 98426
-        }
-      ]
-    },
-    {
       "id": "copy-make-submit-win",
       "number": 6,
       "title": "Copy, Make, Submit, Win",
@@ -1393,7 +1289,7 @@
       "location": "ads/bounties/copy-make-submit-win (bounties cut; the original cut it was made from: ads/copy-make-submit-win on branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat)",
       "chat": "Ad 06: One big win",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1439,7 +1335,7 @@
       "location": "ads/bounties/one-big-win (bounties cut; the original cut it was made from: ads/one-big-win on main; newest cut from unmerged branch cosmos/94c5b3a6-09e9-4959-892e-bcb54c983600/chat (commit 78db563, phone card and board re-captured from production))",
       "chat": "Ad 06: One big win",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1485,7 +1381,7 @@
       "location": "ads/bounties/group-chat (bounties cut; the original cut it was made from: ads/group-chat on branch cosmos/6bc315ea-5d4a-4918-84d0-efe349815bed/chat)",
       "chat": "Ad 05: Group chat early coins",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1532,7 +1428,7 @@
       "location": "ads/bounties/get-it-together (bounties cut; the original cut it was made from: ads/get-it-together on main)",
       "chat": "Ad 04: Get It Together (3D)",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1577,7 +1473,7 @@
       "location": "ads/bounties/derby (bounties cut; the original cut it was made from: ads/derby on main; newest cut from unmerged branch cosmos/f93d7e99-2593-4a3b-a624-0a225e65530a/chat (commit 365847e, HUD row clip fix))",
       "chat": "Ad 03: Scared money",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1622,7 +1518,7 @@
       "location": "ads/bounties/vows (bounties cut; the original cut it was made from: ads/vows on main)",
       "chat": "Ad 02: Married to the game",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1679,7 +1575,7 @@
       "location": "ads/bounties/vibes (bounties cut; the original cut it was made from: ads/vibes on main)",
       "chat": "Ad 01: Grandma can trade memes",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1724,7 +1620,7 @@
       "location": "ads/bounties/climb (bounties cut; the original cut it was made from: ads/climb on main)",
       "chat": "Pump.fun-style escalating winnings ad for make.fun",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1761,7 +1657,7 @@
       "location": "ads/bounties/film-agent (bounties cut; the original cut it was made from: film-agent/ on main (renders in out/))",
       "chat": "Animated bounty submission ad for make.fun",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1802,56 +1698,6 @@
       "extras": []
     },
     {
-      "id": "film-entry",
-      "number": null,
-      "title": "Entry Submission",
-      "logline": "The entrant fills in and submits an entry to a make.fun bounty, shown in the real interface.",
-      "summary": "A 30 s 16:9 film at 60 fps built from DOM plates captured from the make.fun entry-submission flow. It was replaced by the \"Enter With Your Agent\" film, which drops the manual form.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/film-entry (bounties cut; the original cut it was made from: film-entry/ on main (renders in out/))",
-      "chat": "Animated bounty submission ad for make.fun",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "motion graphics",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "16x9",
-      "poster": "media/film-entry/16x9.jpg?v=5b54acdbccdf",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/film-entry/16x9.mp4?v=12972f9261fc",
-          "poster": "media/film-entry/16x9.jpg?v=5b54acdbccdf",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 30,
-          "bytes": 3539904,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [
-        {
-          "key": "share-30fps",
-          "label": "30 fps share cut",
-          "src": "media/film-entry/alt-share-30fps.mp4?v=1eb3b54b72fa",
-          "poster": "media/film-entry/alt-share-30fps.jpg?v=ea1e93bda80d",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 30,
-          "bytes": 3606376,
-          "hasAudio": true
-        }
-      ],
-      "extras": []
-    },
-    {
       "id": "first-place",
       "number": null,
       "title": "First Place",
@@ -1861,7 +1707,7 @@
       "location": "ads/bounties/first-place (bounties cut; the original cut it was made from: ads/first-place on main (film files under ads/first-place/out))",
       "chat": "Pump.fun-style ad for make.fun",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -1970,101 +1816,6 @@
       ]
     },
     {
-      "id": "one-line",
-      "number": null,
-      "title": "One Line",
-      "logline": "You press one button, the entry is graded in a sandbox, and you win bounties.",
-      "summary": "A 6 s code-rendered film with no cuts: one container travels from the bounty card and its \"Copy for your agent\" button through the stage rail to the coin in the ghost's hand of the real logo, with \"Bounties\" on the prize beat. Delivered as a 9:16 master and a 16:9 re-layout.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/one-line (bounties cut; the original cut it was made from: ads/one-line on main (files under ads/one-line/out))",
-      "chat": "Short video ad for make.fun bounties",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "motion graphics",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "9x16",
-      "poster": "media/one-line/9x16.jpg?v=ee0a3eae6f34",
-      "variants": [
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/one-line/9x16.mp4?v=7e1f739cbd8f",
-          "poster": "media/one-line/9x16.jpg?v=ee0a3eae6f34",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 6,
-          "bytes": 561613,
-          "hasAudio": true
-        },
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/one-line/16x9.mp4?v=1baa3b48cfd9",
-          "poster": "media/one-line/16x9.jpg?v=a0fc7832243c",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 6,
-          "bytes": 451456,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet",
-          "kind": "image",
-          "src": "media/one-line/extra-1.jpg?v=269aa28934cc",
-          "width": 1600,
-          "height": 948,
-          "bytes": 162713
-        }
-      ]
-    },
-    {
-      "id": "payday",
-      "number": null,
-      "title": "Bounty Day",
-      "logline": "Build it. Win bounties.",
-      "summary": "A 20.5 s vertical film of one submission and one win, built from captured fragments of the real make.fun mobile pages. Screens only scroll vertically, with no zoom, side crop or blur; every figure reads Bounty or Bounties.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/payday (bounties cut; the original cut it was made from: ads/payday on main)",
-      "chat": "Make.fun bounty submission ad video",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "motion graphics",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "9x16",
-      "poster": "media/payday/9x16.jpg?v=a05069886014",
-      "variants": [
-        {
-          "key": "9x16",
-          "label": "9:16",
-          "src": "media/payday/9x16.mp4?v=bdb2b356e5b2",
-          "poster": "media/payday/9x16.jpg?v=a05069886014",
-          "width": 720,
-          "height": 1280,
-          "fps": 30,
-          "duration": 20.5,
-          "bytes": 1003777,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": []
-    },
-    {
       "id": "prize-pool",
       "number": null,
       "title": "Prize Pool",
@@ -2074,7 +1825,7 @@
       "location": "ads/bounties/prize-pool (bounties cut; the original cut it was made from: ads/prize-pool on main)",
       "chat": "Pump.fun-style promo ad for make.fun",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "static",
       "tags": [
@@ -2145,7 +1896,7 @@
       "location": "ads/bounties/showdown (bounties cut; the original cut it was made from: ads/showdown on main)",
       "chat": "Pump.fun-style video ad for make.fun",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-03",
       "kind": "video",
       "tags": [
@@ -2181,51 +1932,6 @@
       ]
     },
     {
-      "id": "the-house",
-      "number": null,
-      "title": "The House",
-      "logline": "The house always wins, until a make.fun bounty where the best build wins.",
-      "summary": "A 32.7 s 3D-animated casino comedy in the pattern of the pump.fun \"grandma\" ad: a grandma at a rigged slot machine, a kid who tells her the house always wins, and the turn to make.fun, where the best build takes the prize. On the app screens the brief's figure reads Bounty and the ranking says \"On track to win bounties\".",
-      "project": "make.fun auto",
-      "location": "ads/bounties/the-house (bounties cut; the original cut it was made from: ads/the-house on main)",
-      "chat": "Pump.fun-style ad for make.fun",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-03",
-      "kind": "video",
-      "tags": [
-        "AI talent",
-        "screen capture"
-      ],
-      "primary": "1x1",
-      "poster": "media/the-house/1x1.jpg?v=ede528bdf0e3",
-      "variants": [
-        {
-          "key": "1x1",
-          "label": "1:1",
-          "src": "media/the-house/1x1.mp4?v=0933d2f6ec20",
-          "poster": "media/the-house/1x1.jpg?v=ede528bdf0e3",
-          "width": 720,
-          "height": 720,
-          "fps": 24,
-          "duration": 32.67,
-          "bytes": 3729717,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet, one frame per shot",
-          "kind": "image",
-          "src": "media/the-house/extra-1.jpg?v=719659838b05",
-          "width": 1600,
-          "height": 1279,
-          "bytes": 451939
-        }
-      ]
-    },
-    {
       "id": "bounties-launch",
       "number": null,
       "title": "Bounties Launch: One Line",
@@ -2235,7 +1941,7 @@
       "location": "ads/bounties/bounties-launch (bounties cut; the original cut it was made from: ads/video, ads/static, ads/brief.md and ads/README.md on main (built by ads/src))",
       "chat": "make.fun ad: build the creative",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "video",
       "tags": [
@@ -2389,62 +2095,6 @@
       ]
     },
     {
-      "id": "film-create-bounty",
-      "number": null,
-      "title": "Create a Bounty",
-      "logline": "From a blank question to a funded bounty that AI agents compete for, in one smooth take through make.fun's real interface.",
-      "summary": "A 30 s 16:9 film at 60 fps: a tilted bounty board and a hook question, then one continuous take through the create-a-bounty wizard (idea, title, prizes, review), sign-in and funding, ending as the new bounty drops into the board. Every figure reads Bounty or Bounties. Every change is caused by the cursor, and the cut lands on a 124 bpm score.",
-      "project": "make.fun auto",
-      "location": "ads/bounties/film-create-bounty (bounties cut; the original cut it was made from: film/ on main (renders in out/))",
-      "chat": "Animated bounty submission ad for make.fun",
-      "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
-      "madeAt": "2026-11-02",
-      "kind": "video",
-      "tags": [
-        "motion graphics",
-        "screen capture",
-        "product demo"
-      ],
-      "primary": "16x9",
-      "poster": "media/film-create-bounty/16x9.jpg?v=df120f923c5d",
-      "variants": [
-        {
-          "key": "16x9",
-          "label": "16:9",
-          "src": "media/film-create-bounty/16x9.mp4?v=04c4292c3b73",
-          "poster": "media/film-create-bounty/16x9.jpg?v=df120f923c5d",
-          "width": 1280,
-          "height": 720,
-          "fps": 30,
-          "duration": 30,
-          "bytes": 2825007,
-          "hasAudio": true
-        }
-      ],
-      "alternates": [],
-      "extras": [
-        {
-          "label": "Contact sheet",
-          "kind": "image",
-          "src": "media/film-create-bounty/extra-1.jpg?v=007eadc9457d",
-          "width": 1600,
-          "height": 750,
-          "bytes": 134315
-        },
-        {
-          "label": "30 fps share cut",
-          "kind": "video",
-          "src": "media/film-create-bounty/extra-2.mp4?v=24f7af1eaea9",
-          "poster": "media/film-create-bounty/extra-2.jpg?v=d265d9d35c35",
-          "width": 1280,
-          "height": 720,
-          "bytes": 2837355,
-          "duration": 30.07
-        }
-      ]
-    },
-    {
       "id": "ghostwriter",
       "number": null,
       "title": "Ghostwriter",
@@ -2454,7 +2104,7 @@
       "location": "ads/bounties/ghostwriter (bounties cut; the original cut it was made from: ads/ghostwriter on main; the rendered MP4s were removed from main and are pinned to commit 19b13c7 (Kling clips swapped in); edit/build.sh rebuilds them)",
       "chat": "Make.fun ad using keychain API services",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "video",
       "tags": [
@@ -2503,7 +2153,7 @@
       "location": "ads/bounties/lineup (bounties cut; the original cut it was made from: ads/lineup on main (files under ads/lineup/out))",
       "chat": "make.fun ad: The Lineup",
       "status": "final",
-      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and every line about payment now names bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
       "madeAt": "2026-11-02",
       "kind": "static",
       "tags": [
@@ -2756,9 +2406,44 @@
       "reason": "The user had it removed on 2026-11-05; never list it."
     },
     {
+      "what": "one-line (bounties cut, held)",
+      "where": "ads/bounties/one-line; the original cut is ads/one-line on main (files under ads/one-line/out)",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
       "what": "part-time-job (bounties cut in progress)",
       "where": "ads/bounties/part-time-job (not built yet); the original cut is ads/part-time-job on main",
       "reason": "Its original cut shows a prize figure and its bounties cut is not finished, so it is held off the page."
+    },
+    {
+      "what": "payday (bounties cut, held)",
+      "where": "ads/bounties/payday; the original cut is ads/payday on main",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
+      "what": "the-house (bounties cut, held)",
+      "where": "ads/bounties/the-house; the original cut is ads/the-house on main",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
+      "what": "win-bounties (bounties cut, held)",
+      "where": "ads/bounties/win-bounties; the original cut is ads/win-bounties on main",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
+      "what": "film-create-bounty (bounties cut, held)",
+      "where": "ads/bounties/film-create-bounty; the original cut is film/ on main (renders in out/)",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
+      "what": "film-entry (bounties cut, held)",
+      "where": "ads/bounties/film-entry; the original cut is film-entry/ on main (renders in out/)",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
+    },
+    {
+      "what": "transparency (bounties cut, held)",
+      "where": "ads/bounties/transparency; the original cut is ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat",
+      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
     },
     {
       "what": "bounties-feed-scroll (bounties cut in progress)",
@@ -2779,7 +2464,7 @@
   "reddit": {
     "audit": "docs/reddit-ads-audit.md",
     "auditedAt": "2026-11-05",
-    "blockers": "No ad can run on Reddit until make.fun's ads account has Reddit Sales pre-approval as a gambling advertiser and its landing page has official rules and no coin, Trading or USDC content.",
+    "blockers": "No ad can run on Reddit until make.fun's ads account has Reddit Sales pre-approval as a gambling advertiser and its landing page has official rules and no coin, Trading or crypto content.",
     "ref": "35db6d3"
   }
 }
