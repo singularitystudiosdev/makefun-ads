@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-07T17:35:04.085Z",
+  "generatedAt": "2026-11-07T17:58:03.924Z",
   "totals": {
-    "ads": 36,
-    "final": 29,
+    "ads": 43,
+    "final": 36,
     "unfinished": 7,
-    "clips": 66,
-    "seconds": 1637.23,
-    "bytes": 178124635
+    "clips": 77,
+    "seconds": 1884.37,
+    "bytes": 203921115
   },
   "ads": [
     {
@@ -955,6 +955,52 @@
       ]
     },
     {
+      "id": "transparency",
+      "number": 22,
+      "title": "Transparency",
+      "logline": "Stop guessing what people want built: on make.fun the prize, the brief and the grading are in plain view.",
+      "summary": "A 32 s vertical UGC film. An AI-generated presenter talks to camera, whips into a split with the make.fun lockup, then into the real mobile site (bounty board, command box, Prizes table, how it is graded) with the presenter in a circular picture-in-picture. It transposes the pump.fun \"Follow top traders\" UGC 7 ad beat for beat.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/transparency (bounties cut; the original cut it was made from: ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat)",
+      "chat": "Ad 22: Follow top traders (UGC 7)",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "UGC",
+        "AI talent",
+        "screen capture"
+      ],
+      "primary": "9x16",
+      "poster": "media/transparency/9x16.jpg?v=ed85ba31b6f7",
+      "variants": [
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/transparency/9x16.mp4?v=8e6d70e51db5",
+          "poster": "media/transparency/9x16.jpg?v=ed85ba31b6f7",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 31.9,
+          "bytes": 4308616,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/transparency/extra-1.jpg?v=081124487db4",
+          "width": 1600,
+          "height": 948,
+          "bytes": 225562
+        }
+      ]
+    },
+    {
       "id": "two-checks",
       "number": 21,
       "title": "Two Checks",
@@ -1276,6 +1322,64 @@
           "width": 1600,
           "height": 1533,
           "bytes": 401616
+        }
+      ]
+    },
+    {
+      "id": "win-bounties",
+      "number": 7,
+      "title": "Win Bounties",
+      "logline": "Win bounties on make.fun. Enter with your agent.",
+      "summary": "A 15 s film after pump.fun's \"Trade memes\" 2:3 ad: a block caret types WIN / BOUNTIES / ON / make.fun, a stripe wipe to ENTER WITH YOUR AGENT, then a phone showing the real bounty page where one tap on Copy for your agent turns to Copied and the 1st prize row breaks out as a magenta Bounty bar.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/win-bounties (bounties cut; the original cut it was made from: ads/win-bounties on main)",
+      "chat": "Ad 07: Trade memes (2x3)",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "2x3",
+      "poster": "media/win-bounties/2x3.jpg?v=2e68bccbff79",
+      "variants": [
+        {
+          "key": "2x3",
+          "label": "2:3",
+          "src": "media/win-bounties/2x3.mp4?v=826a06f64bd8",
+          "poster": "media/win-bounties/2x3.jpg?v=2e68bccbff79",
+          "width": 720,
+          "height": 1080,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 920472,
+          "hasAudio": true
+        },
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/win-bounties/9x16.mp4?v=d43c4fe4b497",
+          "poster": "media/win-bounties/9x16.jpg?v=b818fbc97056",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 15,
+          "bytes": 963349,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per timeline row",
+          "kind": "image",
+          "src": "media/win-bounties/extra-1.jpg?v=77bd00ec621e",
+          "width": 1600,
+          "height": 589,
+          "bytes": 99873
         }
       ]
     },
@@ -1698,6 +1802,56 @@
       "extras": []
     },
     {
+      "id": "film-entry",
+      "number": null,
+      "title": "Entry Submission",
+      "logline": "The entrant fills in and submits an entry to a make.fun bounty, shown in the real interface.",
+      "summary": "A 30 s 16:9 film at 60 fps built from DOM plates captured from the make.fun entry-submission flow. It was replaced by the \"Enter With Your Agent\" film, which drops the manual form.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/film-entry (bounties cut; the original cut it was made from: film-entry/ on main (renders in out/))",
+      "chat": "Animated bounty submission ad for make.fun",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/film-entry/16x9.jpg?v=f51c56f1ecd7",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-entry/16x9.mp4?v=87a50012fa2f",
+          "poster": "media/film-entry/16x9.jpg?v=f51c56f1ecd7",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 3542101,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [
+        {
+          "key": "share-30fps",
+          "label": "30 fps share cut",
+          "src": "media/film-entry/alt-share-30fps.mp4?v=e7a3682646da",
+          "poster": "media/film-entry/alt-share-30fps.jpg?v=c46c232ee36d",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 3553984,
+          "hasAudio": true
+        }
+      ],
+      "extras": []
+    },
+    {
       "id": "first-place",
       "number": null,
       "title": "First Place",
@@ -1816,6 +1970,101 @@
       ]
     },
     {
+      "id": "one-line",
+      "number": null,
+      "title": "One Line",
+      "logline": "You press one button, the entry is graded in a sandbox, and you win bounties.",
+      "summary": "A 6 s code-rendered film with no cuts: one container travels from the bounty card and its \"Copy for your agent\" button through the stage rail to the coin in the ghost's hand of the real logo, with \"Bounties\" on the prize beat. Delivered as a 9:16 master and a 16:9 re-layout.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/one-line (bounties cut; the original cut it was made from: ads/one-line on main (files under ads/one-line/out))",
+      "chat": "Short video ad for make.fun bounties",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "9x16",
+      "poster": "media/one-line/9x16.jpg?v=dd762fb9ffea",
+      "variants": [
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/one-line/9x16.mp4?v=98a839fa09d1",
+          "poster": "media/one-line/9x16.jpg?v=dd762fb9ffea",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 6,
+          "bytes": 565788,
+          "hasAudio": true
+        },
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/one-line/16x9.mp4?v=e6066f568bf8",
+          "poster": "media/one-line/16x9.jpg?v=0bfd235bbfa8",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 6,
+          "bytes": 450231,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/one-line/extra-1.jpg?v=ed60df495fe3",
+          "width": 1600,
+          "height": 948,
+          "bytes": 162499
+        }
+      ]
+    },
+    {
+      "id": "payday",
+      "number": null,
+      "title": "Bounty Day",
+      "logline": "Build it. Win bounties.",
+      "summary": "A 20.5 s vertical film of one submission and one win, built from captured fragments of the real make.fun mobile pages. Screens only scroll vertically, with no zoom, side crop or blur; every figure reads Bounty or Bounties.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/payday (bounties cut; the original cut it was made from: ads/payday on main)",
+      "chat": "Make.fun bounty submission ad video",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "9x16",
+      "poster": "media/payday/9x16.jpg?v=d3beabd6c031",
+      "variants": [
+        {
+          "key": "9x16",
+          "label": "9:16",
+          "src": "media/payday/9x16.mp4?v=b9deda95fbca",
+          "poster": "media/payday/9x16.jpg?v=d3beabd6c031",
+          "width": 720,
+          "height": 1280,
+          "fps": 30,
+          "duration": 20.5,
+          "bytes": 992204,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": []
+    },
+    {
       "id": "prize-pool",
       "number": null,
       "title": "Prize Pool",
@@ -1928,6 +2177,51 @@
           "width": 1599,
           "height": 1167,
           "bytes": 231802
+        }
+      ]
+    },
+    {
+      "id": "the-house",
+      "number": null,
+      "title": "The House",
+      "logline": "The house always wins, until a make.fun bounty where the best build wins.",
+      "summary": "A 32.7 s 3D-animated casino comedy in the pattern of the pump.fun \"grandma\" ad: a grandma at a rigged slot machine, a kid who tells her the house always wins, and the turn to make.fun, where the best build takes the prize. On the app screens the brief's figure reads Bounty and the ranking says \"On track to win bounties\".",
+      "project": "make.fun auto",
+      "location": "ads/bounties/the-house (bounties cut; the original cut it was made from: ads/the-house on main)",
+      "chat": "Pump.fun-style ad for make.fun",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-03",
+      "kind": "video",
+      "tags": [
+        "AI talent",
+        "screen capture"
+      ],
+      "primary": "1x1",
+      "poster": "media/the-house/1x1.jpg?v=1785d2bec85b",
+      "variants": [
+        {
+          "key": "1x1",
+          "label": "1:1",
+          "src": "media/the-house/1x1.mp4?v=1058e18772db",
+          "poster": "media/the-house/1x1.jpg?v=1785d2bec85b",
+          "width": 720,
+          "height": 720,
+          "fps": 24,
+          "duration": 32.67,
+          "bytes": 3735156,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet, one frame per shot",
+          "kind": "image",
+          "src": "media/the-house/extra-1.jpg?v=37a0f14c0332",
+          "width": 1600,
+          "height": 1279,
+          "bytes": 452590
         }
       ]
     },
@@ -2091,6 +2385,62 @@
           "width": 1600,
           "height": 900,
           "bytes": 99793
+        }
+      ]
+    },
+    {
+      "id": "film-create-bounty",
+      "number": null,
+      "title": "Create a Bounty",
+      "logline": "From a blank question to a funded bounty that AI agents compete for, in one smooth take through make.fun's real interface.",
+      "summary": "A 30 s 16:9 film at 60 fps: a tilted bounty board and a hook question, then one continuous take through the create-a-bounty wizard (idea, title, prizes, review), sign-in and funding, ending as the new bounty drops into the board. Every figure reads Bounty or Bounties. Every change is caused by the cursor, and the cut lands on a 124 bpm score.",
+      "project": "make.fun auto",
+      "location": "ads/bounties/film-create-bounty (bounties cut; the original cut it was made from: film/ on main (renders in out/))",
+      "chat": "Animated bounty submission ad for make.fun",
+      "status": "final",
+      "statusNote": "Bounties cut (2026-11-06): every prize figure the original showed or said now reads \"bounties\", and the prize is only ever called bounties or prizes; nothing else changed. The original cut stays in the repo.",
+      "madeAt": "2026-11-02",
+      "kind": "video",
+      "tags": [
+        "motion graphics",
+        "screen capture",
+        "product demo"
+      ],
+      "primary": "16x9",
+      "poster": "media/film-create-bounty/16x9.jpg?v=f82927cf369a",
+      "variants": [
+        {
+          "key": "16x9",
+          "label": "16:9",
+          "src": "media/film-create-bounty/16x9.mp4?v=d09e123d595f",
+          "poster": "media/film-create-bounty/16x9.jpg?v=f82927cf369a",
+          "width": 1280,
+          "height": 720,
+          "fps": 30,
+          "duration": 30,
+          "bytes": 2834295,
+          "hasAudio": true
+        }
+      ],
+      "alternates": [],
+      "extras": [
+        {
+          "label": "Contact sheet",
+          "kind": "image",
+          "src": "media/film-create-bounty/extra-1.jpg?v=8cba2f818c02",
+          "width": 1600,
+          "height": 750,
+          "bytes": 132919
+        },
+        {
+          "label": "30 fps share cut",
+          "kind": "video",
+          "src": "media/film-create-bounty/extra-2.mp4?v=2301a555a658",
+          "poster": "media/film-create-bounty/extra-2.jpg?v=015ec231eb9c",
+          "width": 1280,
+          "height": 720,
+          "bytes": 2856841,
+          "duration": 30.07
         }
       ]
     },
@@ -2406,44 +2756,9 @@
       "reason": "The user had it removed on 2026-11-05; never list it."
     },
     {
-      "what": "one-line (bounties cut, held)",
-      "where": "ads/bounties/one-line; the original cut is ads/one-line on main (files under ads/one-line/out)",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
       "what": "part-time-job (bounties cut in progress)",
       "where": "ads/bounties/part-time-job (not built yet); the original cut is ads/part-time-job on main",
       "reason": "Its original cut shows a prize figure and its bounties cut is not finished, so it is held off the page."
-    },
-    {
-      "what": "payday (bounties cut, held)",
-      "where": "ads/bounties/payday; the original cut is ads/payday on main",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
-      "what": "the-house (bounties cut, held)",
-      "where": "ads/bounties/the-house; the original cut is ads/the-house on main",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
-      "what": "win-bounties (bounties cut, held)",
-      "where": "ads/bounties/win-bounties; the original cut is ads/win-bounties on main",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
-      "what": "film-create-bounty (bounties cut, held)",
-      "where": "ads/bounties/film-create-bounty; the original cut is film/ on main (renders in out/)",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
-      "what": "film-entry (bounties cut, held)",
-      "where": "ads/bounties/film-entry; the original cut is film-entry/ on main (renders in out/)",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
-    },
-    {
-      "what": "transparency (bounties cut, held)",
-      "where": "ads/bounties/transparency; the original cut is ads/transparency on main (film), poster and contact sheet from branch cosmos/8e6311dc-915a-4b63-908e-8afe2ec6915f/chat",
-      "reason": "Its bounties cut still has a line that should only speak of prizes, and its remake is in progress, so it is held off the page."
     },
     {
       "what": "bounties-feed-scroll (bounties cut in progress)",
